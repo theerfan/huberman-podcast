@@ -1,0 +1,8414 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.380 --> 00:00:01.930
+- Welcome to the Huberman Lab Podcast,
+
+00:00:01.930 --> 00:00:03.700
+where we discuss science
+
+00:00:03.700 --> 00:00:05.822
+and science-based tools for everyday life.
+
+00:00:05.822 --> 00:00:08.405
+[gentle music]
+
+00:00:09.530 --> 00:00:10.670
+I'm Andrew Huberman,
+
+00:00:10.670 --> 00:00:13.770
+and I'm a professor of
+Neurobiology and Ophthalmology
+
+00:00:13.770 --> 00:00:15.800
+at Stanford School of Medicine.
+
+00:00:15.800 --> 00:00:16.980
+This podcast is separate
+
+00:00:16.980 --> 00:00:19.410
+from my teaching and
+research roles at Stanford.
+
+00:00:19.410 --> 00:00:21.450
+It is however, part of
+my desire and effort
+
+00:00:21.450 --> 00:00:24.330
+to bring zero cost to consumer
+information about science
+
+00:00:24.330 --> 00:00:27.390
+and science-related tools
+to the general public.
+
+00:00:27.390 --> 00:00:28.580
+In keeping with that theme,
+
+00:00:28.580 --> 00:00:31.520
+I'd like to thank the
+sponsors of today's podcast.
+
+00:00:31.520 --> 00:00:33.900
+Our first sponsor is InsideTracker.
+
+00:00:34.860 --> 00:00:37.220
+InsideTracker is a
+personalized nutrition platform
+
+00:00:37.220 --> 00:00:39.530
+that analyzes data from your blood and DNA
+
+00:00:39.530 --> 00:00:41.300
+to help you better understand your body
+
+00:00:41.300 --> 00:00:43.730
+and help you reach your health goals.
+
+00:00:43.730 --> 00:00:45.897
+I've long been a fan of
+getting blood work done.
+
+00:00:45.897 --> 00:00:47.800
+And the simple reason for that,
+
+00:00:47.800 --> 00:00:50.010
+is that most of the things
+that you want to know
+
+00:00:50.010 --> 00:00:53.740
+about your health, such as
+hormones, metabolic factors,
+
+00:00:53.740 --> 00:00:55.520
+blood sugar levels, et cetera,
+
+00:00:55.520 --> 00:00:57.940
+can only be analyzed from blood.
+
+00:00:57.940 --> 00:01:00.380
+And nowadays there are
+also excellent DNA tests
+
+00:01:00.380 --> 00:01:02.570
+that can also give you
+valuable information
+
+00:01:02.570 --> 00:01:05.210
+about what's going on at
+the cellar, molecular,
+
+00:01:05.210 --> 00:01:08.800
+even the neural circuit level
+within your brain and body.
+
+00:01:08.800 --> 00:01:11.970
+InsideTracker makes getting
+blood and DNA tests easy.
+
+00:01:11.970 --> 00:01:14.900
+You can go to a testing site
+where they draw your blood,
+
+00:01:14.900 --> 00:01:16.100
+they take your DNA sample,
+
+00:01:16.100 --> 00:01:18.680
+or they can come to your
+home if you prefer that.
+
+00:01:18.680 --> 00:01:20.960
+As well, they have a
+really amazing dashboard.
+
+00:01:20.960 --> 00:01:23.410
+The dashboard lets you understand
+
+00:01:23.410 --> 00:01:25.480
+what your levels of various hormones
+
+00:01:25.480 --> 00:01:27.350
+and metabolic factors et cetera mean,
+
+00:01:27.350 --> 00:01:28.707
+and what you should do about them.
+
+00:01:28.707 --> 00:01:30.520
+And I think that's one of the main things
+
+00:01:30.520 --> 00:01:32.450
+that really separates InsideTracker
+
+00:01:32.450 --> 00:01:34.580
+apart from other blood and DNA tests.
+
+00:01:34.580 --> 00:01:36.940
+Most tests you get the results back,
+
+00:01:36.940 --> 00:01:39.190
+but there are no directives
+about what to do specifically
+
+00:01:39.190 --> 00:01:41.270
+in order to bring the
+numbers into the ranges
+
+00:01:41.270 --> 00:01:42.920
+that you would like for your goals.
+
+00:01:42.920 --> 00:01:46.070
+InsideTracker makes all
+of that extremely simple
+
+00:01:46.070 --> 00:01:47.830
+and extremely clear.
+
+00:01:47.830 --> 00:01:49.330
+If you'd like to try InsideTracker,
+
+00:01:49.330 --> 00:01:52.370
+you can go to insidetracker.com/huberman,
+
+00:01:52.370 --> 00:01:54.530
+and if you do that, you'll get 25% off
+
+00:01:54.530 --> 00:01:56.500
+any of InsideTrackers plans.
+
+00:01:56.500 --> 00:01:58.680
+Use the code Huberman at checkout.
+
+00:01:58.680 --> 00:02:02.740
+That's insidetracker.com/huberman
+to get 25% off
+
+00:02:02.740 --> 00:02:04.800
+any of InsideTrackers plans.
+
+00:02:04.800 --> 00:02:08.010
+Today's episode is also brought
+to us by Athletic Greens.
+
+00:02:08.010 --> 00:02:09.650
+Athletic Greens is an all-in-one
+
+00:02:09.650 --> 00:02:12.070
+vitamin, mineral probiotic drink.
+
+00:02:12.070 --> 00:02:14.960
+I started taking Athletic
+Greens back in 2012
+
+00:02:14.960 --> 00:02:16.110
+and I've taken it ever since.
+
+00:02:16.110 --> 00:02:18.630
+So I'm delighted that they're
+sponsoring the podcast.
+
+00:02:18.630 --> 00:02:20.640
+The reason I started
+taking Athletic Greens
+
+00:02:20.640 --> 00:02:22.410
+and the reason I still take it now,
+
+00:02:22.410 --> 00:02:23.530
+is that Athletic Greens
+
+00:02:23.530 --> 00:02:25.720
+really lets me cover
+all my nutritional basis
+
+00:02:25.720 --> 00:02:28.040
+in terms of vitamins,
+minerals and probiotics.
+
+00:02:28.040 --> 00:02:29.280
+There's so much data now
+
+00:02:29.280 --> 00:02:31.510
+pointing to the fact
+that the gut microbiome
+
+00:02:31.510 --> 00:02:34.340
+and the gut brain axis is
+important for metabolism
+
+00:02:34.340 --> 00:02:35.960
+and for endocrine health.
+
+00:02:35.960 --> 00:02:39.270
+The vitamins, minerals and
+probiotics in Athletic Greens
+
+00:02:39.270 --> 00:02:42.120
+make me feel confident that
+I'm covering all my bases.
+
+00:02:42.120 --> 00:02:44.250
+I do take other supplements,
+but with Athletic Greens
+
+00:02:44.250 --> 00:02:47.420
+I know that I've got all the
+foundational stuff handled.
+
+00:02:47.420 --> 00:02:48.940
+It also tastes really good.
+
+00:02:48.940 --> 00:02:50.090
+Tastes fine on its own,
+
+00:02:50.090 --> 00:02:51.700
+you can mix it with
+water, which is what I do.
+
+00:02:51.700 --> 00:02:53.493
+I add a little bit of
+lemon juice or lime juice,
+
+00:02:53.493 --> 00:02:56.660
+because I like a little tartness
+flavor in there as well,
+
+00:02:56.660 --> 00:02:58.750
+but most people just mix it with water,
+
+00:02:58.750 --> 00:03:00.210
+it mixes up super easily.
+
+00:03:00.210 --> 00:03:01.660
+I drink it once or twice a day.
+
+00:03:01.660 --> 00:03:05.010
+Usually once mid morning, and
+once again in the afternoon.
+
+00:03:05.010 --> 00:03:06.570
+If you'd like to try Athletic Greens,
+
+00:03:06.570 --> 00:03:09.850
+you can go to athleticgreens.com/huberman.
+
+00:03:09.850 --> 00:03:12.430
+And if you do that, you can
+claim their special offer
+
+00:03:12.430 --> 00:03:15.960
+which is a year supply of vitamin D3K2.
+
+00:03:15.960 --> 00:03:18.210
+There is now a ton of
+evidence that vitamin D3
+
+00:03:18.210 --> 00:03:22.140
+is involved in countless
+metabolic processes,
+
+00:03:22.140 --> 00:03:23.770
+hormonal processes that are important
+
+00:03:23.770 --> 00:03:26.060
+for overall health and wellbeing.
+
+00:03:26.060 --> 00:03:28.060
+Vitamin D3, you can get
+from the sun of course,
+
+00:03:28.060 --> 00:03:31.050
+but most people are
+deficient in vitamin D3.
+
+00:03:31.050 --> 00:03:33.890
+So if you go to
+athleticgreens.com/huberman
+
+00:03:33.890 --> 00:03:35.120
+you'll get the Athletic Greens,
+
+00:03:35.120 --> 00:03:37.760
+you'll get the year's
+supply of vitamin D3 and K2
+
+00:03:37.760 --> 00:03:40.370
+and you'll get five free travel packs.
+
+00:03:40.370 --> 00:03:43.280
+So once again it's
+athleticgreens.com/huberman,
+
+00:03:43.280 --> 00:03:45.517
+to get Athletic Greens, the vitamin D3K2,
+
+00:03:45.517 --> 00:03:49.490
+and that's a year supply plus
+the five free travel packs.
+
+00:03:49.490 --> 00:03:52.840
+Today's episode is also
+brought to us by Munk Pack.
+
+00:03:52.840 --> 00:03:55.520
+Munk Pack is a company that
+makes keto-friendly snacks
+
+00:03:55.520 --> 00:03:56.900
+that taste incredible
+
+00:03:56.900 --> 00:03:59.170
+but have just one gram of sugar or less.
+
+00:03:59.170 --> 00:04:01.140
+And indeed they taste incredible.
+
+00:04:01.140 --> 00:04:03.970
+In fact, my production team
+here at the Huberman Lab Podcast
+
+00:04:03.970 --> 00:04:06.390
+teases me because I actually
+have to keep the boxes
+
+00:04:06.390 --> 00:04:08.250
+of Munk Pack bars in my basement
+
+00:04:08.250 --> 00:04:10.420
+'cause otherwise I'll
+tear through all of them.
+
+00:04:10.420 --> 00:04:11.697
+I remember the first time
+I tasted it, I was like,
+
+00:04:11.697 --> 00:04:13.290
+all right, here we go, a keto bar.
+
+00:04:13.290 --> 00:04:15.070
+I'm not a big fan of bars in general,
+
+00:04:15.070 --> 00:04:16.430
+most of them don't taste good to me.
+
+00:04:16.430 --> 00:04:18.210
+And I tasted the Munk Pack bars,
+
+00:04:18.210 --> 00:04:20.050
+and they are absolutely awesome.
+
+00:04:20.050 --> 00:04:21.800
+They come in a lot of different flavors.
+
+00:04:21.800 --> 00:04:23.910
+I'm partial to the caramel sea salt one,
+
+00:04:23.910 --> 00:04:26.490
+but they also have sea
+salt dark chocolate,
+
+00:04:26.490 --> 00:04:27.610
+peanut butter dark chocolate.
+
+00:04:27.610 --> 00:04:28.890
+They have a bunch of flavors.
+
+00:04:28.890 --> 00:04:30.890
+They're all incredible,
+I've tried them all.
+
+00:04:30.890 --> 00:04:33.120
+Which is why I keep them in my basement.
+
+00:04:33.120 --> 00:04:35.520
+As I mentioned previously on this podcast,
+
+00:04:35.520 --> 00:04:37.620
+I'm neither keto nor carbo.
+
+00:04:37.620 --> 00:04:40.110
+I don't really follow a
+particular diet in that sense.
+
+00:04:40.110 --> 00:04:42.760
+I eat in a way that maximizes my alertness
+
+00:04:42.760 --> 00:04:45.510
+and my levels of focus during
+the day when I want to work,
+
+00:04:45.510 --> 00:04:48.670
+and that maximize my
+transition to sleep at night.
+
+00:04:48.670 --> 00:04:52.470
+So, I basically eat low carb
+keto-ish during the day.
+
+00:04:52.470 --> 00:04:55.090
+And I know the ketonistas will
+say that I'm not in ketosis
+
+00:04:55.090 --> 00:04:56.940
+and I can manage to get into ketosis.
+
+00:04:56.940 --> 00:04:58.020
+But the main idea,
+
+00:04:58.020 --> 00:05:00.330
+is I keep my carbohydrates
+low during the day.
+
+00:05:00.330 --> 00:05:02.380
+And then at night I do eat carbohydrates.
+
+00:05:02.380 --> 00:05:04.850
+So for me, the Munk Pack
+bars are a really good snack
+
+00:05:04.850 --> 00:05:07.360
+usually in the afternoon,
+with a cup of coffee,
+
+00:05:07.360 --> 00:05:09.530
+especially if I'm going
+to train soon after that,
+
+00:05:09.530 --> 00:05:12.350
+or if I just want to snack and
+I'm going to continue working.
+
+00:05:12.350 --> 00:05:14.260
+As I mentioned before, they
+are absolutely delicious.
+
+00:05:14.260 --> 00:05:17.030
+They also don't have any of
+the stuff that's bad for you.
+
+00:05:17.030 --> 00:05:20.540
+No soy, trans fat, sugar,
+alcohols, artificial colors,
+
+00:05:20.540 --> 00:05:22.970
+all that stuff that we
+know we should avoid.
+
+00:05:22.970 --> 00:05:25.650
+If you want to try Munk Pack
+bars, you can go to Munk Pack,
+
+00:05:25.650 --> 00:05:28.760
+that's M-U-N-K, MunkPack.com,
+
+00:05:28.760 --> 00:05:30.500
+and enter the code Huberman at checkout
+
+00:05:30.500 --> 00:05:32.730
+and you'll get 20% off your first purchase
+
+00:05:32.730 --> 00:05:34.310
+of any Munk Pack product.
+
+00:05:34.310 --> 00:05:38.200
+That's Munk Pack, M-U-N-K-P-A-C-K.com,
+
+00:05:38.200 --> 00:05:39.920
+and enter the code Huberman at checkout
+
+00:05:39.920 --> 00:05:42.420
+to get 20% off your purchase.
+
+00:05:42.420 --> 00:05:45.220
+This month, we're talking
+all about hormones.
+
+00:05:45.220 --> 00:05:46.280
+Hormones are incredible
+
+00:05:46.280 --> 00:05:49.680
+and they control so many
+processes in the brain and body.
+
+00:05:49.680 --> 00:05:50.940
+Last episode, we talked about
+
+00:05:50.940 --> 00:05:53.430
+the role of estrogen and testosterone.
+
+00:05:53.430 --> 00:05:54.480
+Today we're going to talk about
+
+00:05:54.480 --> 00:05:57.920
+how hormones impact feeding and hunger,
+
+00:05:57.920 --> 00:06:00.630
+as well as satiety, the feeling
+that you don't want to eat
+
+00:06:00.630 --> 00:06:02.790
+or that you've eaten enough.
+
+00:06:02.790 --> 00:06:04.070
+Now, it's important to understand
+
+00:06:04.070 --> 00:06:06.740
+that hormones don't work
+alone in this context.
+
+00:06:06.740 --> 00:06:08.550
+Today I'm going to describe some hormones
+
+00:06:08.550 --> 00:06:10.170
+that have powerful effects
+
+00:06:10.170 --> 00:06:12.460
+on whether or not you
+want to eat more or less
+
+00:06:12.460 --> 00:06:14.810
+or stop eating altogether.
+
+00:06:14.810 --> 00:06:16.860
+But they don't do that on their own,
+
+00:06:16.860 --> 00:06:19.830
+they do that in cooperation
+with the nervous system.
+
+00:06:19.830 --> 00:06:22.110
+So today, I would say as much
+
+00:06:22.110 --> 00:06:24.730
+or perhaps even more
+than any other episodes,
+
+00:06:24.730 --> 00:06:26.790
+we're going to hear a lot of biology
+
+00:06:26.790 --> 00:06:29.500
+but there are multiple what
+I'm going to call entry points
+
+00:06:29.500 --> 00:06:31.720
+for tools that you can apply
+
+00:06:31.720 --> 00:06:33.780
+in order to regulate
+your levels of hunger,
+
+00:06:33.780 --> 00:06:36.580
+your meal timing, your levels of satiety
+
+00:06:36.580 --> 00:06:38.440
+of not wanting to eat more.
+
+00:06:38.440 --> 00:06:41.380
+And many of this is
+actionable with behaviors,
+
+00:06:41.380 --> 00:06:43.420
+but of course, we're also
+going to talk about supplements
+
+00:06:43.420 --> 00:06:44.760
+and we're actually going to talk about
+
+00:06:44.760 --> 00:06:47.220
+a little bit of brain
+machine interface devices
+
+00:06:47.220 --> 00:06:48.560
+that can actually be involved
+
+00:06:48.560 --> 00:06:50.570
+in manipulating these incredible things
+
+00:06:50.570 --> 00:06:54.270
+that we think of as hunger
+and appetite and satiety.
+
+00:06:54.270 --> 00:06:56.150
+So, the first thing that you need to know
+
+00:06:56.150 --> 00:06:57.860
+about the nervous system side,
+
+00:06:57.860 --> 00:07:00.230
+the neural control,
+over-feeding and hunger,
+
+00:07:00.230 --> 00:07:01.700
+is that there's an area of your brain
+
+00:07:01.700 --> 00:07:03.280
+called the hypothalamus.
+
+00:07:03.280 --> 00:07:04.310
+It's in the forebrain,
+
+00:07:04.310 --> 00:07:06.080
+which tells you it's in
+the front of your brain,
+
+00:07:06.080 --> 00:07:08.690
+and it's at the base of the forebrain.
+
+00:07:08.690 --> 00:07:10.400
+Now, the hypothalamus contains
+
+00:07:10.400 --> 00:07:11.930
+lots of different kinds of neurons
+
+00:07:11.930 --> 00:07:13.860
+doing lots of different kinds of things.
+
+00:07:13.860 --> 00:07:15.240
+There are neurons in your hypothalamus
+
+00:07:15.240 --> 00:07:18.650
+controlling sexual behavior,
+controlling body temperature,
+
+00:07:18.650 --> 00:07:20.200
+controlling circadian rhythms,
+
+00:07:20.200 --> 00:07:21.830
+the desire to sleep or be awake.
+
+00:07:21.830 --> 00:07:23.970
+Even neurons controlling rage.
+
+00:07:23.970 --> 00:07:27.140
+There are actually neurons that
+if we were to stimulate them
+
+00:07:27.140 --> 00:07:29.343
+would send you or anyone into a rage.
+
+00:07:29.343 --> 00:07:31.650
+They're just powerful control centers
+
+00:07:31.650 --> 00:07:32.823
+for the brain and body.
+
+00:07:33.730 --> 00:07:36.160
+There's a particular
+area of the hypothalamus
+
+00:07:36.160 --> 00:07:39.080
+called the ventromedial hypothalamus.
+
+00:07:39.080 --> 00:07:41.520
+And it's one that researchers
+have been interested
+
+00:07:41.520 --> 00:07:44.500
+for a long time now, in
+terms of its relationship
+
+00:07:44.500 --> 00:07:45.900
+to hunger and feeding.
+
+00:07:45.900 --> 00:07:50.510
+And the reason is, it creates
+these paradoxical effects.
+
+00:07:50.510 --> 00:07:51.420
+What do I mean by that?
+
+00:07:51.420 --> 00:07:54.010
+What they found was that
+sometimes lesioning,
+
+00:07:54.010 --> 00:07:56.890
+or disrupting the neurons in
+the ventromedial hypothalamus
+
+00:07:56.890 --> 00:07:59.240
+would make animals or people hyperphasia,
+
+00:07:59.240 --> 00:08:01.540
+they would want to eat crazy.
+
+00:08:01.540 --> 00:08:05.740
+And other lesions in other
+individuals or animals
+
+00:08:05.740 --> 00:08:07.010
+would make them anorexic,
+
+00:08:07.010 --> 00:08:08.810
+it would make them not want to eat at all.
+
+00:08:08.810 --> 00:08:10.470
+It would make food aversive.
+
+00:08:10.470 --> 00:08:12.950
+So that means that the
+ventromedial hypothalamus
+
+00:08:12.950 --> 00:08:15.010
+is definitely an
+interesting control station
+
+00:08:15.010 --> 00:08:16.910
+for hunger and feeding and satiety,
+
+00:08:16.910 --> 00:08:18.950
+but it doesn't really
+tell you what's going on
+
+00:08:18.950 --> 00:08:20.010
+at a deeper level.
+
+00:08:20.010 --> 00:08:22.870
+In fact, it's a little bit
+confusing or paradoxical.
+
+00:08:22.870 --> 00:08:24.830
+It turns out that there
+are multiple populations
+
+00:08:24.830 --> 00:08:26.640
+of neurons in there, we're
+going to talk about those.
+
+00:08:26.640 --> 00:08:28.270
+Some are promoting feeding,
+
+00:08:28.270 --> 00:08:32.100
+and some are promoting
+not feeding or not eating.
+
+00:08:32.100 --> 00:08:34.590
+Now, the other neural
+component of all this
+
+00:08:34.590 --> 00:08:36.180
+that you need to know about,
+
+00:08:36.180 --> 00:08:38.010
+actually has to do with your mouth.
+
+00:08:38.010 --> 00:08:39.330
+So there's an area of your cortex,
+
+00:08:39.330 --> 00:08:41.940
+so that's a little bit
+further up in your brain,
+
+00:08:41.940 --> 00:08:43.600
+called the insular cortex.
+
+00:08:43.600 --> 00:08:45.990
+And it processes a lot of
+different kinds of information.
+
+00:08:45.990 --> 00:08:48.430
+Mostly information about
+what's going on inside you,
+
+00:08:48.430 --> 00:08:50.460
+so called the interoception.
+
+00:08:50.460 --> 00:08:52.800
+The insular cortex has neurons
+
+00:08:52.800 --> 00:08:55.310
+that get input from your mouth,
+
+00:08:55.310 --> 00:08:57.430
+from the touch receptors in your mouth.
+
+00:08:57.430 --> 00:08:59.890
+And insular cortex has powerful control
+
+00:08:59.890 --> 00:09:02.550
+over whether or not you're
+enjoying what you're eating,
+
+00:09:02.550 --> 00:09:04.900
+whether or not you want to
+avoid what you're eating,
+
+00:09:04.900 --> 00:09:06.240
+whether or not you had enough,
+
+00:09:06.240 --> 00:09:09.060
+or whether or not you want
+to continue eating more.
+
+00:09:09.060 --> 00:09:10.910
+And that has to do, believe it or not,
+
+00:09:10.910 --> 00:09:13.490
+with the touch or sensation of eating.
+
+00:09:13.490 --> 00:09:14.323
+I'm very familiar with this.
+
+00:09:14.323 --> 00:09:16.980
+I'm one of these people,
+I love eating so much,
+
+00:09:16.980 --> 00:09:19.490
+that I just like the mere act of chewing.
+
+00:09:19.490 --> 00:09:21.760
+You know, I like celery sticks enough.
+
+00:09:21.760 --> 00:09:24.070
+I'm not crazy about them, but
+you know they taste fine to me
+
+00:09:24.070 --> 00:09:24.903
+and I like chewing on celery sticks,
+
+00:09:24.903 --> 00:09:27.600
+but I actually just like chewing on them.
+
+00:09:27.600 --> 00:09:29.750
+I could eat all day long
+
+00:09:29.750 --> 00:09:32.100
+except that it's not healthy to do that.
+
+00:09:32.100 --> 00:09:35.260
+But the mere act of chewing
+for me is very pleasurable.
+
+00:09:35.260 --> 00:09:37.860
+People who chew gum feel this way as well.
+
+00:09:37.860 --> 00:09:40.170
+And just as a point about gum or chewing,
+
+00:09:40.170 --> 00:09:42.380
+if you choose something like celery
+
+00:09:42.380 --> 00:09:44.940
+or cucumber slices or chew gum,
+
+00:09:44.940 --> 00:09:48.270
+provided it doesn't have any
+sugar or caloric content,
+
+00:09:48.270 --> 00:09:50.980
+it's not going to drive increased hunger.
+
+00:09:50.980 --> 00:09:52.820
+That generally isn't the case.
+
+00:09:52.820 --> 00:09:55.150
+But if you eat something with
+sugar, as we'll find out,
+
+00:09:55.150 --> 00:09:58.270
+it has a very specific
+action in the insular cortex
+
+00:09:58.270 --> 00:09:59.690
+and in other areas of your nervous system
+
+00:09:59.690 --> 00:10:01.750
+that promotes the desire to eat more.
+
+00:10:01.750 --> 00:10:03.060
+But the key point right now
+
+00:10:03.060 --> 00:10:04.450
+is to know you've got
+these two brain areas,
+
+00:10:04.450 --> 00:10:06.110
+the ventromedial hypothalamus,
+
+00:10:06.110 --> 00:10:09.460
+that's involved in hunger
+and lack of hunger,
+
+00:10:09.460 --> 00:10:11.970
+sort of an accelerator
+and a brake on feeding.
+
+00:10:11.970 --> 00:10:13.690
+And you have this insular cortex
+
+00:10:13.690 --> 00:10:15.080
+that gets input from your mouth,
+
+00:10:15.080 --> 00:10:18.280
+and cares about chewing and
+the consistency of foods
+
+00:10:18.280 --> 00:10:19.700
+and all sorts of interesting things
+
+00:10:19.700 --> 00:10:21.190
+that are just very tactile.
+
+00:10:21.190 --> 00:10:23.230
+And I think most people think
+about the touch receptors on,
+
+00:10:23.230 --> 00:10:25.350
+excuse me, the taste
+receptors on the tongue.
+
+00:10:25.350 --> 00:10:26.950
+But we often don't think about
+
+00:10:26.950 --> 00:10:30.250
+the touch or tactile essence of food.
+
+00:10:30.250 --> 00:10:31.900
+And the thing that comes to mind just now
+
+00:10:31.900 --> 00:10:33.760
+is I've gone to sushi several times,
+
+00:10:33.760 --> 00:10:35.650
+and some people really like the urchin.
+
+00:10:35.650 --> 00:10:36.500
+I don't like the urchin.
+
+00:10:36.500 --> 00:10:38.110
+There's something about it
+that kind of creeps me out
+
+00:10:38.110 --> 00:10:40.040
+about the consistency,
+other people love it.
+
+00:10:40.040 --> 00:10:42.360
+So it's highly individual
+and it's probably learned,
+
+00:10:42.360 --> 00:10:44.820
+and there's some probably
+cultural background to this
+
+00:10:44.820 --> 00:10:46.480
+if you were raised eating urchin.
+
+00:10:46.480 --> 00:10:50.490
+Some people love that
+consistency or that touch.
+
+00:10:50.490 --> 00:10:51.700
+So touch has a lot to do
+
+00:10:51.700 --> 00:10:53.850
+with whether or not
+you want to eat or not.
+
+00:10:53.850 --> 00:10:56.580
+Now, let's get back to the
+ventromedial hypothalamus.
+
+00:10:56.580 --> 00:10:59.330
+Sometimes it makes animals
+or people want to eat more,
+
+00:10:59.330 --> 00:11:01.370
+sometimes less, so what's going on there?
+
+00:11:01.370 --> 00:11:03.690
+There's a classic experiment that was done
+
+00:11:03.690 --> 00:11:06.250
+in which researchers took two rats,
+
+00:11:06.250 --> 00:11:08.790
+and so-called parabiosed
+them to each other.
+
+00:11:08.790 --> 00:11:10.620
+What that meant is that
+they did a little surgery
+
+00:11:10.620 --> 00:11:12.410
+and they linked their blood supply
+
+00:11:12.410 --> 00:11:15.170
+so that they were forever
+physically linked to one another
+
+00:11:15.170 --> 00:11:17.650
+and could exchange factors in the blood,
+
+00:11:17.650 --> 00:11:19.720
+but their brains were separate,
+their mouths were separate,
+
+00:11:19.720 --> 00:11:21.990
+and they essentially did
+everything separately
+
+00:11:21.990 --> 00:11:23.300
+except that they were
+linked to one another.
+
+00:11:23.300 --> 00:11:24.160
+So they had to walk together
+
+00:11:24.160 --> 00:11:26.360
+and go to the same
+places in order to do it.
+
+00:11:27.690 --> 00:11:29.710
+This parabiosis experiment
+
+00:11:29.710 --> 00:11:31.750
+revealed something really important.
+
+00:11:31.750 --> 00:11:33.900
+When they lesioned the
+ventromedial hypothalamus
+
+00:11:33.900 --> 00:11:37.210
+in one of the rats that was
+connected to the other rat,
+
+00:11:37.210 --> 00:11:41.430
+that rat got very, very
+fat, just really obese,
+
+00:11:41.430 --> 00:11:43.390
+huge rat, super rat, jumbo rat.
+
+00:11:43.390 --> 00:11:46.400
+The other one however, got very thin,
+
+00:11:46.400 --> 00:11:47.960
+it actually lost weight,
+
+00:11:47.960 --> 00:11:50.720
+despite consuming the same
+amount of food that it had
+
+00:11:50.720 --> 00:11:53.110
+prior to the other one getting the lesion.
+
+00:11:53.110 --> 00:11:54.120
+So what does this tell us?
+
+00:11:54.120 --> 00:11:56.590
+This tells us that there's
+something in the blood
+
+00:11:56.590 --> 00:11:59.120
+that's being exchanged
+between the two animals,
+
+00:11:59.120 --> 00:12:01.740
+because it was their blood
+supply that was linked.
+
+00:12:01.740 --> 00:12:05.450
+And that tells us that there's
+hormone or endocrine signals
+
+00:12:05.450 --> 00:12:07.670
+that are involved in the desire to eat,
+
+00:12:07.670 --> 00:12:09.320
+and hunger and appetite.
+
+00:12:09.320 --> 00:12:10.610
+And so next, we're going to talk about
+
+00:12:10.610 --> 00:12:12.540
+what those endocrine signals are,
+
+00:12:12.540 --> 00:12:14.590
+and then I'm going to immediately point
+
+00:12:14.590 --> 00:12:16.650
+to some entry points that you can use.
+
+00:12:16.650 --> 00:12:18.230
+And you can use these
+
+00:12:18.230 --> 00:12:20.810
+even if you're not parabiosed to anything.
+
+00:12:20.810 --> 00:12:24.880
+And that can allow you to
+time your meal frequency,
+
+00:12:24.880 --> 00:12:27.610
+and predict when you're
+going to be hungry or not.
+
+00:12:27.610 --> 00:12:29.220
+As well as a drive up appetite.
+
+00:12:29.220 --> 00:12:30.570
+Believe it or not, there
+are people out there
+
+00:12:30.570 --> 00:12:32.370
+who are trying to eat more.
+
+00:12:32.370 --> 00:12:35.340
+Although I think far many more
+people are trying to eat less
+
+00:12:35.340 --> 00:12:38.490
+because nowadays, the data
+just point to the fact
+
+00:12:38.490 --> 00:12:41.560
+that there is essentially
+an epidemic of diabetes,
+
+00:12:41.560 --> 00:12:43.490
+type II diabetes and obesity.
+
+00:12:43.490 --> 00:12:46.110
+And most everyone agrees now,
+
+00:12:46.110 --> 00:12:48.320
+that maintaining a healthy body weight
+
+00:12:48.320 --> 00:12:49.720
+and body weight composition,
+
+00:12:49.720 --> 00:12:51.790
+is one of the best paths to longevity
+
+00:12:51.790 --> 00:12:53.160
+and to just feeling very good
+
+00:12:53.160 --> 00:12:54.410
+and actually being able to think.
+
+00:12:54.410 --> 00:12:55.570
+Cognitive functioning
+
+00:12:55.570 --> 00:13:00.570
+is actually linked to levels
+of adipose tissue and so forth.
+
+00:13:00.870 --> 00:13:03.050
+So, let's talk about the endocrine factors
+
+00:13:03.050 --> 00:13:05.860
+that regulate feeding, hunger and satiety.
+
+00:13:05.860 --> 00:13:08.190
+One of the really
+exciting things to emerge
+
+00:13:08.190 --> 00:13:12.630
+in the science of feeding and
+appetite in the last 20 years,
+
+00:13:12.630 --> 00:13:14.600
+is the discovery of another brain area.
+
+00:13:14.600 --> 00:13:16.600
+And not just the
+ventromedial hypothalamus,
+
+00:13:16.600 --> 00:13:19.770
+but it's an area of the brain
+called the arcuate nucleus.
+
+00:13:19.770 --> 00:13:21.920
+And the arcuate nucleus
+
+00:13:21.920 --> 00:13:24.890
+has some really
+fascinating sets of neurons
+
+00:13:24.890 --> 00:13:28.380
+that release even more
+incredible molecules
+
+00:13:28.380 --> 00:13:30.450
+and chemicals into the blood.
+
+00:13:30.450 --> 00:13:32.680
+And these chemicals act as accelerators
+
+00:13:32.680 --> 00:13:34.940
+on feeding and appetite, or breaks.
+
+00:13:34.940 --> 00:13:36.340
+And the really cool thing
+
+00:13:36.340 --> 00:13:39.320
+is that you can actually
+control these molecules
+
+00:13:39.320 --> 00:13:40.510
+through simple behaviors.
+
+00:13:40.510 --> 00:13:43.280
+And once you understand
+what these molecules are,
+
+00:13:43.280 --> 00:13:45.530
+you'll start to understand
+why that's the case.
+
+00:13:45.530 --> 00:13:48.210
+And the control points
+that you have right now
+
+00:13:48.210 --> 00:13:51.000
+in order to control your
+appetite in either direction,
+
+00:13:51.000 --> 00:13:52.970
+increase or decrease.
+
+00:13:52.970 --> 00:13:55.070
+So, first of all, there are set of neurons
+
+00:13:55.070 --> 00:13:58.950
+in this arcuate nucleus
+called the PMOC neurons, okay?
+
+00:13:58.950 --> 00:14:01.590
+I don't want to get into
+what the acronym stands for,
+
+00:14:01.590 --> 00:14:03.030
+but I'll do it anyway.
+
+00:14:03.030 --> 00:14:06.930
+It's the Proopiomelanocortin system, okay?
+
+00:14:06.930 --> 00:14:10.940
+So these are PMOC neurons,
+Proopiomelanocortin.
+
+00:14:10.940 --> 00:14:13.120
+And if you heard melano,
+that should tell you
+
+00:14:13.120 --> 00:14:15.810
+it has something to do with pigmentation
+
+00:14:15.810 --> 00:14:19.660
+in skin cells or in hair cells,
+pigmentation of some sort,
+
+00:14:19.660 --> 00:14:20.850
+because of melanin.
+
+00:14:20.850 --> 00:14:22.570
+Last episode, I talked a little bit
+
+00:14:22.570 --> 00:14:26.020
+about the relationship between
+light dopamine and melanin.
+
+00:14:26.020 --> 00:14:28.830
+So you should already be
+thinking, wait, melano means
+
+00:14:28.830 --> 00:14:31.530
+it probably has something
+to do with that system,
+
+00:14:31.530 --> 00:14:33.220
+and indeed it does.
+
+00:14:33.220 --> 00:14:37.627
+Now, the POMC neurons, make
+something called Alpha MSH.
+
+00:14:39.670 --> 00:14:42.050
+Melanocyte-stimulating hormone,
+
+00:14:42.050 --> 00:14:45.170
+Alpha-Melanocyte-stimulating hormone.
+
+00:14:45.170 --> 00:14:47.140
+If you don't want to remember
+any of the other acronyms
+
+00:14:47.140 --> 00:14:50.920
+and terms I've talked
+about, this episode so far,
+
+00:14:50.920 --> 00:14:53.860
+do try and remember M-S-H, okay?
+
+00:14:53.860 --> 00:14:57.450
+Mouse, Sam, Hamster, M-S-H, okay?
+
+00:14:57.450 --> 00:14:59.590
+MSH reduces appetite
+
+00:15:00.430 --> 00:15:02.800
+and it's a powerful molecule, all right?
+
+00:15:02.800 --> 00:15:04.460
+So just put that on the shelf,
+
+00:15:04.460 --> 00:15:06.950
+MSH reduces appetite.
+
+00:15:06.950 --> 00:15:08.880
+Now, there's another population of neurons
+
+00:15:08.880 --> 00:15:11.810
+in the arcuate nucleus,
+called the AgRP neurons.
+
+00:15:11.810 --> 00:15:14.610
+And there I'm truly not going
+to read you what that stands for
+
+00:15:14.610 --> 00:15:16.220
+'cause it's related to the mouse strain
+
+00:15:16.220 --> 00:15:17.410
+it was first identified in,
+
+00:15:17.410 --> 00:15:22.410
+but humans have these cells
+as well, but AgRP neurons.
+
+00:15:22.950 --> 00:15:27.020
+The AgRP neurons stimulate eating.
+
+00:15:27.020 --> 00:15:29.810
+And anytime you are approaching food,
+
+00:15:29.810 --> 00:15:32.860
+or you feel some excitement
+about food or anxiety,
+
+00:15:32.860 --> 00:15:34.740
+because some people actually experience
+
+00:15:34.740 --> 00:15:36.190
+a kind of heightened anxiety.
+
+00:15:36.190 --> 00:15:38.800
+Some people actually get a
+little bit of a resting tremor
+
+00:15:38.800 --> 00:15:39.633
+before they eat,
+
+00:15:39.633 --> 00:15:41.560
+even if they don't have any
+sort of eating disorder.
+
+00:15:41.560 --> 00:15:44.710
+There's kind of a ramping
+up of autonomic activity.
+
+00:15:44.710 --> 00:15:48.750
+That's largely due to the
+activity of these AgRP neurons.
+
+00:15:48.750 --> 00:15:53.640
+So, the activity in these
+AgRP neurons goes way up
+
+00:15:53.640 --> 00:15:57.050
+when animals or people are starved.
+
+00:15:57.050 --> 00:15:58.730
+And I don't mean starved
+for long periods of time,
+
+00:15:58.730 --> 00:16:01.160
+but I mean when they
+haven't eaten for a while.
+
+00:16:01.160 --> 00:16:05.720
+And the activity of MSH,
+the release of MSH goes up
+
+00:16:05.720 --> 00:16:07.450
+when we've eaten.
+
+00:16:07.450 --> 00:16:10.030
+However, there are other
+things that will stimulate
+
+00:16:10.030 --> 00:16:13.200
+the release of things like MSH.
+
+00:16:13.200 --> 00:16:17.470
+So, just briefly the
+experimental evidence,
+
+00:16:17.470 --> 00:16:20.640
+if you kill AgRP neurons,
+animals and people stop eating.
+
+00:16:20.640 --> 00:16:21.530
+There are people of lesions.
+
+00:16:21.530 --> 00:16:24.230
+They just stop eating,
+they become anorexic.
+
+00:16:24.230 --> 00:16:26.750
+I know you're familiar with
+anorexia as a clinical term,
+
+00:16:26.750 --> 00:16:28.540
+but that's actually a term that's used
+
+00:16:28.540 --> 00:16:29.980
+in the scientific literature
+
+00:16:29.980 --> 00:16:32.710
+about a pattern of behavior, okay?
+
+00:16:32.710 --> 00:16:34.310
+As well as a clinical term of course.
+
+00:16:34.310 --> 00:16:36.763
+If you were to stimulate the AgRP neurons,
+
+00:16:37.890 --> 00:16:39.930
+animals or people eat like crazy.
+
+00:16:39.930 --> 00:16:41.890
+They will eat to the
+point where they burst.
+
+00:16:41.890 --> 00:16:43.700
+Which just sounds horrible,
+but it just tells you
+
+00:16:43.700 --> 00:16:45.750
+this is the accelerator on eating.
+
+00:16:45.750 --> 00:16:46.970
+And yes, it has relationship
+
+00:16:46.970 --> 00:16:48.990
+to the ventromedial hypothalamus
+I talked about earlier,
+
+00:16:48.990 --> 00:16:51.200
+but I don't want to go
+back there just yet,
+
+00:16:51.200 --> 00:16:52.670
+we will circle back.
+
+00:16:52.670 --> 00:16:55.640
+So Melanocyte-stimulating hormone,
+
+00:16:55.640 --> 00:16:57.450
+such an interesting hormone.
+
+00:16:57.450 --> 00:17:00.463
+This thing can shut
+down the desire to eat.
+
+00:17:01.620 --> 00:17:03.493
+The Melanocyte-stimulating hormone,
+
+00:17:05.080 --> 00:17:07.220
+is released from the medial pituitary.
+
+00:17:07.220 --> 00:17:08.790
+We talked about the pituitary last time.
+
+00:17:08.790 --> 00:17:12.490
+This is a gland that is
+very closely positioned
+
+00:17:12.490 --> 00:17:13.440
+to the hypothalamus.
+
+00:17:13.440 --> 00:17:15.000
+Actually some of the hypothalamus neurons
+
+00:17:15.000 --> 00:17:17.590
+actually project their neural connections
+
+00:17:17.590 --> 00:17:20.530
+directly into the pituitary,
+to release things like
+
+00:17:20.530 --> 00:17:22.710
+gonadotropins and luteinizing hormones,
+
+00:17:22.710 --> 00:17:23.820
+stuff we talked about last time
+
+00:17:23.820 --> 00:17:26.590
+in reference to testosterone and estrogen.
+
+00:17:26.590 --> 00:17:31.590
+But MSH is released from the
+medial portion of the pituitary
+
+00:17:32.130 --> 00:17:36.623
+and it stimulates the desire
+to not eat, to cease eating.
+
+00:17:37.730 --> 00:17:39.150
+What's really interesting,
+
+00:17:39.150 --> 00:17:41.830
+is that Melanocyte-stimulating hormone
+
+00:17:41.830 --> 00:17:45.140
+is activated by ultraviolet light.
+
+00:17:45.140 --> 00:17:48.380
+And it's not activated by
+ultraviolet light to the skin
+
+00:17:48.380 --> 00:17:49.930
+or directly to pituitary,
+
+00:17:49.930 --> 00:17:53.950
+it's activated by ultraviolet
+light to the eyes.
+
+00:17:53.950 --> 00:17:56.280
+Now, if you've been watching this podcast
+
+00:17:56.280 --> 00:17:58.190
+or listening to this podcast
+for any period of time,
+
+00:17:58.190 --> 00:17:59.860
+or you've heard me on other podcasts
+
+00:17:59.860 --> 00:18:01.700
+or you follow my Instagram,
+
+00:18:01.700 --> 00:18:04.220
+I am a big fan of this whole
+thing of getting morning light
+
+00:18:04.220 --> 00:18:06.410
+in order to synchronize
+circadian rhythms, et cetera,
+
+00:18:06.410 --> 00:18:09.040
+avoiding light in the middle of the night.
+
+00:18:09.040 --> 00:18:10.760
+This is yet another reason
+
+00:18:10.760 --> 00:18:14.890
+why getting ample light, ideally sunlight,
+
+00:18:14.890 --> 00:18:17.550
+but it could be other sources
+of UV light to the eyes,
+
+00:18:17.550 --> 00:18:21.710
+stimulates MSH, this has been
+shown over and over again.
+
+00:18:21.710 --> 00:18:25.720
+And keeps the desire to
+eat or appetite in check,
+
+00:18:25.720 --> 00:18:27.320
+in healthy ranges.
+
+00:18:27.320 --> 00:18:30.690
+This is also why in the
+spring and summer months,
+
+00:18:30.690 --> 00:18:33.330
+animals and people eat less.
+
+00:18:33.330 --> 00:18:35.040
+Now, for hibernating
+animals it's different,
+
+00:18:35.040 --> 00:18:37.090
+because they bear hibernate, actually.
+
+00:18:37.090 --> 00:18:39.490
+Ashley bears don't truly
+hibernate technically,
+
+00:18:39.490 --> 00:18:41.880
+by a scientific criteria
+they don't hibernate,
+
+00:18:41.880 --> 00:18:43.610
+but they go into a kind of torpor.
+
+00:18:43.610 --> 00:18:46.033
+The hibernating animals
+they don't eat much
+
+00:18:46.033 --> 00:18:48.580
+because they're in boroughs or dens,
+
+00:18:48.580 --> 00:18:50.150
+or they're just wrapped
+up in a little ball
+
+00:18:50.150 --> 00:18:51.740
+or whatever it is that
+hibernating animals do.
+
+00:18:51.740 --> 00:18:53.530
+So they're of course going to
+eat far less in the winter.
+
+00:18:53.530 --> 00:18:54.650
+But that's a unique scenario,
+
+00:18:54.650 --> 00:18:55.920
+we are not hibernating animals.
+
+00:18:55.920 --> 00:18:59.520
+But humans generally have greater appetite
+
+00:18:59.520 --> 00:19:01.330
+in the cold winter months.
+
+00:19:01.330 --> 00:19:02.700
+And it's not just because of the holidays
+
+00:19:02.700 --> 00:19:03.630
+and the abundance of food
+
+00:19:03.630 --> 00:19:06.020
+that we're presenting ourselves with,
+
+00:19:06.020 --> 00:19:09.080
+but when we get a lot of
+sun our appetite is reduced
+
+00:19:09.080 --> 00:19:12.300
+or at least it's easier to control.
+
+00:19:12.300 --> 00:19:14.710
+And that is due in part,
+
+00:19:14.710 --> 00:19:17.850
+because if you're getting
+ample sunlight to the eyes,
+
+00:19:17.850 --> 00:19:21.463
+it's converted into a
+signal for the MSH neurons,
+
+00:19:22.470 --> 00:19:24.420
+the neurons that release MSH, excuse me
+
+00:19:24.420 --> 00:19:26.390
+these PMOC neurons release MSH.
+
+00:19:26.390 --> 00:19:29.600
+And then MSH can bind its receptors,
+
+00:19:29.600 --> 00:19:34.310
+and can keep the break
+on appetite in check.
+
+00:19:34.310 --> 00:19:36.070
+So the takeaway tool from this,
+
+00:19:36.070 --> 00:19:38.390
+is make sure you're getting enough light
+
+00:19:38.390 --> 00:19:40.410
+not just in the morning,
+but throughout the day.
+
+00:19:40.410 --> 00:19:42.190
+And yes, it has to be light to your eyes.
+
+00:19:42.190 --> 00:19:44.570
+And blasting your eyes with
+sunlight or artificial light
+
+00:19:44.570 --> 00:19:46.260
+to the point where it's
+damaging or painful,
+
+00:19:46.260 --> 00:19:48.240
+won't accelerate or improve this process.
+
+00:19:48.240 --> 00:19:49.870
+It's about getting photons,
+
+00:19:49.870 --> 00:19:52.650
+ultraviolet light to the eyes consistently
+
+00:19:52.650 --> 00:19:53.603
+throughout the day.
+
+00:19:54.700 --> 00:19:56.750
+That's best accomplished
+by not wearing sunglasses
+
+00:19:56.750 --> 00:19:59.060
+provided you can do that safely.
+
+00:19:59.060 --> 00:20:01.170
+And if you don't have
+access to enough sunlight,
+
+00:20:01.170 --> 00:20:03.550
+then you can do this
+with artificial light.
+
+00:20:03.550 --> 00:20:05.610
+This also points again to our old friends,
+
+00:20:05.610 --> 00:20:06.910
+the blue blockers.
+
+00:20:06.910 --> 00:20:09.850
+Many people know I'm not a
+huge fan of blue blockers
+
+00:20:09.850 --> 00:20:11.640
+especially not during the daytime,
+
+00:20:11.640 --> 00:20:13.770
+because they block a lot of the UV
+
+00:20:13.770 --> 00:20:16.470
+and shorter wavelength
+light that you want and need
+
+00:20:16.470 --> 00:20:21.070
+to create alertness, but
+also to create release of MSH
+
+00:20:21.070 --> 00:20:23.440
+from the medial pituitary.
+
+00:20:23.440 --> 00:20:26.890
+Now there are people out there,
+
+00:20:26.890 --> 00:20:31.400
+subcultures, that actually inject MSH.
+
+00:20:31.400 --> 00:20:34.530
+That are taking MSH or
+things similar to it.
+
+00:20:34.530 --> 00:20:36.690
+I am not suggesting people do that.
+
+00:20:36.690 --> 00:20:40.270
+But there are three main
+consequences of doing that.
+
+00:20:40.270 --> 00:20:42.990
+First of all, it reduces
+appetite, no surprise there.
+
+00:20:42.990 --> 00:20:45.310
+And they're actually using
+it as a dieting drug.
+
+00:20:45.310 --> 00:20:47.030
+This is kind of in the underground.
+
+00:20:47.030 --> 00:20:48.430
+I don't know what the legal status is.
+
+00:20:48.430 --> 00:20:50.240
+And again, I'm not
+promoting that people do it.
+
+00:20:50.240 --> 00:20:55.240
+Two, it makes them very, very
+tan, which makes sense, right?
+
+00:20:55.950 --> 00:20:57.850
+Melanocyte-stimulating hormone.
+
+00:20:57.850 --> 00:21:01.820
+And the third is, it
+purportedly, never tried it,
+
+00:21:01.820 --> 00:21:04.850
+purportedly sends libido through the roof,
+
+00:21:04.850 --> 00:21:06.580
+to the point where it's
+actually distracting
+
+00:21:06.580 --> 00:21:08.320
+for other activities.
+
+00:21:08.320 --> 00:21:10.260
+It actually can create priapism,
+
+00:21:10.260 --> 00:21:13.420
+which is a kind of
+chronic erection in males
+
+00:21:13.420 --> 00:21:15.830
+to the point where it actually
+can be physically damaging
+
+00:21:15.830 --> 00:21:17.000
+to the genitalia.
+
+00:21:17.000 --> 00:21:18.893
+So this is a drug,
+
+00:21:19.898 --> 00:21:21.300
+I don't know whether or
+not it's call it a drug.
+
+00:21:21.300 --> 00:21:25.000
+It's a substance that one can
+regulate with healthy levels,
+
+00:21:25.000 --> 00:21:28.620
+with sunlight and perhaps
+artificial UV light.
+
+00:21:28.620 --> 00:21:32.530
+I have not heard much about
+treatments for obesity
+
+00:21:32.530 --> 00:21:35.940
+involving getting ample sunlight
+or getting ample UV light,
+
+00:21:35.940 --> 00:21:38.760
+but to me, the logic is just very clear.
+
+00:21:38.760 --> 00:21:42.060
+And so if you're pursuing those avenues,
+
+00:21:42.060 --> 00:21:44.090
+you certainly should
+talk to your physician
+
+00:21:44.090 --> 00:21:45.160
+but you might want to think about
+
+00:21:45.160 --> 00:21:47.010
+how some of those logic hangs together.
+
+00:21:47.010 --> 00:21:48.340
+Absolutely fascinating hormone,
+
+00:21:48.340 --> 00:21:50.350
+I think most people aren't aware of it.
+
+00:21:50.350 --> 00:21:53.400
+And the subcultures that are aware of it
+
+00:21:53.400 --> 00:21:55.960
+are using it for two very
+particular end points,
+
+00:21:55.960 --> 00:21:59.170
+and they're using it at
+super physiological levels.
+
+00:21:59.170 --> 00:22:02.060
+That's enough about that
+'cause I really don't know.
+
+00:22:02.060 --> 00:22:03.950
+I've talked to a few people in research.
+
+00:22:03.950 --> 00:22:05.020
+Believe it or not for this podcast,
+
+00:22:05.020 --> 00:22:06.290
+I reached out to a few people
+
+00:22:06.290 --> 00:22:09.440
+and asked whether or not
+the these are side effects
+
+00:22:09.440 --> 00:22:10.320
+in air quotes.
+
+00:22:10.320 --> 00:22:12.120
+I've heard about are true,
+and indeed they're true.
+
+00:22:12.120 --> 00:22:16.150
+But again, that's super
+physiological, controlling MSH,
+
+00:22:16.150 --> 00:22:18.300
+it's actually Alpha MSH levels
+
+00:22:18.300 --> 00:22:21.020
+through viewing ultraviolet light
+
+00:22:21.020 --> 00:22:22.750
+seems like an interesting
+
+00:22:22.750 --> 00:22:25.840
+and mechanistically logical thing to do,
+
+00:22:25.840 --> 00:22:29.050
+if your goal is to keep appetite in check.
+
+00:22:29.050 --> 00:22:31.560
+So MSH inhibits hunger.
+
+00:22:31.560 --> 00:22:33.780
+Next, let's talk about a hormone peptide
+
+00:22:33.780 --> 00:22:35.870
+that activates hunger.
+
+00:22:35.870 --> 00:22:38.020
+And this is a really interesting one
+
+00:22:38.020 --> 00:22:40.930
+because it relates to when you get hungry,
+
+00:22:40.930 --> 00:22:43.830
+in addition to the fact
+that you get hungry at all.
+
+00:22:43.830 --> 00:22:48.830
+And it's called ghrelin,
+it's spelled G-H-R-E-L-I-N.
+
+00:22:49.620 --> 00:22:53.610
+Ghrelin is released
+actually from the GI tract.
+
+00:22:53.610 --> 00:22:58.550
+And its main role is to
+increase your desire to eat.
+
+00:22:58.550 --> 00:23:02.040
+And it does that through
+a variety of mechanisms.
+
+00:23:02.040 --> 00:23:04.860
+Part of that is to stimulate
+some of the brain areas,
+
+00:23:04.860 --> 00:23:08.060
+the actual neurons, that
+make you want to eat.
+
+00:23:08.060 --> 00:23:11.050
+In addition, it creates
+food anticipatory signals
+
+00:23:11.050 --> 00:23:12.040
+within your nervous systems.
+
+00:23:12.040 --> 00:23:13.490
+So you start thinking about the things
+
+00:23:13.490 --> 00:23:15.420
+that you happen to like to eat
+
+00:23:15.420 --> 00:23:17.487
+at that particular time of day.
+
+00:23:17.487 --> 00:23:18.840
+And this is fascinating.
+
+00:23:18.840 --> 00:23:21.690
+Ghrelin is sort of like a clock,
+
+00:23:21.690 --> 00:23:24.120
+a hormonal clock that
+makes you want to eat
+
+00:23:24.120 --> 00:23:25.410
+at particular times.
+
+00:23:25.410 --> 00:23:29.120
+Now, the signal for ghrelin
+is reduced glucose levels
+
+00:23:29.120 --> 00:23:30.150
+in the blood.
+
+00:23:30.150 --> 00:23:33.860
+We're going to talk a lot today
+about glucose and insulin,
+
+00:23:33.860 --> 00:23:36.320
+ways to manage glucose and insulin.
+
+00:23:36.320 --> 00:23:38.700
+But for now the simple version of this,
+
+00:23:38.700 --> 00:23:40.890
+is you normally want your glucose
+
+00:23:40.890 --> 00:23:43.690
+to be in a kind of modest range,
+
+00:23:43.690 --> 00:23:46.910
+and I'll explain what
+range is in a little bit.
+
+00:23:46.910 --> 00:23:51.440
+But if it drops too low, ghrelin
+is secreted from your gut.
+
+00:23:51.440 --> 00:23:54.920
+It activates neurons in your
+brain at various locations
+
+00:23:54.920 --> 00:23:58.240
+including the PMOC neurons,
+
+00:23:58.240 --> 00:24:00.840
+and the other neurons of the wingin' it.
+
+00:24:00.840 --> 00:24:03.950
+It also activates the
+VMH in particular ways.
+
+00:24:03.950 --> 00:24:06.680
+And it might even activate
+some of these neurons
+
+00:24:06.680 --> 00:24:08.470
+that are in the periphery in your mouth
+
+00:24:08.470 --> 00:24:11.563
+that actually make you salivate
+and want to eat, right?
+
+00:24:11.563 --> 00:24:14.340
+Now, we all know about
+the famous Pavlovian,
+
+00:24:14.340 --> 00:24:15.870
+experiments of Pavlov's dogs.
+
+00:24:15.870 --> 00:24:17.340
+You know, they start
+salivating to the bell.
+
+00:24:17.340 --> 00:24:19.260
+After the bell was presented
+with food, you remove the food,
+
+00:24:19.260 --> 00:24:21.980
+and then just the bell can
+stimulate the salivation.
+
+00:24:21.980 --> 00:24:23.830
+We become Pavlovian at times.
+
+00:24:23.830 --> 00:24:25.680
+But rarely is it ever discussed
+
+00:24:25.680 --> 00:24:27.820
+what the neural pathways for that are.
+
+00:24:27.820 --> 00:24:29.233
+And it turns out that these hormones
+
+00:24:29.233 --> 00:24:32.590
+that are secreted from the
+gut can stimulate the neurons
+
+00:24:32.590 --> 00:24:36.060
+to create a sensation and
+a desire for certain foods
+
+00:24:36.060 --> 00:24:37.723
+at certain times of day.
+
+00:24:38.930 --> 00:24:40.930
+You've done this experiment.
+
+00:24:40.930 --> 00:24:44.170
+If you are somebody who eats breakfast
+
+00:24:44.170 --> 00:24:46.230
+at more or less the same time each day,
+
+00:24:46.230 --> 00:24:48.990
+let's say 8:00 AM plus
+or minus 20 minutes.
+
+00:24:48.990 --> 00:24:52.740
+And then you eat lunch 12:30
+plus or minus 20 minutes.
+
+00:24:52.740 --> 00:24:54.090
+Or let's say you're somebody like me
+
+00:24:54.090 --> 00:24:57.350
+who typically skips
+breakfast, and just eats lunch
+
+00:24:57.350 --> 00:25:00.133
+usually around 11:30 or
+12 or something like that.
+
+00:25:01.220 --> 00:25:04.310
+Your ghrelin secretion will start to match
+
+00:25:04.310 --> 00:25:06.520
+when you typically eat.
+
+00:25:06.520 --> 00:25:07.640
+And it does that.
+
+00:25:07.640 --> 00:25:10.480
+And it's able to override
+the low levels of glucose
+
+00:25:10.480 --> 00:25:11.660
+in your bloodstream,
+
+00:25:11.660 --> 00:25:15.130
+because the ghrelin system also gets input
+
+00:25:15.130 --> 00:25:18.340
+from a clock in your liver
+
+00:25:18.340 --> 00:25:21.150
+that is linked to the
+clock in your hypothalamus,
+
+00:25:21.150 --> 00:25:21.983
+in your brain.
+
+00:25:21.983 --> 00:25:24.330
+And what this means is, if
+you eat at regular meal times,
+
+00:25:24.330 --> 00:25:25.860
+you'll start to get hungry a few minutes
+
+00:25:25.860 --> 00:25:26.970
+before those meals times.
+
+00:25:26.970 --> 00:25:28.640
+If you've ever wondered why
+
+00:25:28.640 --> 00:25:30.810
+your stomach kind of starts to growl
+
+00:25:30.810 --> 00:25:32.657
+because it's a particular time of day,
+
+00:25:32.657 --> 00:25:34.540
+and you're like, Oh I must want to eat,
+
+00:25:34.540 --> 00:25:36.040
+well, that's ghrelin.
+
+00:25:36.040 --> 00:25:37.730
+And for those of you that don't know
+
+00:25:37.730 --> 00:25:40.440
+why your stomach growls, I'll
+also tell you that today.
+
+00:25:40.440 --> 00:25:42.040
+It's actually really interesting.
+
+00:25:42.040 --> 00:25:44.040
+It not at all what you expect,
+
+00:25:44.040 --> 00:25:46.700
+and it's not just the gurgling
+of liquids in your stomach.
+
+00:25:46.700 --> 00:25:47.900
+That's not what it is.
+
+00:25:47.900 --> 00:25:50.820
+It's actually a muscular phenomenon.
+
+00:25:50.820 --> 00:25:55.280
+So, ghrelin is secreted as
+a food anticipatory signal,
+
+00:25:55.280 --> 00:25:58.550
+to get you motivated to
+go eat at regular times.
+
+00:25:58.550 --> 00:26:00.480
+So, nowadays there's a lot of interest
+
+00:26:00.480 --> 00:26:02.003
+in intermittent fasting.
+
+00:26:02.860 --> 00:26:06.170
+There's also a lot of interest
+in just what meal plans
+
+00:26:06.170 --> 00:26:08.350
+and schedules and what to eat in general,
+
+00:26:08.350 --> 00:26:11.760
+in order to maximize one's
+health and wellbeing.
+
+00:26:11.760 --> 00:26:13.980
+And people have all
+sorts of cosmetic reasons
+
+00:26:13.980 --> 00:26:16.260
+and brain reasons and metabolic reasons
+
+00:26:16.260 --> 00:26:18.580
+for wanting to control this kind of stuff.
+
+00:26:18.580 --> 00:26:20.180
+So let's make it really simple
+
+00:26:20.180 --> 00:26:22.350
+by first looking at the extremes.
+
+00:26:22.350 --> 00:26:25.090
+Some people need to eat
+every two or three hours.
+
+00:26:25.090 --> 00:26:27.300
+They feel this, "I need to
+eat every two or three hours,"
+
+00:26:27.300 --> 00:26:29.550
+or else their blood sugar drops.
+
+00:26:29.550 --> 00:26:33.370
+In general, blood sugar
+doesn't drop so low,
+
+00:26:33.370 --> 00:26:34.870
+that they truly need to eat
+
+00:26:34.870 --> 00:26:37.600
+in order to alleviate a blood sugar issue.
+
+00:26:37.600 --> 00:26:38.810
+Although sometimes that can happen.
+
+00:26:38.810 --> 00:26:42.480
+Some people are truly
+hypoglycemic, low blood sugar.
+
+00:26:42.480 --> 00:26:45.950
+But most people as the blood
+sugar starts to head down
+
+00:26:45.950 --> 00:26:49.610
+towards the low-ish ranges,
+ghrelin is secreted.
+
+00:26:49.610 --> 00:26:53.550
+And so for those people
+not eating on the clock,
+
+00:26:53.550 --> 00:26:54.940
+it's very disruptive to them
+
+00:26:54.940 --> 00:26:57.520
+because it activates these
+neurons in the brain.
+
+00:26:57.520 --> 00:27:00.290
+For people who eat once
+a day or twice a day,
+
+00:27:00.290 --> 00:27:02.160
+or tend to shift their meals,
+
+00:27:02.160 --> 00:27:03.240
+you know, and they might eat a lot
+
+00:27:03.240 --> 00:27:06.010
+but during a limited
+so-called feeding window,
+
+00:27:06.010 --> 00:27:09.530
+it's kind of interesting humans
+now eat and talk about foods
+
+00:27:09.530 --> 00:27:12.460
+in ways that for years I used
+to hear about in classes,
+
+00:27:12.460 --> 00:27:15.120
+in courses, and research
+lectures about feeding animals,
+
+00:27:15.120 --> 00:27:16.680
+you know, restricted feeding windows.
+
+00:27:16.680 --> 00:27:21.640
+And we owe a great deal of
+gratitude to Satchin Panda,
+
+00:27:21.640 --> 00:27:23.940
+who was a colleague of mine
+when my lab was in San Diego
+
+00:27:23.940 --> 00:27:27.860
+at the Salk Institute, who
+really is one of the pioneers
+
+00:27:27.860 --> 00:27:30.560
+of this restricted feeding window work
+
+00:27:30.560 --> 00:27:31.720
+and has done a beautiful work.
+
+00:27:31.720 --> 00:27:34.570
+He has a book that's excellent
+called 'The Circadian Code'
+
+00:27:34.570 --> 00:27:35.750
+that I highly recommend.
+
+00:27:35.750 --> 00:27:37.620
+And he's done a lot of important work
+
+00:27:37.620 --> 00:27:40.410
+on neurons in the retina,
+that control circadian timing,
+
+00:27:40.410 --> 00:27:43.110
+but also the relationship
+between feeding windows
+
+00:27:43.110 --> 00:27:44.270
+and health.
+
+00:27:44.270 --> 00:27:49.270
+And he's sort of among the
+major proponents I should say,
+
+00:27:49.830 --> 00:27:52.110
+of circadian eating, that means
+eating during the daytime,
+
+00:27:52.110 --> 00:27:54.100
+not at night or intermittent fasting,
+
+00:27:54.100 --> 00:27:55.330
+restricting feeding windows
+
+00:27:55.330 --> 00:27:58.560
+to anywhere from four
+to six to eight hours.
+
+00:27:58.560 --> 00:28:00.750
+I'll use myself as an example
+
+00:28:00.750 --> 00:28:03.910
+of the transition from
+regular feeding schedule
+
+00:28:03.910 --> 00:28:07.090
+to a more intermittent-ish fasting,
+
+00:28:07.090 --> 00:28:10.210
+although I don't really fall
+into true intermittent fasting.
+
+00:28:10.210 --> 00:28:12.290
+So I was one of these people
+that just got so accustomed
+
+00:28:12.290 --> 00:28:16.320
+to waking up and eating about
+an hour after I woke up.
+
+00:28:16.320 --> 00:28:19.520
+That to go from eating
+every three or four hours
+
+00:28:19.520 --> 00:28:21.960
+to eating twice a day, lunch and dinner,
+
+00:28:21.960 --> 00:28:23.830
+maybe a couple of snacks in
+the afternoon or something.
+
+00:28:23.830 --> 00:28:25.660
+At first it was excruciating.
+
+00:28:25.660 --> 00:28:26.640
+I remember thinking like,
+
+00:28:26.640 --> 00:28:28.830
+this is really brutal pushing out feeding.
+
+00:28:28.830 --> 00:28:31.620
+I didn't think I could exercise
+unless I had eaten first.
+
+00:28:31.620 --> 00:28:35.480
+We now know that during
+most all forms of exercise
+
+00:28:35.480 --> 00:28:38.330
+unless you're really focused
+on optimal performance
+
+00:28:38.330 --> 00:28:39.760
+like you've got to hit key lifts
+
+00:28:39.760 --> 00:28:42.940
+or you have to sprint
+at your maximum speed.
+
+00:28:42.940 --> 00:28:46.080
+And maybe even then that you
+can exercise faster just fine,
+
+00:28:46.080 --> 00:28:49.460
+because you're mainly relying
+on sources like glycogen
+
+00:28:49.460 --> 00:28:52.180
+from the liver, some
+undigested food sometimes,
+
+00:28:52.180 --> 00:28:53.890
+as gross as that may seem it's true,
+
+00:28:53.890 --> 00:28:58.610
+as well as body fat if the
+exercise about is extremely long.
+
+00:28:58.610 --> 00:29:01.810
+But what that means is
+that if you suddenly go
+
+00:29:01.810 --> 00:29:04.990
+from eating on a very regular
+schedule to skipping a meal,
+
+00:29:04.990 --> 00:29:08.610
+or pushing your meal timing
+out or shifting at all,
+
+00:29:08.610 --> 00:29:10.120
+you're going to have
+ghrelin in your system.
+
+00:29:10.120 --> 00:29:12.700
+And that ghrelin is going to
+stimulate the desire to eat
+
+00:29:12.700 --> 00:29:14.430
+by acting at the level of your brain.
+
+00:29:14.430 --> 00:29:17.180
+And it is indeed at
+that point, just mental.
+
+00:29:17.180 --> 00:29:18.730
+When we hear about just
+mental, just physical,
+
+00:29:18.730 --> 00:29:19.800
+it's really kind of the same thing
+
+00:29:19.800 --> 00:29:21.680
+'cause it's all chemicals, brain and body.
+
+00:29:21.680 --> 00:29:24.300
+But it's the stimulation of
+neurons that anticipate feeding.
+
+00:29:24.300 --> 00:29:26.700
+You're stimulating the
+arcuate nucleus neurons
+
+00:29:26.700 --> 00:29:29.290
+that make you want to
+eat those AgRP neurons.
+
+00:29:29.290 --> 00:29:31.940
+So ghrelin stimulates the AgRP neurons,
+
+00:29:31.940 --> 00:29:33.600
+which makes you want to eat.
+
+00:29:33.600 --> 00:29:34.630
+So what can you do with this?
+
+00:29:34.630 --> 00:29:35.680
+What this means is,
+
+00:29:35.680 --> 00:29:39.270
+if you want to start shifting
+your feeding schedule
+
+00:29:39.270 --> 00:29:41.560
+to one where you're not
+eating quite as frequently,
+
+00:29:41.560 --> 00:29:43.160
+and there are some advantages to that
+
+00:29:43.160 --> 00:29:46.450
+that aren't just in the
+biochemistry and health related,
+
+00:29:46.450 --> 00:29:48.660
+you know, cellar health related things.
+
+00:29:48.660 --> 00:29:51.200
+But some of them include
+not having to think about
+
+00:29:51.200 --> 00:29:52.870
+or buy food, right?
+
+00:29:52.870 --> 00:29:54.840
+You actually don't have to
+think about food all day
+
+00:29:54.840 --> 00:29:56.470
+if you're not eating so often.
+
+00:29:56.470 --> 00:29:57.590
+The other is, it gives you
+
+00:29:57.590 --> 00:30:00.470
+a far more social flexibility, right?
+
+00:30:00.470 --> 00:30:02.780
+You can go to a noon
+meeting if you have to
+
+00:30:02.780 --> 00:30:05.077
+or you can go out to dinner
+at a particular time.
+
+00:30:05.077 --> 00:30:06.560
+And you know, I guess it
+makes it kind of tough
+
+00:30:06.560 --> 00:30:08.100
+if you want to meet
+somebody for breakfast,
+
+00:30:08.100 --> 00:30:09.410
+'cause then you're the dork
+
+00:30:09.410 --> 00:30:10.770
+who's just like sipping black coffee
+
+00:30:10.770 --> 00:30:11.840
+and like refusing everything.
+
+00:30:11.840 --> 00:30:14.460
+But anyway, I've been that dork.
+
+00:30:14.460 --> 00:30:17.360
+So it's one of those things
+you just kind of work with.
+
+00:30:17.360 --> 00:30:21.000
+But the fact of the matter
+is, ghrelin secretion,
+
+00:30:21.000 --> 00:30:24.160
+because of its relationship
+to the nervous system,
+
+00:30:24.160 --> 00:30:29.000
+can be shifted by about
+45 minutes per day.
+
+00:30:29.000 --> 00:30:30.130
+Now, it's going to vary.
+
+00:30:30.130 --> 00:30:33.200
+Some of you have more
+so-called willpower, you know.
+
+00:30:33.200 --> 00:30:35.460
+But if you really want to just start
+
+00:30:35.460 --> 00:30:39.300
+pushing that first meal out
+or shifting in any direction,
+
+00:30:39.300 --> 00:30:40.960
+some people might want to eat
+in the early part of the day
+
+00:30:40.960 --> 00:30:42.070
+and not in the evening.
+
+00:30:42.070 --> 00:30:44.670
+Trying to shift the
+mealtimes out the spacing
+
+00:30:44.670 --> 00:30:48.630
+by about 45 minutes, is
+what the neural circuits
+
+00:30:48.630 --> 00:30:51.150
+that link the ghrelin system
+to the neural circuits
+
+00:30:51.150 --> 00:30:53.140
+that control feeding, really can handle
+
+00:30:53.140 --> 00:30:55.250
+because it's a form of neuroplasticity.
+
+00:30:55.250 --> 00:30:56.490
+And so what this would look like is,
+
+00:30:56.490 --> 00:30:58.650
+if you normally you eat
+breakfast at eight o'clock
+
+00:30:58.650 --> 00:31:00.300
+plus or minus 20 minutes,
+
+00:31:00.300 --> 00:31:02.670
+and you want to start eating
+your first meal at noon
+
+00:31:02.670 --> 00:31:04.280
+you would take maybe four or five days
+
+00:31:04.280 --> 00:31:05.510
+and just start pushing the meal out
+
+00:31:05.510 --> 00:31:07.780
+by about 45 minutes to an hour each day.
+
+00:31:07.780 --> 00:31:09.610
+So it's not quite as painful.
+
+00:31:09.610 --> 00:31:12.460
+Or you can just take the plunge
+and just do it all at once.
+
+00:31:12.460 --> 00:31:16.160
+I have a colleague who was
+a neurosurgeon at Stanford,
+
+00:31:16.160 --> 00:31:18.100
+came up through my lab,
+he's now at Neuralink,
+
+00:31:18.100 --> 00:31:19.170
+and he has a great practice.
+
+00:31:19.170 --> 00:31:21.430
+He keeps his ghrelin system at random.
+
+00:31:21.430 --> 00:31:24.790
+What he does is he skips one meal per day
+
+00:31:24.790 --> 00:31:27.240
+and he makes his external
+schedule dictate that.
+
+00:31:27.240 --> 00:31:30.340
+So, sometimes he skips breakfast,
+sometimes he skips lunch,
+
+00:31:30.340 --> 00:31:31.173
+sometimes he skips dinner,
+
+00:31:31.173 --> 00:31:33.880
+he just skips one of the
+three major meals per day.
+
+00:31:33.880 --> 00:31:35.450
+And in doing that, the ghrelin system
+
+00:31:35.450 --> 00:31:37.760
+has always kind of kept off kilter.
+
+00:31:37.760 --> 00:31:39.240
+And it probably also allows him
+
+00:31:39.240 --> 00:31:41.050
+to have a lot of neural flexibility,
+
+00:31:41.050 --> 00:31:42.420
+what we call top-down control.
+
+00:31:42.420 --> 00:31:44.770
+Just the knowledge, Oh, you
+know the hunger I'm feeling
+
+00:31:44.770 --> 00:31:47.210
+isn't necessarily hypoglycemia.
+
+00:31:47.210 --> 00:31:49.460
+And in his case, it's
+almost certainly not.
+
+00:31:49.460 --> 00:31:51.690
+And therefore what I'm feeling here
+
+00:31:51.690 --> 00:31:54.230
+is an activation of these AgRP neurons,
+
+00:31:54.230 --> 00:31:56.410
+and therefore I can push
+my meal schedule around
+
+00:31:56.410 --> 00:31:57.680
+however I want.
+
+00:31:57.680 --> 00:32:00.430
+Now, I should mention that
+top-down mechanisms are powerful.
+
+00:32:00.430 --> 00:32:02.120
+Belief, motivation,
+
+00:32:02.120 --> 00:32:04.020
+these things can really
+shift neural circuits.
+
+00:32:04.020 --> 00:32:06.600
+We're going to talk more
+about that a little bit later.
+
+00:32:06.600 --> 00:32:10.340
+But there are also people who
+are genuinely hypoglycemic
+
+00:32:10.340 --> 00:32:11.750
+and they need to take really good control
+
+00:32:11.750 --> 00:32:14.010
+of their blood sugar levels
+and try and keep them stable.
+
+00:32:14.010 --> 00:32:15.880
+And so of course, you want to do
+
+00:32:15.880 --> 00:32:17.230
+what's medically safe for you.
+
+00:32:17.230 --> 00:32:18.690
+I'm not at all recommending
+
+00:32:18.690 --> 00:32:21.530
+that people that suffer from hypoglycemia
+
+00:32:21.530 --> 00:32:23.890
+suddenly disrupt their
+blood sugar patterns
+
+00:32:23.890 --> 00:32:26.520
+in any direction, that
+wouldn't be healthy.
+
+00:32:26.520 --> 00:32:27.580
+But for most people out there
+
+00:32:27.580 --> 00:32:30.780
+who have reasonable blood glucose levels,
+
+00:32:30.780 --> 00:32:32.320
+it's kind of interesting and kind of fun
+
+00:32:32.320 --> 00:32:33.780
+to play with these parameters
+
+00:32:33.780 --> 00:32:35.640
+in order to optimize what you want to do.
+
+00:32:35.640 --> 00:32:37.420
+And sometimes that might
+change across the year
+
+00:32:37.420 --> 00:32:38.300
+with schedules.
+
+00:32:38.300 --> 00:32:42.380
+Many find great benefit
+in having flexibility
+
+00:32:42.380 --> 00:32:43.620
+over when they eat.
+
+00:32:43.620 --> 00:32:47.080
+Regularity of eating equals
+regularity of ghrelin secretion
+
+00:32:47.080 --> 00:32:50.120
+equals regularity of activity
+of these AgRP neurons,
+
+00:32:50.120 --> 00:32:53.250
+meaning you'll be hungry
+at very regular intervals.
+
+00:32:53.250 --> 00:32:54.530
+So that's something
+that you can work with,
+
+00:32:54.530 --> 00:32:56.500
+it's grounded in deep mechanism
+
+00:32:56.500 --> 00:32:58.680
+of hormone and neural systems,
+
+00:32:58.680 --> 00:33:00.430
+and there's a lot of modern research
+
+00:33:00.430 --> 00:33:02.220
+to support what I just said.
+
+00:33:02.220 --> 00:33:06.490
+So, if MSH inhibits feeding,
+makes us want to eat less
+
+00:33:06.490 --> 00:33:10.170
+and ghrelin makes us want to eat more,
+
+00:33:10.170 --> 00:33:14.710
+there's another hormone
+called CCK, Cholecystokinin,
+
+00:33:14.710 --> 00:33:19.510
+that is potent in reducing
+our levels of hunger.
+
+00:33:19.510 --> 00:33:22.340
+Now, I learned about CCK back
+when I was an undergraduate.
+
+00:33:22.340 --> 00:33:27.340
+So, well over 20 years ago,
+when it was first discovered.
+
+00:33:27.420 --> 00:33:30.480
+And there was a lot of excitement
+about CCK at that point
+
+00:33:30.480 --> 00:33:32.230
+as a diet drug.
+
+00:33:32.230 --> 00:33:34.410
+You know, anytime there's a molecule
+
+00:33:34.410 --> 00:33:36.620
+or a chemical discovered
+in the brain or body
+
+00:33:36.620 --> 00:33:40.950
+that can suppress feeding, the
+diet industry just goes wild
+
+00:33:40.950 --> 00:33:42.240
+and they think, this is
+going to be the thing
+
+00:33:42.240 --> 00:33:45.340
+that's going to allow people
+to move from being obese
+
+00:33:45.340 --> 00:33:48.860
+to losing all sorts of
+unhealthy weight, et cetera.
+
+00:33:48.860 --> 00:33:51.740
+A similar phenomenon was
+observed with leptin.
+
+00:33:51.740 --> 00:33:55.630
+Leptin is a hormone
+that's made by body fat
+
+00:33:55.630 --> 00:33:58.880
+that signals to the brain when
+there's a lot of body fat,
+
+00:33:58.880 --> 00:34:01.130
+and in animals injections of leptin
+
+00:34:01.130 --> 00:34:02.900
+can make fat animals thin.
+
+00:34:02.900 --> 00:34:05.850
+They lose a lot of adipose or fat.
+
+00:34:05.850 --> 00:34:08.040
+In humans, it didn't work out that way.
+
+00:34:08.040 --> 00:34:11.640
+It just the studies were done
+and leptin was successful
+
+00:34:11.640 --> 00:34:13.610
+in treating a certain
+rare form of diabetes,
+
+00:34:13.610 --> 00:34:17.380
+but it really wasn't very
+potent as an anti-obesity drug.
+
+00:34:17.380 --> 00:34:22.380
+Similarly, CCK has been
+looked at as an obesity drug,
+
+00:34:23.520 --> 00:34:25.560
+something to reduce obesity.
+
+00:34:25.560 --> 00:34:29.160
+But it had some pretty
+unhappy side effects
+
+00:34:29.160 --> 00:34:31.440
+actually caused some pretty
+serious side effects.
+
+00:34:31.440 --> 00:34:33.340
+Now that's as drug.
+
+00:34:33.340 --> 00:34:38.340
+However, CCK when released
+at normal levels by your gut
+
+00:34:38.920 --> 00:34:40.840
+has a powerful effect
+
+00:34:40.840 --> 00:34:43.570
+in suppressing appetite
+for a period of time.
+
+00:34:43.570 --> 00:34:48.430
+And there are healthy and
+direct ways to activate CCK.
+
+00:34:48.430 --> 00:34:52.100
+Now, CCK is in the GI tract,
+
+00:34:52.100 --> 00:34:53.950
+it's released from the GI tract.
+
+00:34:53.950 --> 00:34:56.680
+And it's release is
+governed by two things.
+
+00:34:56.680 --> 00:34:59.970
+One is a subset of very
+specialized neurons
+
+00:34:59.970 --> 00:35:01.690
+that detect what's in the gut,
+
+00:35:01.690 --> 00:35:04.280
+the specific contents of the gut.
+
+00:35:04.280 --> 00:35:07.340
+And by certain elements of the mucosa,
+
+00:35:07.340 --> 00:35:11.270
+of the mucus lining of the
+gut and the gut microbiome.
+
+00:35:11.270 --> 00:35:13.410
+So what's really interesting,
+
+00:35:13.410 --> 00:35:18.410
+is that CCK is stimulated by fatty acids
+
+00:35:19.010 --> 00:35:21.810
+and particular fatty acids
+that we'll talk about.
+
+00:35:21.810 --> 00:35:25.330
+Amino acids, and particular amino acids
+
+00:35:25.330 --> 00:35:28.950
+that we'll talk about,
+as well as by sugar.
+
+00:35:28.950 --> 00:35:31.090
+Now, let's put sugar on
+the shelf for a moment.
+
+00:35:31.090 --> 00:35:32.720
+We're going to talk a lot about sugar
+
+00:35:32.720 --> 00:35:37.630
+because if CCK inhibits
+appetite and reduces feeding,
+
+00:35:37.630 --> 00:35:42.200
+and it can be triggered by
+fatty acids, amino acids,
+
+00:35:42.200 --> 00:35:43.880
+or sugars, then you might say,
+
+00:35:43.880 --> 00:35:45.450
+well, then in eating a lot of sugars
+
+00:35:45.450 --> 00:35:47.270
+should make us not want to eat more,
+
+00:35:47.270 --> 00:35:49.230
+but we all know that eating sugar
+
+00:35:49.230 --> 00:35:52.150
+makes us want to eat far more.
+
+00:35:52.150 --> 00:35:54.030
+That's the role of a lot of sugars.
+
+00:35:54.030 --> 00:35:55.770
+And that has to do with
+a separate mechanism
+
+00:35:55.770 --> 00:35:57.550
+we'll talk about today.
+
+00:35:57.550 --> 00:36:00.160
+So, which fatty acids in the gut
+
+00:36:00.160 --> 00:36:02.160
+stimulate the release of CCK?
+
+00:36:02.160 --> 00:36:04.790
+It turns out it's the omega-3 fatty acids,
+
+00:36:04.790 --> 00:36:08.200
+the ones that come from
+algae or krill or fish oil.
+
+00:36:08.200 --> 00:36:10.870
+I talked about this in
+the episode on nutrition
+
+00:36:10.870 --> 00:36:13.790
+and some of the things
+related to the gut microbiome.
+
+00:36:13.790 --> 00:36:15.340
+And I'm going to revisit that now.
+
+00:36:16.410 --> 00:36:21.410
+Omega-3 fatty acids and
+Conjugated linoleic acid, CLA,
+
+00:36:22.010 --> 00:36:24.440
+either from food or from supplements,
+
+00:36:24.440 --> 00:36:26.560
+stimulate the release of CCK
+
+00:36:26.560 --> 00:36:29.810
+which then reduces, or
+at least blunts appetite.
+
+00:36:29.810 --> 00:36:31.650
+And I'm not talking
+about blunting appetite
+
+00:36:31.650 --> 00:36:33.950
+to anorexic levels where you
+don't want to eat at all.
+
+00:36:33.950 --> 00:36:35.500
+I'm talking about regulating appetite
+
+00:36:35.500 --> 00:36:38.640
+to the point where animals
+and people don't over-consume.
+
+00:36:38.640 --> 00:36:41.003
+So it's keeping appetite
+at a healthy level.
+
+00:36:41.950 --> 00:36:44.750
+The other thing that stimulates
+CCK that I mentioned,
+
+00:36:44.750 --> 00:36:46.220
+are amino acids.
+
+00:36:46.220 --> 00:36:49.410
+So when we eat, we have
+the ability to break down
+
+00:36:49.410 --> 00:36:53.510
+different macronutrients,
+you know, carbohydrates, fats
+
+00:36:54.980 --> 00:36:58.110
+or proteins, into sugars and glucose,
+
+00:36:58.110 --> 00:36:59.197
+that then we can convert to ATP
+
+00:36:59.197 --> 00:37:01.460
+and all that stuff from a
+Krebs cycle from high school.
+
+00:37:01.460 --> 00:37:02.530
+We're not going to go into that today,
+
+00:37:02.530 --> 00:37:04.180
+that's for a future episode.
+
+00:37:04.180 --> 00:37:07.450
+But amino acids are one of the things
+
+00:37:07.450 --> 00:37:09.150
+that we are eating for.
+
+00:37:09.150 --> 00:37:12.770
+Amino acids both can be used as energy
+
+00:37:12.770 --> 00:37:15.190
+through a process called gluconeogenesis,
+
+00:37:15.190 --> 00:37:17.410
+of converting proteins into energy.
+
+00:37:17.410 --> 00:37:19.870
+Or those amino acids can be broken down
+
+00:37:19.870 --> 00:37:22.990
+and then rebuilt into things
+like preparing, excuse me,
+
+00:37:22.990 --> 00:37:24.210
+repairing muscle tissue
+
+00:37:24.210 --> 00:37:26.470
+as well as other forms of cellar repair.
+
+00:37:26.470 --> 00:37:27.530
+They're involved in all sorts of things
+
+00:37:27.530 --> 00:37:29.680
+related to protein synthesis.
+
+00:37:29.680 --> 00:37:31.280
+What does this mean?
+
+00:37:31.280 --> 00:37:35.140
+If we eat the proper amino
+acids at the proper levels,
+
+00:37:35.140 --> 00:37:38.790
+if we ingest omega-3's and
+CLA's, Conjugated linoleic acids
+
+00:37:38.790 --> 00:37:41.570
+at the proper levels, or
+get them from supplements,
+
+00:37:41.570 --> 00:37:43.430
+there's a blunting of appetite.
+
+00:37:43.430 --> 00:37:46.520
+Appetite is kept clamped and
+we don't become hyperphagic.
+
+00:37:46.520 --> 00:37:47.600
+We don't overeat.
+
+00:37:47.600 --> 00:37:50.640
+We tend to eat within
+healthy or normal ranges.
+
+00:37:50.640 --> 00:37:52.680
+So this is very important,
+
+00:37:52.680 --> 00:37:57.550
+because most people don't
+understand that when we're eating,
+
+00:37:57.550 --> 00:38:02.050
+we are basically fat foraging
+and amino acid foraging.
+
+00:38:02.050 --> 00:38:04.630
+And there are several
+studies now have shown,
+
+00:38:04.630 --> 00:38:07.190
+that people and animals
+will essentially eat
+
+00:38:07.190 --> 00:38:11.680
+until they feel they've
+consumed enough omega-3's,
+
+00:38:11.680 --> 00:38:15.670
+omega-6's, CLA's, and certain amino acids.
+
+00:38:15.670 --> 00:38:18.580
+In other words, even
+if it's not conscious,
+
+00:38:18.580 --> 00:38:21.820
+we are eating until we
+trigger the activation of CCK.
+
+00:38:21.820 --> 00:38:23.950
+Now, there are other reasons
+why we shut down eating too.
+
+00:38:23.950 --> 00:38:28.080
+Are literally, the volume of
+food in our gut can be large,
+
+00:38:28.080 --> 00:38:30.030
+and we can feel very distended.
+
+00:38:30.030 --> 00:38:33.450
+That's the physical reason obviously.
+
+00:38:33.450 --> 00:38:34.870
+There are other reasons,
+
+00:38:34.870 --> 00:38:37.040
+maybe we just have top-down control.
+
+00:38:37.040 --> 00:38:40.000
+We have knowledge that
+this is the end of the meal
+
+00:38:40.000 --> 00:38:41.380
+and we stop 'cause we
+have to go back to work
+
+00:38:41.380 --> 00:38:44.520
+or to a meeting, or we tell
+ourselves we've had enough.
+
+00:38:44.520 --> 00:38:48.090
+But at a subconscious level,
+
+00:38:48.090 --> 00:38:52.190
+the gut is informing the brain
+via CCK and other mechanisms
+
+00:38:52.190 --> 00:38:54.480
+when we've ingested
+enough of what we need.
+
+00:38:54.480 --> 00:38:58.410
+And these omega-3's and
+CLA's and certain amino acids
+
+00:38:58.410 --> 00:39:01.840
+are vital for sending out that
+signal that we've had enough.
+
+00:39:01.840 --> 00:39:04.640
+Now, which amino acids is
+actually really interesting?
+
+00:39:04.640 --> 00:39:05.910
+We have essential amino acids
+
+00:39:05.910 --> 00:39:08.020
+and we have non-essential amino acids.
+
+00:39:08.020 --> 00:39:10.400
+Among the essential amino acids,
+
+00:39:10.400 --> 00:39:11.680
+there's one in particular
+
+00:39:11.680 --> 00:39:14.760
+that can trigger the release
+of CCK very potently,
+
+00:39:14.760 --> 00:39:15.923
+and that's glutamine.
+
+00:39:16.770 --> 00:39:19.260
+Glutamine is a very
+interesting amino acid.
+
+00:39:19.260 --> 00:39:22.260
+First of all, it's been
+shown in a few studies
+
+00:39:22.260 --> 00:39:25.370
+to play a role in bolstering
+the immune system.
+
+00:39:25.370 --> 00:39:27.380
+It can increase the number of killer cells
+
+00:39:27.380 --> 00:39:28.430
+in the immune system.
+
+00:39:29.310 --> 00:39:31.370
+It is consumed but in supplement form.
+
+00:39:31.370 --> 00:39:32.300
+You know, people can take it.
+
+00:39:32.300 --> 00:39:33.560
+You know, a teaspoon of glutamine
+
+00:39:33.560 --> 00:39:35.780
+or some people take
+glutamine throughout the day,
+
+00:39:35.780 --> 00:39:38.020
+if they're really into it
+or for whatever reason,
+
+00:39:38.020 --> 00:39:39.580
+they think they're
+battling off an infection
+
+00:39:39.580 --> 00:39:41.110
+or something of that sort.
+
+00:39:41.110 --> 00:39:43.610
+Glutamine can also of course
+be derived from foods.
+
+00:39:43.610 --> 00:39:45.980
+And you can just put into the Internet,
+
+00:39:45.980 --> 00:39:46.840
+do an Internet search
+
+00:39:46.840 --> 00:39:48.780
+and find out what foods
+are rich with glutamine.
+
+00:39:48.780 --> 00:39:51.180
+Some of the ones that I'm
+aware of off the top of my head
+
+00:39:51.180 --> 00:39:53.240
+are like cottage cheese,
+and things of that sort.
+
+00:39:53.240 --> 00:39:55.190
+But other foods have glutamine as well.
+
+00:39:57.040 --> 00:39:59.140
+Once a threshold level of glutamine
+
+00:39:59.140 --> 00:40:01.460
+and other essential
+amino acids are reached,
+
+00:40:01.460 --> 00:40:05.010
+once the threshold level of
+these Alpha-3, excuse me,
+
+00:40:05.010 --> 00:40:09.250
+Omega-3 fatty acids and CLA's
+are reached, CCK is released,
+
+00:40:09.250 --> 00:40:11.690
+and it helps reduce the activity
+
+00:40:11.690 --> 00:40:14.950
+of those AgRP neurons
+that promote feeding.
+
+00:40:14.950 --> 00:40:16.900
+So as you can see, feeding is an interplay
+
+00:40:16.900 --> 00:40:18.470
+between brain and body.
+
+00:40:18.470 --> 00:40:20.140
+And it's some of the micronutrients
+
+00:40:20.140 --> 00:40:22.210
+and even the breakdown
+of particular nutrients,
+
+00:40:22.210 --> 00:40:24.160
+that's putting the accelerator
+
+00:40:24.160 --> 00:40:26.070
+or the brake on the feeding process.
+
+00:40:26.070 --> 00:40:27.730
+It's not just one thing.
+
+00:40:27.730 --> 00:40:29.663
+So from an actionable standpoint,
+
+00:40:31.190 --> 00:40:35.270
+you, we should probably all
+be trying to get our omega-3,
+
+00:40:35.270 --> 00:40:37.500
+Omega-6 ratios correct anyway,
+
+00:40:37.500 --> 00:40:39.220
+because they are antidepressant.
+
+00:40:39.220 --> 00:40:41.750
+I talked about the peer
+reviewed studies on that.
+
+00:40:41.750 --> 00:40:44.070
+They are healthy for the gut microbiome,
+
+00:40:44.070 --> 00:40:47.460
+and we should be seeking
+sufficient glutamine.
+
+00:40:47.460 --> 00:40:48.500
+Now, whether or not you decide
+
+00:40:48.500 --> 00:40:51.000
+to supplement with glutamine
+or not, is up to you.
+
+00:40:52.300 --> 00:40:55.080
+One of the reasons why
+one might want to do that,
+
+00:40:55.080 --> 00:40:56.880
+and again, you should
+always check with a doctor,
+
+00:40:56.880 --> 00:40:59.310
+especially if you have any
+predisposition to cancers
+
+00:40:59.310 --> 00:41:03.660
+or you have cancer, many cancers
+and tumors like glutamine,
+
+00:41:03.660 --> 00:41:05.020
+so that's something to note.
+
+00:41:05.020 --> 00:41:08.450
+But one reason why you might
+want to supplement with glutamine
+
+00:41:08.450 --> 00:41:10.690
+or consider eating foods
+that are rich in glutamine,
+
+00:41:10.690 --> 00:41:13.760
+isn't just to keep your
+appetite in healthy ranges,
+
+00:41:13.760 --> 00:41:18.540
+but as well, glutamine can
+actually reduce sugar cravings.
+
+00:41:18.540 --> 00:41:20.000
+So this is very interesting.
+
+00:41:20.000 --> 00:41:23.010
+I have a friend, he's an absolute
+chocolate, sweets addict.
+
+00:41:23.010 --> 00:41:26.740
+He's a grown adult, but he
+eats candy and chocolate
+
+00:41:28.189 --> 00:41:29.860
+as if he was like a 14 year old kid
+
+00:41:29.860 --> 00:41:31.640
+hanging out at the
+local convenience store.
+
+00:41:31.640 --> 00:41:33.330
+It's really incredible.
+
+00:41:33.330 --> 00:41:36.980
+And he has probably a sugar addiction,
+
+00:41:36.980 --> 00:41:38.110
+but he's very aware of this
+
+00:41:38.110 --> 00:41:40.430
+and he's managed to kick
+all other addictions.
+
+00:41:40.430 --> 00:41:43.440
+So, for whatever reason, it
+stimulates his brain and body
+
+00:41:43.440 --> 00:41:45.940
+in the ways that make him
+want more, but he hates this.
+
+00:41:45.940 --> 00:41:47.950
+It's actually quite frustrating for him.
+
+00:41:47.950 --> 00:41:50.220
+He's somebody who cares
+a lot about his health.
+
+00:41:50.220 --> 00:41:53.440
+He took the approach that I
+know many other people have
+
+00:41:53.440 --> 00:41:55.220
+who know about this role of glutamine,
+
+00:41:55.220 --> 00:41:57.090
+of taking a teaspoon
+
+00:41:57.090 --> 00:41:58.800
+or a couple of teaspoons of glutamine
+
+00:41:58.800 --> 00:42:02.650
+several times throughout the
+day or anytime he craves sugar.
+
+00:42:02.650 --> 00:42:06.000
+And indeed, glutamine, well,
+reduced sugar cravings.
+
+00:42:06.000 --> 00:42:09.580
+Some people who are really on
+the kind of ketogenic front,
+
+00:42:09.580 --> 00:42:11.150
+will mix it with a little
+bit of half and half
+
+00:42:11.150 --> 00:42:11.983
+and down that,
+
+00:42:11.983 --> 00:42:13.090
+and because I guess it
+makes it taste better,
+
+00:42:13.090 --> 00:42:14.350
+it's a little bit chalky.
+
+00:42:14.350 --> 00:42:16.840
+So, glutamine has some very
+interesting properties.
+
+00:42:16.840 --> 00:42:17.960
+But I think for most people
+
+00:42:17.960 --> 00:42:20.933
+that aren't suffering from
+adverse levels of craving,
+
+00:42:22.050 --> 00:42:24.470
+making sure you're getting
+the right omega-3's
+
+00:42:24.470 --> 00:42:26.510
+that can come from a variety of sources,
+
+00:42:26.510 --> 00:42:29.580
+check out the episode we did on nutrition
+
+00:42:29.580 --> 00:42:31.260
+if you want to learn more about that.
+
+00:42:31.260 --> 00:42:33.840
+And CLA's, and making sure
+
+00:42:33.840 --> 00:42:35.070
+that you're getting enough glutamine
+
+00:42:35.070 --> 00:42:36.480
+is going to be important for making sure
+
+00:42:36.480 --> 00:42:39.260
+that the CCK signal gets through.
+
+00:42:39.260 --> 00:42:41.150
+The one thing I do want to
+mention about glutamine,
+
+00:42:41.150 --> 00:42:45.930
+it's a minor effect, but it
+alone can have a small increase,
+
+00:42:45.930 --> 00:42:49.220
+excuse me, it alone can
+increase blood sugar.
+
+00:42:49.220 --> 00:42:51.400
+It's not a huge increase in blood glucose.
+
+00:42:51.400 --> 00:42:53.590
+But because the gut takes proteins
+
+00:42:53.590 --> 00:42:55.467
+and breaks them down
+into these amino acids,
+
+00:42:55.467 --> 00:42:58.500
+and essentially looking for
+glutamine and things like it,
+
+00:42:58.500 --> 00:43:00.303
+other essential amino acids as well.
+
+00:43:01.190 --> 00:43:03.980
+When you ingest glutamine
+or branch chain amino acids,
+
+00:43:03.980 --> 00:43:08.850
+there is a small but real
+increase in blood glucose.
+
+00:43:08.850 --> 00:43:11.350
+And that's because they
+are essentially food.
+
+00:43:11.350 --> 00:43:13.430
+And there I'm talking about
+the supplemental version.
+
+00:43:13.430 --> 00:43:17.690
+So, just know glutamine can
+increase blood sugar slightly,
+
+00:43:17.690 --> 00:43:19.430
+especially diabetics should know that.
+
+00:43:19.430 --> 00:43:21.550
+It can reduce sugar cravings.
+
+00:43:21.550 --> 00:43:25.100
+And just know that what your
+gut is doing at a core level
+
+00:43:25.100 --> 00:43:26.620
+is it's forging, it's waiting,
+
+00:43:26.620 --> 00:43:29.680
+and it's trying to assess
+levels of omega-3 fatty acid,
+
+00:43:29.680 --> 00:43:31.490
+conjugated linoleic acid,
+
+00:43:31.490 --> 00:43:33.390
+and glutamine, and other
+essential amino acids.
+
+00:43:33.390 --> 00:43:37.060
+You are essentially trying
+to eat to get these nutrients
+
+00:43:37.060 --> 00:43:39.390
+and then a signal can be
+deployed up to your brain,
+
+00:43:39.390 --> 00:43:42.940
+that you're not really interested
+in eating that much more.
+
+00:43:42.940 --> 00:43:45.100
+Whenever preparing an
+episode for this podcast
+
+00:43:45.100 --> 00:43:47.310
+I'm always faced with
+a particular challenge,
+
+00:43:47.310 --> 00:43:49.480
+which is, how many tools should I offer
+
+00:43:49.480 --> 00:43:51.640
+that involve doing something new?
+
+00:43:51.640 --> 00:43:54.590
+You know, a new behavior,
+a new exercise, supplement,
+
+00:43:54.590 --> 00:43:55.890
+something, things of that sort.
+
+00:43:55.890 --> 00:43:58.890
+And how many should be
+related to not doing things,
+
+00:43:58.890 --> 00:43:59.723
+avoiding things.
+
+00:43:59.723 --> 00:44:00.980
+It's never really fun to talk about
+
+00:44:00.980 --> 00:44:02.610
+all the things that
+we're supposed to avoid,
+
+00:44:02.610 --> 00:44:04.810
+but some of them are so powerful
+
+00:44:04.810 --> 00:44:08.170
+in light of the mechanisms
+of a given topic
+
+00:44:08.170 --> 00:44:11.020
+that I'd be remiss if
+I didn't mention them.
+
+00:44:11.020 --> 00:44:13.600
+So now you understand how hormones,
+
+00:44:13.600 --> 00:44:16.843
+and peptides like CCK and
+ghrelin impact appetite.
+
+00:44:17.730 --> 00:44:20.640
+There's one particular aspect of food
+
+00:44:20.640 --> 00:44:22.800
+that can powerfully impact CCK.
+
+00:44:22.800 --> 00:44:24.380
+And I think most people,
+
+00:44:24.380 --> 00:44:26.540
+I'm guessing 99.9% of people out there
+
+00:44:26.540 --> 00:44:28.370
+are not aware of this.
+
+00:44:28.370 --> 00:44:30.990
+And it has to do with
+highly processed foods.
+
+00:44:30.990 --> 00:44:32.040
+There's a lot of reasons
+
+00:44:32.040 --> 00:44:35.010
+why one would want to avoid
+highly processed foods.
+
+00:44:35.010 --> 00:44:36.600
+In fact, if you're
+interested in that topic
+
+00:44:36.600 --> 00:44:38.900
+and the history of whole foods,
+
+00:44:38.900 --> 00:44:40.930
+transitioning to highly
+processed foods in this country,
+
+00:44:40.930 --> 00:44:43.820
+I highly recommend you
+listen to a YouTube video
+
+00:44:43.820 --> 00:44:45.500
+by Dr. Robert Lustig,
+
+00:44:45.500 --> 00:44:47.550
+he's at university of
+California, San Francisco.
+
+00:44:47.550 --> 00:44:50.520
+It's very easy to find, put
+Stanford, Robert Lustig,
+
+00:44:50.520 --> 00:44:52.430
+it was a talk hosted by Stanford.
+
+00:44:52.430 --> 00:44:55.580
+Gives a a beautiful description
+of the history of this,
+
+00:44:55.580 --> 00:44:58.190
+and why the food industry
+started packing in
+
+00:44:58.190 --> 00:44:59.830
+additional sugars and salts,
+
+00:44:59.830 --> 00:45:03.480
+and turning foods into commodities,
+it's really fascinating.
+
+00:45:03.480 --> 00:45:06.600
+It has no conspiracy theory
+is just all scientific facts.
+
+00:45:06.600 --> 00:45:07.750
+It's really a wonderful lecture.
+
+00:45:07.750 --> 00:45:11.400
+It has millions of views, it
+should be very easy to find.
+
+00:45:11.400 --> 00:45:13.550
+We can provide a link
+to that, and we will.
+
+00:45:14.420 --> 00:45:15.350
+There's another reason
+
+00:45:15.350 --> 00:45:18.240
+to avoid highly processed foods however,
+
+00:45:18.240 --> 00:45:22.050
+and that has to do with
+what's called emulsifiers.
+
+00:45:22.050 --> 00:45:23.990
+Now, many of you are
+familiar with emulsifiers,
+
+00:45:23.990 --> 00:45:25.250
+even though you don't know it.
+
+00:45:25.250 --> 00:45:28.247
+When you put detergent in the laundry
+
+00:45:28.247 --> 00:45:32.360
+that contains emulsifiers,
+the goal of that detergent
+
+00:45:32.360 --> 00:45:35.997
+is to bring together fatty
+molecules with water molecules
+
+00:45:35.997 --> 00:45:38.470
+and be able to dissociate
+them and break them up
+
+00:45:38.470 --> 00:45:41.320
+to get the stains out of
+clothes and things of that sort.
+
+00:45:42.200 --> 00:45:46.480
+There are a lot of emulsifiers
+put into processed foods.
+
+00:45:46.480 --> 00:45:49.790
+And those emulsifiers allow
+certain chemical reactions
+
+00:45:49.790 --> 00:45:52.160
+to occur that extends the
+shelf life of those foods.
+
+00:45:52.160 --> 00:45:54.610
+So it's like candy bars and cereals,
+
+00:45:54.610 --> 00:45:57.560
+and all sorts of things
+that are in processed foods.
+
+00:45:57.560 --> 00:46:00.370
+The worst of which are the
+typical kind of pastries
+
+00:46:00.370 --> 00:46:01.570
+that you see at the convenience store.
+
+00:46:01.570 --> 00:46:04.550
+But this extends into
+chips of various kinds
+
+00:46:04.550 --> 00:46:06.410
+and even some meats of various kinds,
+
+00:46:06.410 --> 00:46:07.740
+they pack this stuff into meats.
+
+00:46:07.740 --> 00:46:10.580
+They have names like soy
+lecithin and other things.
+
+00:46:10.580 --> 00:46:12.490
+Why are emulsifiers bad?
+
+00:46:12.490 --> 00:46:14.040
+Okay, there are a lot of
+reasons why they're bad,
+
+00:46:14.040 --> 00:46:15.460
+but the reason why they're bad
+
+00:46:15.460 --> 00:46:18.050
+for the mechanisms that we've
+been talking about today,
+
+00:46:18.050 --> 00:46:20.410
+is that when you ingest those foods,
+
+00:46:20.410 --> 00:46:23.090
+you're bringing those
+emulsifiers into your gut.
+
+00:46:23.090 --> 00:46:26.140
+And those emulsifiers strip away
+
+00:46:26.140 --> 00:46:28.260
+the mucosal lining of the gut,
+
+00:46:28.260 --> 00:46:31.580
+and they actually cause the
+neurons that innervate the gut,
+
+00:46:31.580 --> 00:46:33.100
+that extend those little processes
+
+00:46:33.100 --> 00:46:37.650
+we call axons into the gut, to
+retract deeper into the gut.
+
+00:46:37.650 --> 00:46:40.830
+And as a consequence, you're
+ingesting a bunch of food
+
+00:46:40.830 --> 00:46:43.950
+and the signals like
+CCK never get deployed.
+
+00:46:43.950 --> 00:46:46.250
+The signals that actually shut down hunger
+
+00:46:46.250 --> 00:46:47.690
+are never actually triggered.
+
+00:46:47.690 --> 00:46:49.990
+And so, as a consequence
+you want to eat far more
+
+00:46:49.990 --> 00:46:51.710
+of these highly processed foods.
+
+00:46:51.710 --> 00:46:53.620
+In addition, if you then go
+
+00:46:53.620 --> 00:46:56.030
+from eating a highly processed food
+
+00:46:56.030 --> 00:46:57.460
+to non highly processed foods,
+
+00:46:57.460 --> 00:47:01.260
+you're not able to measure
+the amounts of amino acids,
+
+00:47:01.260 --> 00:47:04.480
+sugars, and fatty acids in
+those foods as accurately.
+
+00:47:04.480 --> 00:47:07.810
+You've actually done structural
+damage at a micro level,
+
+00:47:07.810 --> 00:47:10.200
+but structural level damage, excuse me,
+
+00:47:10.200 --> 00:47:11.860
+to the mucosal lining of the gut.
+
+00:47:11.860 --> 00:47:13.190
+Now, this can all be repaired
+
+00:47:13.190 --> 00:47:15.030
+if you stay away from
+highly processed foods
+
+00:47:15.030 --> 00:47:16.300
+for some period of time.
+
+00:47:16.300 --> 00:47:18.530
+But the negative effects
+of these emulsifiers
+
+00:47:18.530 --> 00:47:19.770
+are quite real.
+
+00:47:19.770 --> 00:47:22.373
+So, to make it really clean and simple,
+
+00:47:23.440 --> 00:47:25.730
+emulsifiers from highly processed foods
+
+00:47:25.730 --> 00:47:27.670
+are limiting your guts ability
+
+00:47:27.670 --> 00:47:29.450
+to detect what's in the foods you eat
+
+00:47:29.450 --> 00:47:31.850
+and therefore to deploy
+the satiety signals,
+
+00:47:31.850 --> 00:47:33.730
+the signals that shut down hunger.
+
+00:47:33.730 --> 00:47:36.720
+In addition to that, there's
+a parallel mechanism at play,
+
+00:47:36.720 --> 00:47:38.570
+that I talked about in a previous episode
+
+00:47:38.570 --> 00:47:41.410
+but I'll remind you again, that
+you have neurons in your gut
+
+00:47:41.410 --> 00:47:43.660
+that are sensing sugar,
+
+00:47:43.660 --> 00:47:46.780
+and are sending a subconscious
+signal up to the brain
+
+00:47:46.780 --> 00:47:48.423
+via the vagus nerve.
+
+00:47:49.410 --> 00:47:52.360
+And those neurons trigger
+the release of dopamine,
+
+00:47:52.360 --> 00:47:54.150
+which makes you crave more of that food.
+
+00:47:54.150 --> 00:47:56.370
+So now you've got parallel signals
+
+00:47:56.370 --> 00:47:58.270
+making you want to eat more sugar,
+
+00:47:58.270 --> 00:48:00.450
+making you unaware of how
+much sugar you've eaten,
+
+00:48:00.450 --> 00:48:04.610
+and that are disrupting the
+inputs to the nervous system
+
+00:48:04.610 --> 00:48:06.390
+that signal to the rest
+of your brain and body
+
+00:48:06.390 --> 00:48:08.460
+that you've obtained enough fatty acids
+
+00:48:08.460 --> 00:48:10.990
+and you've obtained enough amino acids.
+
+00:48:10.990 --> 00:48:14.040
+So these highly processed
+foods are really terrible.
+
+00:48:14.040 --> 00:48:15.910
+And you know, I'm not out here to say,
+
+00:48:15.910 --> 00:48:18.580
+you know, never enjoy a
+processed food of any kind,
+
+00:48:18.580 --> 00:48:20.880
+I'd be a hypocrite 'cause
+I do eat processed foods
+
+00:48:20.880 --> 00:48:21.713
+from time to time.
+
+00:48:21.713 --> 00:48:23.160
+Although the ones that I tend to eat,
+
+00:48:23.160 --> 00:48:24.800
+I try and make of the healthier variety.
+
+00:48:24.800 --> 00:48:27.880
+But eating whole foods
+has tremendous value
+
+00:48:27.880 --> 00:48:29.740
+and eating highly processed food
+
+00:48:29.740 --> 00:48:32.890
+has tremendous negative impact on the gut
+
+00:48:32.890 --> 00:48:34.540
+and on the gut brain axis.
+
+00:48:34.540 --> 00:48:37.410
+And so, recently there
+was a paper that came out
+
+00:48:37.410 --> 00:48:38.740
+in Cell, Cell Press journal,
+
+00:48:38.740 --> 00:48:40.660
+it's kind of the apex of Cell journals,
+
+00:48:40.660 --> 00:48:42.010
+which is a phenomenal.
+
+00:48:42.010 --> 00:48:45.620
+This paper showed that,
+ingesting highly processed food
+
+00:48:45.620 --> 00:48:49.440
+leads to more intake of not
+just highly processed foods
+
+00:48:49.440 --> 00:48:51.870
+but other types of food in general.
+
+00:48:51.870 --> 00:48:54.120
+There was kind of an
+overeating compensation
+
+00:48:54.120 --> 00:48:55.760
+generally across foods
+
+00:48:55.760 --> 00:48:57.730
+for people that consume
+these highly processed foods.
+
+00:48:57.730 --> 00:48:58.900
+And there are a lot of other reasons
+
+00:48:58.900 --> 00:49:00.460
+to avoid highly processed foods.
+
+00:49:00.460 --> 00:49:02.970
+So again, I don't like to
+focus too much on the do nots,
+
+00:49:02.970 --> 00:49:05.360
+I like to arm you with tools to do.
+
+00:49:05.360 --> 00:49:07.837
+But I think this visual of certain foods
+
+00:49:07.837 --> 00:49:10.200
+and these emulsifiers
+actually stripping away
+
+00:49:10.200 --> 00:49:12.570
+some of the critical lining of your gut
+
+00:49:12.570 --> 00:49:14.680
+and disrupting the hormone
+signaling to the brain
+
+00:49:14.680 --> 00:49:19.260
+controlling feeding, is important
+enough and cryptic enough,
+
+00:49:19.260 --> 00:49:21.060
+meaning it hasn't been talked about,
+
+00:49:21.060 --> 00:49:23.130
+it works at a subconscious level,
+
+00:49:23.130 --> 00:49:26.010
+and that it's important
+that people are aware of it
+
+00:49:26.010 --> 00:49:27.940
+so they can make decisions
+about what they do want to eat
+
+00:49:27.940 --> 00:49:29.940
+or not want to eat for themselves.
+
+00:49:29.940 --> 00:49:32.020
+Before moving on, I just
+want to say one more thing
+
+00:49:32.020 --> 00:49:34.270
+about highly processed foods.
+
+00:49:34.270 --> 00:49:36.840
+There was an absolutely beautiful study
+
+00:49:36.840 --> 00:49:39.270
+done by my colleague,
+Chris Gardner at Stanford,
+
+00:49:39.270 --> 00:49:40.420
+exploring whether or not
+
+00:49:40.420 --> 00:49:42.210
+certain diets were better than others.
+
+00:49:42.210 --> 00:49:45.910
+They looked at vegan,
+vegetarian, omnivore,
+
+00:49:45.910 --> 00:49:47.870
+I don't know if they
+looked at all meat or not,
+
+00:49:47.870 --> 00:49:49.380
+but they looked at the
+different forms of diets,
+
+00:49:49.380 --> 00:49:50.840
+intermittent fasting, et cetera.
+
+00:49:50.840 --> 00:49:53.370
+And they essentially found that,
+
+00:49:53.370 --> 00:49:55.760
+whichever diet people adhered to,
+
+00:49:55.760 --> 00:49:59.150
+whichever one they followed,
+was equivalent to the others.
+
+00:49:59.150 --> 00:50:00.400
+Provided that they followed it,
+
+00:50:00.400 --> 00:50:02.480
+they lost the equivalent amount of weight.
+
+00:50:02.480 --> 00:50:06.310
+There really wasn't a strong
+effect of the food type
+
+00:50:06.310 --> 00:50:08.280
+or the pattern of eating, et cetera.
+
+00:50:08.280 --> 00:50:09.537
+However, in a study like that,
+
+00:50:09.537 --> 00:50:12.780
+adherence is very high because
+people are a part of a study.
+
+00:50:12.780 --> 00:50:14.440
+And for many people,
+
+00:50:14.440 --> 00:50:17.180
+the ability to adhere
+to a certain eating plan
+
+00:50:17.180 --> 00:50:21.460
+is one of the most, if not
+the most powerful determinants
+
+00:50:21.460 --> 00:50:23.150
+of whether or not a given diet
+
+00:50:23.150 --> 00:50:25.570
+meaning nutritional plan works.
+
+00:50:25.570 --> 00:50:28.420
+Now, this thing about highly
+processed foods however,
+
+00:50:28.420 --> 00:50:29.890
+is really diabolical.
+
+00:50:29.890 --> 00:50:32.210
+Because it truly says,
+
+00:50:32.210 --> 00:50:35.050
+and I think the recent
+data in cell metabolism
+
+00:50:35.050 --> 00:50:37.110
+and other journals really proves that,
+
+00:50:37.110 --> 00:50:38.580
+a calorie is not a calorie.
+
+00:50:38.580 --> 00:50:40.897
+That's absolutely absurd
+because of these emulsifiers
+
+00:50:40.897 --> 00:50:44.350
+and the contents of these
+highly processed foods.
+
+00:50:44.350 --> 00:50:47.870
+In fact, the data in
+humans points to this.
+
+00:50:47.870 --> 00:50:50.810
+So what they did is they
+took in-patient adults,
+
+00:50:50.810 --> 00:50:53.040
+so they had total control
+over their food intake.
+
+00:50:53.040 --> 00:50:55.220
+And they received either ultra processed
+
+00:50:55.220 --> 00:50:58.450
+or unprocessed diets for
+14 days, as a short study.
+
+00:50:58.450 --> 00:51:01.260
+The diets were matched
+for calories, sugar,
+
+00:51:01.260 --> 00:51:03.230
+fat, fiber, and macronutrients.
+
+00:51:03.230 --> 00:51:04.220
+So everything else was matched.
+
+00:51:04.220 --> 00:51:08.780
+Just processed or non-processed
+is the major variable.
+
+00:51:08.780 --> 00:51:10.820
+And basically what they found,
+
+00:51:10.820 --> 00:51:14.630
+is that the people who are
+eating the processed food diet
+
+00:51:14.630 --> 00:51:16.880
+happened to eat much more, right?
+
+00:51:16.880 --> 00:51:19.370
+This was after this period of
+putting them on either diet
+
+00:51:19.370 --> 00:51:21.310
+and clamping for all other variables.
+
+00:51:21.310 --> 00:51:23.080
+Then they would eat much more,
+
+00:51:23.080 --> 00:51:25.180
+and the body weight
+changes were much more.
+
+00:51:25.180 --> 00:51:27.510
+And those body weight changes,
+
+00:51:27.510 --> 00:51:30.070
+were such that they
+couldn't be accounted for
+
+00:51:30.070 --> 00:51:31.690
+by just increased calories.
+
+00:51:31.690 --> 00:51:34.720
+So, the bottom line is
+that highly processed foods
+
+00:51:34.720 --> 00:51:35.600
+are just bad for you.
+
+00:51:35.600 --> 00:51:36.960
+They increase weight gain.
+
+00:51:36.960 --> 00:51:38.740
+They disrupt the lining of your gut
+
+00:51:38.740 --> 00:51:41.010
+in a way that disrupts things like CCK
+
+00:51:41.010 --> 00:51:42.720
+and proper satiety signals.
+
+00:51:42.720 --> 00:51:46.210
+And they contain a bunch of
+things, in particular sugars,
+
+00:51:46.210 --> 00:51:47.650
+but other things as well,
+
+00:51:47.650 --> 00:51:50.030
+that disrupt not just the hormonal systems
+
+00:51:50.030 --> 00:51:53.510
+but also the neural systems
+that control the desire to eat
+
+00:51:53.510 --> 00:51:55.170
+after the diet is done.
+
+00:51:55.170 --> 00:51:56.590
+So there's just so many reasons
+
+00:51:56.590 --> 00:51:59.600
+why these highly processed
+foods are terrible,
+
+00:51:59.600 --> 00:52:01.870
+and they can explain a lot
+of the ill health effects
+
+00:52:01.870 --> 00:52:03.900
+that we've seen in the last 50 years
+
+00:52:03.900 --> 00:52:05.810
+not just in the United States,
+but all over the world.
+
+00:52:05.810 --> 00:52:09.193
+That enormous increase in
+diabetes, juvenile diabetes.
+
+00:52:10.290 --> 00:52:11.780
+It's just remarkable
+
+00:52:11.780 --> 00:52:15.130
+how far down the path of diet we've gone.
+
+00:52:15.130 --> 00:52:17.450
+And it's clear, it's almost a smoking gun
+
+00:52:17.450 --> 00:52:18.590
+what the cause of this is.
+
+00:52:18.590 --> 00:52:20.390
+If you'd like to learn more about that
+
+00:52:20.390 --> 00:52:22.270
+please refer to the Lustig lecture.
+
+00:52:22.270 --> 00:52:27.120
+He also spells out why non-processed foods
+
+00:52:27.120 --> 00:52:30.050
+is far more economical in terms of
+
+00:52:30.050 --> 00:52:32.060
+just at the level of the
+household or individual
+
+00:52:32.060 --> 00:52:33.840
+as well as at the societal level.
+
+00:52:33.840 --> 00:52:34.850
+Really interesting stuff,
+
+00:52:34.850 --> 00:52:36.550
+I highly recommend you check it out.
+
+00:52:36.550 --> 00:52:38.480
+So now let's move on
+to some other hormones
+
+00:52:38.480 --> 00:52:43.220
+that regulate hunger and
+satiety, in particular insulin.
+
+00:52:43.220 --> 00:52:45.180
+Now, you've probably
+heard of insulin before.
+
+00:52:45.180 --> 00:52:48.570
+Insulin is the thing that's
+lacking in type I diabetics,
+
+00:52:48.570 --> 00:52:50.770
+that's why they have to inject
+insulin whenever they eat.
+
+00:52:50.770 --> 00:52:53.340
+The reason they have to do
+that, is because when they eat
+
+00:52:53.340 --> 00:52:55.840
+their foods are broken down into glucose.
+
+00:52:55.840 --> 00:52:57.630
+And in order to shuttle glucose
+
+00:52:57.630 --> 00:52:59.690
+to the appropriate tissues in the body,
+
+00:52:59.690 --> 00:53:03.420
+and also to keep glucose levels
+in check, you need insulin.
+
+00:53:03.420 --> 00:53:06.950
+So the simplest way to think
+about insulin and glucose
+
+00:53:06.950 --> 00:53:11.193
+is that when you eat, that food
+is broken down into sugars,
+
+00:53:12.240 --> 00:53:15.400
+that's true whether or not
+it's fats or it's sugars,
+
+00:53:15.400 --> 00:53:17.900
+or eventually if it's proteins,
+
+00:53:17.900 --> 00:53:20.333
+they are oxidized into fuels as we say.
+
+00:53:21.430 --> 00:53:23.480
+And those fuels can be used
+
+00:53:23.480 --> 00:53:25.630
+as the name fuel implies into energy,
+
+00:53:25.630 --> 00:53:27.320
+they're eventually made into ATP.
+
+00:53:27.320 --> 00:53:28.556
+There's a bunch of biochemical steps there
+
+00:53:28.556 --> 00:53:29.870
+we're not going to go into today,
+
+00:53:29.870 --> 00:53:30.860
+but that's essentially how it works.
+
+00:53:30.860 --> 00:53:32.850
+You break down food into glucose.
+
+00:53:32.850 --> 00:53:33.980
+Now, if you're ketogenic,
+
+00:53:33.980 --> 00:53:36.110
+we'll talk about that in a little bit.
+
+00:53:36.110 --> 00:53:40.463
+But in general, you eat,
+food is turned into glucose.
+
+00:53:41.530 --> 00:53:44.400
+Your blood sugar needs to be
+kept in a particular range.
+
+00:53:44.400 --> 00:53:48.580
+Hypoglycemic means too low,
+hyperglycemic means too high.
+
+00:53:48.580 --> 00:53:53.550
+And what they called
+euglycemic E-U, glycemic,
+
+00:53:53.550 --> 00:53:55.053
+is the healthy range.
+
+00:53:55.890 --> 00:53:58.253
+Now, what those healthy ranges are,
+
+00:53:59.250 --> 00:54:02.180
+in general the healthy
+range, the euglycemic range,
+
+00:54:02.180 --> 00:54:06.410
+is about 70 to a hundred
+nanograms per deciliter.
+
+00:54:06.410 --> 00:54:07.640
+But most of you aren't walking around
+
+00:54:07.640 --> 00:54:08.950
+with a glucose monitor.
+
+00:54:08.950 --> 00:54:11.000
+Some of you are, but most of you are not.
+
+00:54:12.120 --> 00:54:14.520
+The more important question
+for us to address right now,
+
+00:54:14.520 --> 00:54:15.960
+is why is it important
+
+00:54:15.960 --> 00:54:18.060
+that glucose be kept
+at a particular level?
+
+00:54:18.060 --> 00:54:22.020
+Once you understand that,
+keeping glucose in check
+
+00:54:22.020 --> 00:54:24.250
+starts to have a rationale behind it
+
+00:54:24.250 --> 00:54:27.370
+and the ways to do that start
+to make a lot more sense.
+
+00:54:27.370 --> 00:54:32.370
+So the reason is, if
+glucose levels get too high
+
+00:54:32.500 --> 00:54:35.960
+because of the way that our
+cells in particular neurons,
+
+00:54:35.960 --> 00:54:37.693
+interact with glucose,
+
+00:54:39.040 --> 00:54:41.700
+high levels of glucose can damage neurons.
+
+00:54:41.700 --> 00:54:42.570
+It can actually kill them.
+
+00:54:42.570 --> 00:54:45.050
+You can start getting what
+are called peripheral,
+
+00:54:45.050 --> 00:54:46.680
+excuse me, neuropathies.
+
+00:54:46.680 --> 00:54:49.150
+One of the symptoms of
+some forms of diabetes
+
+00:54:49.150 --> 00:54:52.650
+is that people start losing
+the sensation of touch
+
+00:54:52.650 --> 00:54:55.090
+in their fingers or their
+hands or their feet,
+
+00:54:55.090 --> 00:54:56.610
+and they can start going blind.
+
+00:54:56.610 --> 00:54:59.670
+There's diabetic retinopathies.
+
+00:54:59.670 --> 00:55:01.610
+So it's very important,
+
+00:55:01.610 --> 00:55:04.640
+that insulin manage your glucose levels.
+
+00:55:04.640 --> 00:55:06.710
+Now, there's also type II diabetes
+
+00:55:06.710 --> 00:55:10.940
+where there's insulin
+secreted from the pancreas,
+
+00:55:10.940 --> 00:55:13.540
+but people are insulin insensitive.
+
+00:55:13.540 --> 00:55:15.730
+There's a disruption in the receptors
+
+00:55:15.730 --> 00:55:19.110
+and insulin insensitivity
+isn't quite the same
+
+00:55:19.110 --> 00:55:20.800
+as having no insulin at all,
+
+00:55:20.800 --> 00:55:22.940
+but it parallels some
+of the same mechanisms.
+
+00:55:22.940 --> 00:55:25.080
+Now, type I diabetes is often picked up
+
+00:55:25.080 --> 00:55:28.560
+because someone has a sudden weight loss,
+
+00:55:28.560 --> 00:55:30.420
+because they're not processing blood sugar
+
+00:55:30.420 --> 00:55:31.630
+the same way they were before.
+
+00:55:31.630 --> 00:55:33.610
+Type II diabetes is often,
+
+00:55:33.610 --> 00:55:36.430
+although not always associated
+with being overweight
+
+00:55:36.430 --> 00:55:37.990
+and with obesity.
+
+00:55:37.990 --> 00:55:40.870
+Both of them are challenging conditions.
+
+00:55:40.870 --> 00:55:43.480
+Type II diabetes almost
+always can be managed
+
+00:55:43.480 --> 00:55:45.623
+by managing one's weight.
+
+00:55:46.640 --> 00:55:50.820
+And of course there are
+prescription drugs and supplements
+
+00:55:50.820 --> 00:55:51.910
+that can help manage those.
+
+00:55:51.910 --> 00:55:53.670
+We're going to talk about all of that.
+
+00:55:53.670 --> 00:55:56.240
+But for most people that
+don't have diabetes,
+
+00:55:56.240 --> 00:55:58.130
+the important thing is to manage glucose,
+
+00:55:58.130 --> 00:56:01.240
+to keep it in that euglycemic range.
+
+00:56:01.240 --> 00:56:03.490
+And there are a number of
+different ways to do that.
+
+00:56:03.490 --> 00:56:06.910
+Some of them are behavioral,
+some of them are diet based,
+
+00:56:06.910 --> 00:56:09.810
+and some of them are based on supplements
+
+00:56:09.810 --> 00:56:10.730
+or prescription drugs.
+
+00:56:10.730 --> 00:56:12.200
+So let's talk about those now.
+
+00:56:12.200 --> 00:56:15.970
+So if you eat, and in particular
+if you eat carbohydrates,
+
+00:56:15.970 --> 00:56:17.350
+blood glucose goes up.
+
+00:56:17.350 --> 00:56:20.660
+If you eat fats, blood glucose
+goes up to a far less degree.
+
+00:56:20.660 --> 00:56:23.960
+And if you eat proteins,
+depending on the protein,
+
+00:56:23.960 --> 00:56:26.150
+it will eventually be broken down for fuel
+
+00:56:26.150 --> 00:56:29.430
+or assembled into amino acid
+chains for protein synthesis
+
+00:56:29.430 --> 00:56:32.640
+and repair of other tissues
+and bodily functions.
+
+00:56:32.640 --> 00:56:36.503
+But glucose goes up and
+then is kept in range.
+
+00:56:37.340 --> 00:56:40.740
+When you are hungry, you
+secrete a different hormone
+
+00:56:40.740 --> 00:56:42.480
+and that's called glucagon.
+
+00:56:42.480 --> 00:56:47.480
+And glucagon's main role,
+is to pull stores of energy
+
+00:56:47.940 --> 00:56:50.870
+out of the liver and the muscles.
+
+00:56:50.870 --> 00:56:52.860
+And once those are depleted,
+
+00:56:52.860 --> 00:56:55.730
+you'll eventually tap into body fat, okay?
+
+00:56:55.730 --> 00:56:56.780
+So, and this is for people
+
+00:56:56.780 --> 00:56:58.550
+that have a typical blood glucose range,
+
+00:56:58.550 --> 00:57:02.120
+so that 70 to 100 euglycemic range.
+
+00:57:02.120 --> 00:57:05.360
+So, the two kind of push and pull systems
+
+00:57:05.360 --> 00:57:07.520
+that we're going to think
+about now to keep this simple,
+
+00:57:07.520 --> 00:57:11.360
+is that you have the insulin
+system managing glucose,
+
+00:57:11.360 --> 00:57:13.670
+and you've got the glucagon system
+
+00:57:13.670 --> 00:57:16.720
+pulling energy out of
+your liver and muscles
+
+00:57:16.720 --> 00:57:18.240
+for immediate fuel.
+
+00:57:18.240 --> 00:57:22.500
+And eventually you'll
+pull fuel out of body fat
+
+00:57:22.500 --> 00:57:24.230
+if you've been active for a very long time
+
+00:57:24.230 --> 00:57:26.500
+and all your glycogen stores are depleted
+
+00:57:26.500 --> 00:57:28.380
+or close to depleted.
+
+00:57:28.380 --> 00:57:30.000
+So what does this all mean?
+
+00:57:30.000 --> 00:57:32.290
+There's a lot of important biochemistry
+
+00:57:32.290 --> 00:57:34.430
+and a lot of important cellar processes
+
+00:57:34.430 --> 00:57:37.180
+involved in whether or not
+your anabolic or catabolic.
+
+00:57:37.180 --> 00:57:38.450
+Whether or not you're breaking things down
+
+00:57:38.450 --> 00:57:39.550
+or building things up.
+
+00:57:40.670 --> 00:57:44.380
+Let's talk about feeding
+in a simpler way, however.
+
+00:57:44.380 --> 00:57:47.590
+And let's weave the tools
+to manage blood glucose,
+
+00:57:47.590 --> 00:57:50.270
+to keep it in check, as we do that.
+
+00:57:50.270 --> 00:57:52.320
+So, let's say you had a meal
+
+00:57:52.320 --> 00:57:56.253
+and that meal consisted
+of rice, a carbohydrate,
+
+00:57:57.550 --> 00:58:00.750
+some meat or fish, let's
+say a piece of salmon,
+
+00:58:00.750 --> 00:58:02.880
+and some vegetable, some fibrous vegetable
+
+00:58:02.880 --> 00:58:05.330
+like asparagus or cabbage
+or something like that.
+
+00:58:06.340 --> 00:58:09.050
+If you were to eat all of that at once,
+
+00:58:09.050 --> 00:58:10.960
+you know, you take a bite
+of one, a bite of the other,
+
+00:58:10.960 --> 00:58:11.930
+you're going to mix it up.
+
+00:58:11.930 --> 00:58:13.830
+You know, one of these, it
+all ends up in the same place
+
+00:58:13.830 --> 00:58:16.010
+kind of people, mix it all up.
+
+00:58:16.010 --> 00:58:18.550
+Then you'll experience
+an increase in insulin
+
+00:58:18.550 --> 00:58:20.490
+and increase in blood glucose
+
+00:58:20.490 --> 00:58:23.420
+that's moderately fast.
+
+00:58:23.420 --> 00:58:25.800
+It's going to increase pretty quickly.
+
+00:58:25.800 --> 00:58:26.633
+What's remarkable,
+
+00:58:26.633 --> 00:58:29.760
+is that the order that you
+consume each macro-nutrient
+
+00:58:29.760 --> 00:58:33.940
+has a pretty profound influence
+on the rate of insulin
+
+00:58:33.940 --> 00:58:36.650
+and glucose secretion into the blood
+
+00:58:36.650 --> 00:58:39.030
+and how quickly those levels rise.
+
+00:58:39.030 --> 00:58:41.180
+So if you will make it really simple.
+
+00:58:41.180 --> 00:58:42.560
+If you were to eat the rice first,
+
+00:58:42.560 --> 00:58:44.960
+your glucose would rise in a sharp spike,
+
+00:58:44.960 --> 00:58:46.710
+especially if it doesn't contain any fats
+
+00:58:46.710 --> 00:58:48.600
+to slow the absorption.
+
+00:58:48.600 --> 00:58:51.400
+Now, that might be good
+if you're very hungry
+
+00:58:51.400 --> 00:58:53.930
+and you want to get an
+increase in glucose.
+
+00:58:53.930 --> 00:58:54.910
+In fact, this is the reason
+
+00:58:54.910 --> 00:58:58.690
+why you're often served bread
+before meals, because it is...
+
+00:58:58.690 --> 00:59:01.090
+And sometimes it's bread and butter,
+
+00:59:01.090 --> 00:59:02.800
+or chips before meals or appetizers,
+
+00:59:02.800 --> 00:59:05.160
+are designed to get your
+blood glucose going up high
+
+00:59:05.160 --> 00:59:07.960
+because big steep
+increases in blood glucose
+
+00:59:08.950 --> 00:59:12.280
+tend to promote the desire
+to consume more glucose.
+
+00:59:12.280 --> 00:59:14.280
+And this also relates
+to the dopamine system
+
+00:59:14.280 --> 00:59:17.110
+and the way that something
+tasty in the mouth
+
+00:59:17.110 --> 00:59:20.770
+and sugar in the gut and
+fats and sugars in the mouth,
+
+00:59:20.770 --> 00:59:23.800
+trigger the activation of a
+lot of systems in the brain
+
+00:59:23.800 --> 00:59:26.420
+and body to consume more
+of whatever you have
+
+00:59:26.420 --> 00:59:28.570
+or whatever is available to you.
+
+00:59:28.570 --> 00:59:33.173
+So, the basic idea is
+that eating carbohydrates
+
+00:59:33.173 --> 00:59:35.070
+and/or fats early in a meal
+
+00:59:35.070 --> 00:59:37.343
+will give a steep rise in blood glucose.
+
+00:59:38.580 --> 00:59:41.000
+However, if you were to eat
+the fibrous thing first,
+
+00:59:41.000 --> 00:59:43.550
+so a lot of chewing, but not
+a big rise in blood glucose
+
+00:59:43.550 --> 00:59:44.460
+because in general there's...
+
+00:59:44.460 --> 00:59:45.660
+Unless it's laid in with sugar.
+
+00:59:45.660 --> 00:59:47.910
+Or something we're just talking about
+
+00:59:47.910 --> 00:59:50.680
+some vegetable, fibrous vegetable,
+
+00:59:50.680 --> 00:59:54.680
+that will actually blunt
+the release of glucose
+
+00:59:54.680 --> 00:59:57.330
+until you eat the fish and the rice.
+
+00:59:57.330 --> 00:59:58.340
+But believe it or not
+
+00:59:58.340 --> 01:00:01.290
+it will actually blunt
+the glucose increase
+
+01:00:01.290 --> 01:00:03.020
+that the rice would cause.
+
+01:00:03.020 --> 01:00:03.853
+Now, I'm not talking about
+
+01:00:03.853 --> 01:00:05.830
+neurotically eating each macro-nutrient
+
+01:00:05.830 --> 01:00:06.700
+separately in sequence.
+
+01:00:06.700 --> 01:00:07.920
+I'm just trying to give you a picture
+
+01:00:07.920 --> 01:00:09.980
+of what's happening ordinarily.
+
+01:00:09.980 --> 01:00:11.320
+So what this means is,
+
+01:00:11.320 --> 01:00:14.930
+if you feel a lot of food related anxiety,
+
+01:00:14.930 --> 01:00:16.530
+or you feel you're one of these people
+
+01:00:16.530 --> 01:00:18.580
+that you can kind of sense
+
+01:00:18.580 --> 01:00:21.110
+like your blood sugar
+increasing very quickly,
+
+01:00:21.110 --> 01:00:23.150
+a lot of people can sense
+this, some people can't,
+
+01:00:23.150 --> 01:00:25.570
+has a lot to do with how well
+they manage their blood sugar
+
+01:00:25.570 --> 01:00:27.570
+as well as some of the
+psychological factors.
+
+01:00:27.570 --> 01:00:29.657
+And yes, their family
+and historical reasons,
+
+01:00:29.657 --> 01:00:31.830
+you know, I've got friends
+who had a lot of siblings,
+
+01:00:31.830 --> 01:00:33.020
+and when they sit down to eat
+
+01:00:33.020 --> 01:00:34.450
+they have to really suppress the desire
+
+01:00:34.450 --> 01:00:37.750
+to not beat up everyone else at the table
+
+01:00:37.750 --> 01:00:38.583
+and take all the food.
+
+01:00:38.583 --> 01:00:39.940
+It's sort of like not...
+
+01:00:39.940 --> 01:00:42.400
+It's hard for them to understand
+
+01:00:42.400 --> 01:00:44.570
+that there's plenty to go around,
+
+01:00:44.570 --> 01:00:45.430
+because of their upbringing.
+
+01:00:45.430 --> 01:00:47.793
+So there are psychological
+top-down effects.
+
+01:00:48.780 --> 01:00:50.380
+A lot of the psychology around food
+
+01:00:50.380 --> 01:00:52.377
+is geared towards getting people
+to be relaxed when they eat
+
+01:00:52.377 --> 01:00:53.810
+and these sorts of things.
+
+01:00:53.810 --> 01:00:56.780
+But these blood sugar
+effects are real just cellar
+
+01:00:56.780 --> 01:00:58.740
+and basic biochemistry
+
+01:00:58.740 --> 01:01:02.840
+of how the body manages sugars
+ingested into the blood.
+
+01:01:02.840 --> 01:01:04.630
+So what does this all mean?
+
+01:01:04.630 --> 01:01:07.760
+It means that if you want a
+steep increase in glucose,
+
+01:01:07.760 --> 01:01:08.840
+you are very, very hungry,
+
+01:01:08.840 --> 01:01:12.410
+then you should eat the
+carbohydrate laid in food first,
+
+01:01:12.410 --> 01:01:15.060
+or you should eat a bunch
+of macronutrients combined.
+
+01:01:15.060 --> 01:01:17.360
+So that would be like the
+hamburger or the sandwich,
+
+01:01:17.360 --> 01:01:20.810
+the bread, the whatever's
+in that sandwich altogether,
+
+01:01:20.810 --> 01:01:23.923
+usually that's protein
+and vegetables as well.
+
+01:01:25.760 --> 01:01:29.340
+If you want to have a more
+modest increase in glucose
+
+01:01:29.340 --> 01:01:31.230
+or you want to blunt
+the increase in glucose,
+
+01:01:31.230 --> 01:01:35.480
+then have the, at least some
+of the fibrous thing first,
+
+01:01:35.480 --> 01:01:38.170
+and then the protein and
+then the carbohydrate.
+
+01:01:38.170 --> 01:01:39.800
+You will notice that your blood glucose
+
+01:01:39.800 --> 01:01:42.610
+will rise more steadily,
+
+01:01:42.610 --> 01:01:45.820
+and that you'll achieve
+satiety earlier in the meal.
+
+01:01:45.820 --> 01:01:48.190
+Or at least you won't get this huge peak
+
+01:01:48.190 --> 01:01:50.400
+at sort of the Thanksgiving meal effect.
+
+01:01:50.400 --> 01:01:51.490
+Some of you are international,
+
+01:01:51.490 --> 01:01:53.450
+so if you don't celebrate Thanksgiving
+
+01:01:53.450 --> 01:01:55.320
+is a time of year where...
+
+01:01:55.320 --> 01:01:57.310
+It used to be the one-time
+a year or two times a year
+
+01:01:57.310 --> 01:01:58.940
+where Americans would
+give themselves permission
+
+01:01:58.940 --> 01:02:00.860
+to eat enormous meals.
+
+01:02:00.860 --> 01:02:02.850
+Now that seems to happen a lot more often.
+
+01:02:02.850 --> 01:02:04.660
+But there is this effect of you're full
+
+01:02:04.660 --> 01:02:05.930
+and yet you're hungry for more,
+
+01:02:05.930 --> 01:02:07.840
+that's because your blood
+glucose has gone through the roof
+
+01:02:07.840 --> 01:02:10.140
+and it's triggered a
+number of other mechanisms.
+
+01:02:10.140 --> 01:02:12.640
+There's also usually a lot
+of alcohol consumption,
+
+01:02:13.920 --> 01:02:17.690
+and alcohol itself because it's a sugar
+
+01:02:17.690 --> 01:02:21.100
+will increase blood
+glucose very, very sharply.
+
+01:02:21.100 --> 01:02:22.560
+It depends on the alcohol,
+
+01:02:22.560 --> 01:02:24.500
+some alcohols have more sugar than others.
+
+01:02:24.500 --> 01:02:26.160
+But basically what you're trying to avoid
+
+01:02:26.160 --> 01:02:27.650
+are steep increases in blood sugar.
+
+01:02:27.650 --> 01:02:29.010
+And the order that you eat foods
+
+01:02:29.010 --> 01:02:31.180
+has an enormous impact on that.
+
+01:02:31.180 --> 01:02:32.830
+The other thing that
+has an enormous impact
+
+01:02:32.830 --> 01:02:34.870
+on how long and shallow,
+
+01:02:34.870 --> 01:02:39.500
+or how steep that curve of glucose is,
+
+01:02:39.500 --> 01:02:42.810
+depends on on whether or not
+you recently were moving,
+
+01:02:42.810 --> 01:02:45.590
+are moving or start moving after you eat.
+
+01:02:45.590 --> 01:02:48.930
+So it turns out that
+your blood glucose levels
+
+01:02:48.930 --> 01:02:52.380
+can be modulated very, very
+powerfully by movement.
+
+01:02:52.380 --> 01:02:55.060
+If you did any kind of intense exercise,
+
+01:02:55.060 --> 01:02:57.570
+or even just walking or jogging,
+
+01:02:57.570 --> 01:02:59.170
+or cycling anything before you eat
+
+01:02:59.170 --> 01:03:01.280
+your blood glucose levels
+will be dampened somewhat.
+
+01:03:01.280 --> 01:03:04.530
+And that has to do with the
+release of something called,
+
+01:03:04.530 --> 01:03:07.060
+some people call it GLUT4,
+which sounds like glutton.
+
+01:03:07.060 --> 01:03:08.980
+Other people call it GLUT4.
+
+01:03:08.980 --> 01:03:11.860
+These are things that are
+involved in shuttling glucose
+
+01:03:11.860 --> 01:03:13.340
+to particular cells in the body,
+
+01:03:13.340 --> 01:03:15.290
+namely toward muscle and glycogen stores
+
+01:03:15.290 --> 01:03:17.420
+and away from body fat stores.
+
+01:03:17.420 --> 01:03:19.750
+It has to do with sequestering
+of glucose from the blood.
+
+01:03:19.750 --> 01:03:21.840
+The point is that, if you're somebody
+
+01:03:21.840 --> 01:03:23.560
+who struggles with blood sugar regulation,
+
+01:03:23.560 --> 01:03:27.160
+in addition to getting your
+body weight in a healthy range,
+
+01:03:27.160 --> 01:03:28.003
+doing all the other sorts of things
+
+01:03:28.003 --> 01:03:29.253
+that you should be doing,
+
+01:03:30.960 --> 01:03:34.310
+the key thing is to try
+and get some movement,
+
+01:03:34.310 --> 01:03:36.090
+sometime as circuit meal.
+
+01:03:36.090 --> 01:03:37.050
+Now, very few people
+
+01:03:37.050 --> 01:03:38.770
+can actually eat and
+walk at the same time,
+
+01:03:38.770 --> 01:03:40.470
+although I do it all the time.
+
+01:03:40.470 --> 01:03:42.110
+Not because I'm trying to
+regulate my blood sugar
+
+01:03:42.110 --> 01:03:43.180
+but just 'cause I tend to be busy.
+
+01:03:43.180 --> 01:03:45.160
+I eat and drive, [mumbles] busy.
+
+01:03:45.160 --> 01:03:46.830
+Busy if I'm not giving this podcast,
+
+01:03:46.830 --> 01:03:48.280
+or if sleeping, I'm eating,
+
+01:03:48.280 --> 01:03:50.580
+but except the early part
+of the day when I fast.
+
+01:03:50.580 --> 01:03:52.420
+But the bottom line here is that,
+
+01:03:52.420 --> 01:03:57.350
+if you, for instance take a
+30 minute walk after a meal,
+
+01:03:57.350 --> 01:03:59.200
+your blood glucose will be blunted
+
+01:03:59.200 --> 01:04:01.130
+in ways that are beneficial.
+
+01:04:01.130 --> 01:04:04.770
+If you have exercised in the
+recent hours before a meal,
+
+01:04:04.770 --> 01:04:05.770
+that can be beneficial.
+
+01:04:05.770 --> 01:04:07.860
+The order that you consume
+foods is beneficial.
+
+01:04:07.860 --> 01:04:09.920
+And there are a few things
+that you can consume
+
+01:04:09.920 --> 01:04:12.260
+that can also adjust blood glucose levels.
+
+01:04:12.260 --> 01:04:13.410
+So let's talk about those,
+
+01:04:13.410 --> 01:04:15.830
+but I thought it was
+important to really tamp down
+
+01:04:15.830 --> 01:04:18.070
+that it's not just what you eat,
+
+01:04:18.070 --> 01:04:19.160
+we talked about that before,
+
+01:04:19.160 --> 01:04:21.350
+but also the order that
+you eat those things,
+
+01:04:21.350 --> 01:04:22.183
+believe it or not,
+
+01:04:22.183 --> 01:04:24.000
+whether or not you
+combine macro-nutrients,
+
+01:04:24.000 --> 01:04:27.980
+carbohydrates, proteins and
+fats and fibrous vegetables.
+
+01:04:27.980 --> 01:04:31.030
+And whether or not you've moved recently.
+
+01:04:31.030 --> 01:04:32.480
+The higher intensity the movement,
+
+01:04:32.480 --> 01:04:35.060
+the greater the GLUT4 increase,
+
+01:04:35.060 --> 01:04:37.480
+and the more that the blood
+glucose will be blunted
+
+01:04:37.480 --> 01:04:38.847
+and you'll shuttle more
+of that to glycogen
+
+01:04:38.847 --> 01:04:40.220
+and muscle stores.
+
+01:04:40.220 --> 01:04:42.490
+And even just moving after a meal,
+
+01:04:42.490 --> 01:04:44.980
+even just a calm easy walk,
+
+01:04:44.980 --> 01:04:47.860
+can really adjust the ways in
+which blood sugar regulated
+
+01:04:47.860 --> 01:04:49.130
+for the better.
+
+01:04:49.130 --> 01:04:52.720
+I don't want to perseverate
+on this processed foods,
+
+01:04:52.720 --> 01:04:54.210
+hidden sugars thing too much.
+
+01:04:54.210 --> 01:04:56.070
+But understanding now
+
+01:04:56.070 --> 01:05:00.370
+a little bit about how
+insulin and glucose work,
+
+01:05:00.370 --> 01:05:03.050
+you can probably imagine why hidden sugars
+
+01:05:03.050 --> 01:05:04.310
+are such an attractive thing
+
+01:05:04.310 --> 01:05:07.160
+from the standpoint of
+processed food manufacturers.
+
+01:05:07.160 --> 01:05:11.020
+Because if they can put sugar
+in that you can't even taste,
+
+01:05:11.020 --> 01:05:13.930
+that sugar is going to
+amplify the amount of glucose,
+
+01:05:13.930 --> 01:05:16.500
+it's going to increase the
+rate of glucose increase
+
+01:05:16.500 --> 01:05:17.550
+into your bloodstream
+
+01:05:17.550 --> 01:05:19.750
+and it's going to promote more feeding.
+
+01:05:19.750 --> 01:05:21.620
+So in that case, you're
+really being tricked.
+
+01:05:21.620 --> 01:05:23.000
+It's not that you're actually reaching
+
+01:05:23.000 --> 01:05:24.450
+for the additional appetizer
+
+01:05:24.450 --> 01:05:26.200
+and your blood glucose is going up.
+
+01:05:26.200 --> 01:05:27.480
+The food that you ate
+
+01:05:27.480 --> 01:05:30.170
+is actually increasing your
+appetite as you eat it.
+
+01:05:30.170 --> 01:05:32.950
+It's a positive feedback loop.
+
+01:05:32.950 --> 01:05:35.780
+So don't want to demonize those
+any more than I already have,
+
+01:05:35.780 --> 01:05:38.550
+but you should be aware that
+these things are happening
+
+01:05:38.550 --> 01:05:40.700
+at the level of your
+bloodstream and brain.
+
+01:05:42.310 --> 01:05:44.520
+The other thing I'd like
+to address for a moment,
+
+01:05:44.520 --> 01:05:47.180
+is this notion of stable blood sugar
+
+01:05:47.180 --> 01:05:50.660
+versus lay bile blood sugar
+or unstable blood sugar.
+
+01:05:50.660 --> 01:05:53.550
+Some people just have stable blood sugar.
+
+01:05:53.550 --> 01:05:55.710
+They can go long periods
+of time without eating
+
+01:05:55.710 --> 01:05:56.570
+and feel fine.
+
+01:05:56.570 --> 01:05:59.440
+Other people get really
+shaky, really jittery,
+
+01:05:59.440 --> 01:06:03.130
+and/or when they do eat,
+they feel really keyed up.
+
+01:06:03.130 --> 01:06:04.680
+Sometimes they'll even sweat.
+
+01:06:04.680 --> 01:06:06.950
+Sometimes their vision will go blurry.
+
+01:06:06.950 --> 01:06:08.810
+And some of that can actually be
+
+01:06:08.810 --> 01:06:10.660
+because they've become hyperglycemic.
+
+01:06:12.030 --> 01:06:14.550
+And those effects that you experience
+
+01:06:14.550 --> 01:06:18.280
+when you are hyperglycemic
+are the early warning signs
+
+01:06:18.280 --> 01:06:20.320
+of the kinds of things that damage neurons
+
+01:06:20.320 --> 01:06:22.470
+and lead to the really terrible stuff
+
+01:06:22.470 --> 01:06:24.550
+they talked about before
+like peripheral neuropathies.
+
+01:06:24.550 --> 01:06:26.300
+Now, it takes some time
+for those things to occur,
+
+01:06:26.300 --> 01:06:27.790
+those neuropathies to occur.
+
+01:06:27.790 --> 01:06:30.140
+But whether or not your blood
+sugar is all over the place
+
+01:06:30.140 --> 01:06:32.060
+or whether or not stable,
+
+01:06:32.060 --> 01:06:34.760
+can be impacted by a number of things.
+
+01:06:34.760 --> 01:06:36.890
+One of those things is exercise.
+
+01:06:36.890 --> 01:06:38.950
+So these days there's a lot of interest
+
+01:06:38.950 --> 01:06:40.380
+in what they call zone two cardio,
+
+01:06:40.380 --> 01:06:42.100
+which is that kind of steady state cardio,
+
+01:06:42.100 --> 01:06:43.590
+where you can just nasal breathe
+
+01:06:43.590 --> 01:06:45.570
+even at pretty high output,
+
+01:06:45.570 --> 01:06:47.770
+where you could maybe have a conversation.
+
+01:06:47.770 --> 01:06:50.090
+Although I'm such a huge proponent
+
+01:06:50.090 --> 01:06:51.690
+of nasal breathing during exercise,
+
+01:06:51.690 --> 01:06:54.430
+most forms of exercise
+especially zone two cardio,
+
+01:06:54.430 --> 01:06:56.550
+that you probably shouldn't be talking
+
+01:06:56.550 --> 01:06:57.810
+while you're doing that cardio
+
+01:06:57.810 --> 01:06:59.960
+unless it's absolutely essential.
+
+01:06:59.960 --> 01:07:02.950
+But periods of zone two cardio
+
+01:07:04.080 --> 01:07:07.010
+that lasts anywhere from
+30 minutes to an hour
+
+01:07:07.010 --> 01:07:09.310
+or sometimes more for
+your endurance athletes,
+
+01:07:10.160 --> 01:07:13.320
+can create positive effects
+on blood sugar regulation,
+
+01:07:13.320 --> 01:07:18.320
+such that you people can sit
+down and enjoy whatever it is,
+
+01:07:18.730 --> 01:07:19.640
+the hot fudge sundae,
+
+01:07:19.640 --> 01:07:21.930
+or whatever the high
+sugar content food is.
+
+01:07:21.930 --> 01:07:24.880
+And blood glucose management is so good.
+
+01:07:24.880 --> 01:07:28.600
+Your insulin sensitivity is so
+high, which is a good thing,
+
+01:07:28.600 --> 01:07:30.940
+that you can manage that blood glucose
+
+01:07:30.940 --> 01:07:33.980
+to the point where it doesn't
+really make you shaky,
+
+01:07:33.980 --> 01:07:35.690
+it doesn't disrupt you.
+
+01:07:35.690 --> 01:07:39.430
+And you know, to say nothing
+of the weight-related issues
+
+01:07:39.430 --> 01:07:41.810
+or the adipose fat gain, et cetera,
+
+01:07:41.810 --> 01:07:43.950
+that's a separate issue
+because people vary there.
+
+01:07:43.950 --> 01:07:48.950
+But basically doing zone two
+cardio for 30 to 60 minutes,
+
+01:07:49.620 --> 01:07:50.780
+three to four times a week
+
+01:07:50.780 --> 01:07:52.910
+makes your blood sugar really stable,
+
+01:07:52.910 --> 01:07:55.670
+and that's an attractive thing
+for a variety of reasons.
+
+01:07:55.670 --> 01:07:58.710
+On the flip side, high
+intensity interval training
+
+01:07:58.710 --> 01:08:01.230
+or resistance training
+AKA weight training,
+
+01:08:01.230 --> 01:08:04.600
+are very good at stimulating
+the various molecules
+
+01:08:04.600 --> 01:08:07.130
+that promote repackaging of glycogen.
+
+01:08:07.130 --> 01:08:10.940
+So sprints, heavy weight lifting,
+circuit type weightlifting
+
+01:08:10.940 --> 01:08:13.710
+provided there is some
+reasonable degree of resistance,
+
+01:08:13.710 --> 01:08:16.140
+those are going to trigger
+are all sorts of mechanisms
+
+01:08:16.140 --> 01:08:18.830
+that are going to encourage the body
+
+01:08:18.830 --> 01:08:22.100
+to shuttle glucose back into glycogen,
+
+01:08:22.100 --> 01:08:23.790
+converting to glycogen,
+into muscle tissue,
+
+01:08:23.790 --> 01:08:25.680
+restock the liver, et cetera.
+
+01:08:25.680 --> 01:08:28.160
+Depleting one's glycogen
+actually takes some time.
+
+01:08:28.160 --> 01:08:31.140
+You know, if you do a couple
+sets of tricep extensions
+
+01:08:31.140 --> 01:08:33.500
+and some crunches, you're
+not depleting your glycogen.
+
+01:08:33.500 --> 01:08:37.640
+Glycogen depleting workouts
+are very high intensity.
+
+01:08:37.640 --> 01:08:39.770
+Generally they're less than an hour or so,
+
+01:08:39.770 --> 01:08:41.750
+but those are the sort
+
+01:08:41.750 --> 01:08:43.770
+that are going to lead to big increases
+
+01:08:43.770 --> 01:08:45.890
+in the kinds of enzymes
+and metabolic pathways
+
+01:08:45.890 --> 01:08:48.970
+that are going to repack
+glycogen and shuttle most things
+
+01:08:48.970 --> 01:08:51.440
+towards restorage of foods
+
+01:08:51.440 --> 01:08:53.490
+not into adipose tissue, not into fat,
+
+01:08:53.490 --> 01:08:55.900
+but taking glucose and
+making it into fuels
+
+01:08:55.900 --> 01:08:56.850
+that you can access later
+
+01:08:56.850 --> 01:08:59.550
+for more of that high intensity activity.
+
+01:08:59.550 --> 01:09:01.520
+And I should mention that
+one of the advantages
+
+01:09:01.520 --> 01:09:04.270
+of high intensity interval training
+
+01:09:04.270 --> 01:09:07.790
+or weightlifting of various kinds,
+
+01:09:07.790 --> 01:09:12.010
+is that it causes long standing increases
+
+01:09:12.010 --> 01:09:13.330
+in basal metabolic rate.
+
+01:09:13.330 --> 01:09:14.810
+I don't want to go too far down this path
+
+01:09:14.810 --> 01:09:16.830
+because we're going to do an entire month
+
+01:09:16.830 --> 01:09:19.710
+on human performance and
+athletic performance.
+
+01:09:19.710 --> 01:09:22.710
+But it's not just the increases in muscle
+
+01:09:22.710 --> 01:09:26.600
+that increase metabolism,
+because muscle burns more energy
+
+01:09:26.600 --> 01:09:27.950
+than other types of tissues,
+
+01:09:27.950 --> 01:09:31.540
+except your brain, which
+truly burns the most energy.
+
+01:09:31.540 --> 01:09:33.460
+Anyway is the main reason
+
+01:09:33.460 --> 01:09:35.673
+why your basal metabolic
+rate is what it is.
+
+01:09:36.680 --> 01:09:38.690
+Well, high-intensity training.
+
+01:09:38.690 --> 01:09:39.710
+So it could be sprints,
+
+01:09:39.710 --> 01:09:41.270
+it could be high intensity
+interval training
+
+01:09:41.270 --> 01:09:43.220
+of different kinds, it
+could be weight training,
+
+01:09:43.220 --> 01:09:47.280
+also has an effect of
+increasing thermogenesis
+
+01:09:47.280 --> 01:09:50.550
+even long after you've
+completed the exercise.
+
+01:09:50.550 --> 01:09:51.710
+So there's a long tail.
+
+01:09:51.710 --> 01:09:54.590
+There's a kind of post
+exercise metabolic effect
+
+01:09:54.590 --> 01:09:55.900
+that's also beneficial.
+
+01:09:55.900 --> 01:09:57.440
+So it's not an either or,
+
+01:09:57.440 --> 01:09:59.280
+it's really that high
+intensity interval training
+
+01:09:59.280 --> 01:10:00.290
+and resistance training.
+
+01:10:00.290 --> 01:10:03.540
+And things of that sort are
+very good for one reason.
+
+01:10:03.540 --> 01:10:07.120
+And the zone two cardio is
+very good for other reasons.
+
+01:10:07.120 --> 01:10:09.390
+And now you can see why
+it's just a healthy thing
+
+01:10:09.390 --> 01:10:11.460
+and why most people should
+probably be doing exercise
+
+01:10:11.460 --> 01:10:14.230
+most days of the week, if
+not every day of the week.
+
+01:10:14.230 --> 01:10:17.540
+If your goal is to manage blood glucose
+
+01:10:17.540 --> 01:10:21.130
+and your goal is to manage
+some of the metabolic factors
+
+01:10:21.130 --> 01:10:23.290
+that control repackaging of glycogen
+
+01:10:23.290 --> 01:10:25.740
+and encouraging excess glucose
+
+01:10:25.740 --> 01:10:28.430
+to not get diverted into body fat stores.
+
+01:10:28.430 --> 01:10:30.660
+We haven't talked a
+lot about lipids today,
+
+01:10:30.660 --> 01:10:34.020
+that's because most of today's
+discussion is about hormones
+
+01:10:34.020 --> 01:10:36.150
+and insulin is the dominant hormone
+
+01:10:36.150 --> 01:10:40.040
+in terms of mobilizing and
+managing glucose in the body,
+
+01:10:40.040 --> 01:10:41.290
+at least for most people.
+
+01:10:42.370 --> 01:10:44.440
+But fats are very important.
+
+01:10:44.440 --> 01:10:47.290
+And there's just a little
+anecdote about fats
+
+01:10:47.290 --> 01:10:48.810
+that I think will be useful in thinking
+
+01:10:48.810 --> 01:10:50.500
+about why you want to manage
+
+01:10:50.500 --> 01:10:52.617
+what they call the LDL or HDL ratios.
+
+01:10:52.617 --> 01:10:54.970
+And this is deserving an entire episode,
+
+01:10:54.970 --> 01:10:57.260
+many, perhaps even several episodes.
+
+01:10:57.260 --> 01:11:01.570
+But some of you may be
+familiar with LDLs and HDLs,
+
+01:11:01.570 --> 01:11:02.630
+some of you may not.
+
+01:11:02.630 --> 01:11:05.340
+The LDL is low density lipoprotein.
+
+01:11:05.340 --> 01:11:08.170
+This is the one that you
+don't want it to be too high.
+
+01:11:08.170 --> 01:11:10.638
+Castillo's dreaming, he's barking.
+
+01:11:10.638 --> 01:11:13.020
+He loves all forms of cholesterol
+
+01:11:14.050 --> 01:11:15.670
+but that's just Castillo dreaming.
+
+01:11:15.670 --> 01:11:18.050
+So LDLs are the ones that
+you want to keep low.
+
+01:11:18.050 --> 01:11:19.980
+You don't want those
+to go excessively high.
+
+01:11:19.980 --> 01:11:22.360
+HDLs, the high density lipoproteins
+
+01:11:22.360 --> 01:11:26.113
+are the ones that are the
+so-called healthy lipoproteins.
+
+01:11:27.470 --> 01:11:28.640
+That's all fine and good.
+
+01:11:28.640 --> 01:11:31.010
+But you might ask yourself,
+what are they doing?
+
+01:11:31.010 --> 01:11:32.860
+What is the actual role of these things,
+
+01:11:32.860 --> 01:11:36.700
+and why would you want
+healthy levels of HDL
+
+01:11:36.700 --> 01:11:38.500
+and not too much LDL?
+
+01:11:38.500 --> 01:11:40.220
+Well, one of the reasons is,
+
+01:11:40.220 --> 01:11:43.750
+that fats don't like water, right?
+
+01:11:43.750 --> 01:11:45.640
+They are hydrophobic.
+
+01:11:45.640 --> 01:11:48.960
+And yet you need to move
+fats in your bloodstream,
+
+01:11:48.960 --> 01:11:51.180
+all tissues in your body need fats.
+
+01:11:51.180 --> 01:11:52.630
+They need cholesterols, they're...
+
+01:11:52.630 --> 01:11:54.430
+In last episode we
+talked about cholesterol
+
+01:11:54.430 --> 01:11:56.560
+is a precursor to the
+sex steroid hormones,
+
+01:11:56.560 --> 01:11:59.810
+estrogen, and testosterone
+and other hormones as well.
+
+01:11:59.810 --> 01:12:04.330
+Well, HDL and LDL, actually coat fats
+
+01:12:04.330 --> 01:12:07.180
+to allow them to be transported
+through the bloodstream.
+
+01:12:07.180 --> 01:12:09.030
+They do a number of other things as well.
+
+01:12:09.030 --> 01:12:13.280
+But HDL, is a key component
+of the delivery system
+
+01:12:13.280 --> 01:12:16.440
+that brings those fats
+to the liver, ovaries,
+
+01:12:16.440 --> 01:12:18.420
+testes, and adrenals.
+
+01:12:18.420 --> 01:12:22.320
+In other words, having
+adequate levels of HDL is good,
+
+01:12:22.320 --> 01:12:24.830
+because it allows fats to
+be delivered to the tissues
+
+01:12:24.830 --> 01:12:28.330
+that manufactured testosterone, estrogen,
+
+01:12:28.330 --> 01:12:31.500
+cortisol in healthy levels and the liver.
+
+01:12:31.500 --> 01:12:35.340
+So this is why when LDLs are too high
+
+01:12:35.340 --> 01:12:37.290
+what's happening is
+you're not getting fats
+
+01:12:37.290 --> 01:12:38.190
+to the correct tissues.
+
+01:12:38.190 --> 01:12:40.160
+And you can get buildup of fats
+
+01:12:40.160 --> 01:12:41.300
+like fatty liver disease
+
+01:12:41.300 --> 01:12:43.630
+and some of these things can happen.
+
+01:12:43.630 --> 01:12:45.080
+A high sugar content
+
+01:12:45.080 --> 01:12:47.920
+can even lead to some of
+these fatty liver conditions
+
+01:12:47.920 --> 01:12:48.770
+that starting to happen
+
+01:12:48.770 --> 01:12:51.310
+is actually the first time
+in human history perhaps
+
+01:12:51.310 --> 01:12:52.810
+that we're aware of anyway.
+
+01:12:52.810 --> 01:12:55.400
+That we're starting to
+see liver conditions
+
+01:12:55.400 --> 01:12:59.180
+that normally were associated
+only with severe alcoholism
+
+01:12:59.180 --> 01:13:00.590
+starting to come from sugar content.
+
+01:13:00.590 --> 01:13:01.600
+So what does this mean?
+
+01:13:01.600 --> 01:13:04.150
+This means keep your LDL
+and HDL ratios proper.
+
+01:13:04.150 --> 01:13:08.890
+You want those HDLs in order
+to deliver fatty molecules
+
+01:13:08.890 --> 01:13:10.950
+to the very tissues that use cholesterol
+
+01:13:10.950 --> 01:13:13.090
+in order to manufacturer hormones.
+
+01:13:13.090 --> 01:13:16.150
+So how do you keep LDLs and
+HDLs in their proper ratios?
+
+01:13:16.150 --> 01:13:19.050
+Well, a lot of people don't realize this,
+
+01:13:19.050 --> 01:13:22.700
+but the debate about dietary cholesterol
+
+01:13:22.700 --> 01:13:26.033
+and its relationship
+to LDL and HDL ratios,
+
+01:13:26.969 --> 01:13:28.520
+it is a barbed wire debate.
+
+01:13:28.520 --> 01:13:30.050
+I don't want to get into it right now.
+
+01:13:30.050 --> 01:13:32.300
+There are still a lot of open questions
+
+01:13:32.300 --> 01:13:35.160
+as to how much dietary cholesterol
+
+01:13:35.160 --> 01:13:36.960
+impacts LDL and HDL ratios.
+
+01:13:36.960 --> 01:13:38.920
+I don't want to get into that now,
+
+01:13:38.920 --> 01:13:40.900
+I'm not taking a stance either way.
+
+01:13:40.900 --> 01:13:42.570
+But what is very clear,
+
+01:13:42.570 --> 01:13:45.870
+is that having highly elevated glucose,
+
+01:13:45.870 --> 01:13:47.180
+consuming too much sugar
+
+01:13:47.180 --> 01:13:49.320
+or not managing glucose in your body
+
+01:13:49.320 --> 01:13:50.390
+through some of the mechanisms
+
+01:13:50.390 --> 01:13:52.880
+that we've been talking
+about up until now,
+
+01:13:52.880 --> 01:13:56.610
+can also negatively
+impact LDL, HDL ratios.
+
+01:13:56.610 --> 01:13:59.190
+So managing glucose goes way beyond
+
+01:13:59.190 --> 01:14:00.980
+just managing blood sugar,
+
+01:14:00.980 --> 01:14:03.510
+and making sure that you don't
+lay down too much body fat,
+
+01:14:03.510 --> 01:14:04.940
+making sure your metabolism stays high
+
+01:14:04.940 --> 01:14:06.550
+and making sure you're not
+getting jittery at meals.
+
+01:14:06.550 --> 01:14:08.330
+It also has to do with
+
+01:14:08.330 --> 01:14:12.170
+making sure that you're creating
+enough of the molecules HDL
+
+01:14:12.170 --> 01:14:15.690
+and not too many of the molecules LDL,
+
+01:14:15.690 --> 01:14:18.670
+that are going to disrupt
+the delivery of things
+
+01:14:18.670 --> 01:14:20.200
+to the organs of your body
+
+01:14:20.200 --> 01:14:22.580
+that allow you to make healthy
+levels of testosterone,
+
+01:14:22.580 --> 01:14:24.170
+estrogen, and so forth.
+
+01:14:24.170 --> 01:14:27.090
+If that wasn't clear, let
+me make this ultra simple.
+
+01:14:27.090 --> 01:14:29.400
+You want healthy levels of HDL,
+
+01:14:29.400 --> 01:14:31.820
+and you want low levels of LDL,
+
+01:14:31.820 --> 01:14:33.640
+because if you have ovaries
+
+01:14:33.640 --> 01:14:38.160
+it will allow the fats that
+need to get to the ovary
+
+01:14:38.160 --> 01:14:40.810
+to produce estrogen, to get there.
+
+01:14:40.810 --> 01:14:44.060
+And if you have testes,
+it will allow the fats
+
+01:14:44.060 --> 01:14:46.090
+and the cholesterol
+molecules that you need
+
+01:14:46.090 --> 01:14:51.090
+in order to manufacture
+testosterone to get to the testes.
+
+01:14:51.310 --> 01:14:54.250
+As well, in order to have
+proper adrenal function
+
+01:14:54.250 --> 01:14:55.480
+and proper liver function,
+
+01:14:55.480 --> 01:14:59.240
+you want HDL and LDL in
+the healthy correct levels.
+
+01:14:59.240 --> 01:15:01.910
+So now we've talked a lot
+about behavioral tools
+
+01:15:01.910 --> 01:15:04.120
+and the underlying biological mechanisms
+
+01:15:04.120 --> 01:15:07.800
+that justify those tools in
+particular circumstances.
+
+01:15:07.800 --> 01:15:11.090
+Now, I'd like to turn to
+supplements and prescription drugs
+
+01:15:11.090 --> 01:15:13.560
+that regulate the hormone systems,
+
+01:15:13.560 --> 01:15:16.040
+controlling feeding and satiety.
+
+01:15:16.040 --> 01:15:17.570
+There are a huge number of these.
+
+01:15:17.570 --> 01:15:19.600
+Some have more powerful
+effects than others.
+
+01:15:19.600 --> 01:15:21.790
+There are two that I want to describe
+
+01:15:21.790 --> 01:15:25.000
+because they've been getting
+a lot of attention recently.
+
+01:15:25.000 --> 01:15:28.280
+First of all, there's a
+prescription drug Metformin,
+
+01:15:28.280 --> 01:15:30.770
+which was developed as a
+treatment for diabetes.
+
+01:15:30.770 --> 01:15:34.490
+And it works potently
+to reduce blood glucose.
+
+01:15:34.490 --> 01:15:38.600
+It has dramatic effects
+in lowering blood glucose.
+
+01:15:38.600 --> 01:15:43.600
+Metformin involves changes
+to mitochondrial action
+
+01:15:43.610 --> 01:15:44.560
+in the liver.
+
+01:15:44.560 --> 01:15:49.470
+That's its main way of depleting
+or reducing blood glucose.
+
+01:15:49.470 --> 01:15:53.140
+And it does so through the
+so-called AMPK pathway,
+
+01:15:53.140 --> 01:15:56.860
+and it increases insulin
+sensitivity overall.
+
+01:15:56.860 --> 01:15:58.740
+Metformin is a powerful drug.
+
+01:15:58.740 --> 01:16:01.510
+In fact, I'm surprised that so many people
+
+01:16:01.510 --> 01:16:05.460
+have sought it out, given
+that most of the people
+
+01:16:05.460 --> 01:16:07.730
+that I'm aware of that sought
+it out are not diabetic.
+
+01:16:07.730 --> 01:16:10.820
+I think for diabetics it
+seems to be a useful drug.
+
+01:16:10.820 --> 01:16:13.310
+For non-diabetics, it can also of course,
+
+01:16:13.310 --> 01:16:14.560
+lower blood glucose.
+
+01:16:14.560 --> 01:16:17.700
+It also has the potential
+to make people hypoglycemic,
+
+01:16:17.700 --> 01:16:19.560
+genuinely hypoglycemic.
+
+01:16:19.560 --> 01:16:23.060
+So, you really need to approach
+Metformin with caution.
+
+01:16:23.060 --> 01:16:23.920
+I get a little concern
+
+01:16:23.920 --> 01:16:27.140
+when I hear about people
+blasting Metformin,
+
+01:16:27.140 --> 01:16:30.450
+simply because fasted states
+or low blood sugar states
+
+01:16:30.450 --> 01:16:31.323
+are healthy.
+
+01:16:32.300 --> 01:16:34.920
+Doing that pharmacologically
+can have long standing effects.
+
+01:16:34.920 --> 01:16:37.620
+You really want to
+approach that with caution.
+
+01:16:37.620 --> 01:16:41.180
+Now, there's a comparable drug,
+
+01:16:41.180 --> 01:16:42.570
+it really should be called a drug.
+
+01:16:42.570 --> 01:16:44.230
+But it's non-prescription,
+
+01:16:44.230 --> 01:16:46.330
+that's also in fairly
+prominent use out there
+
+01:16:46.330 --> 01:16:51.330
+called berberine, B-E-R
+B-E-R-I-N-E, berberine, correct.
+
+01:16:54.320 --> 01:16:58.130
+So berberine is a really
+interesting compound.
+
+01:16:58.130 --> 01:17:01.370
+Its actions very much mimic Metformin.
+
+01:17:01.370 --> 01:17:04.100
+So let's talk about
+berberine for a second.
+
+01:17:04.100 --> 01:17:08.420
+Berberine actually comes from
+various plants and tree bark.
+
+01:17:08.420 --> 01:17:11.440
+It is sold in supplement
+stores, it's sold online.
+
+01:17:11.440 --> 01:17:14.650
+It is, as far as I know
+unregulated, it is powerful.
+
+01:17:14.650 --> 01:17:16.410
+If you're going to
+experiment with berberine,
+
+01:17:16.410 --> 01:17:18.160
+you definitely want to talk to your doctor
+
+01:17:18.160 --> 01:17:20.820
+and you want to approach it with caution.
+
+01:17:20.820 --> 01:17:25.820
+It also works to activate
+the so-called AMPK pathway.
+
+01:17:25.963 --> 01:17:27.450
+AMPK by the way stands for
+
+01:17:27.450 --> 01:17:31.062
+Adenosine Monophosphate-activated
+protein kinase, AMPK.
+
+01:17:31.062 --> 01:17:34.123
+And it inhibits a protein
+tyrosine phosphates 1B pathway.
+
+01:17:35.120 --> 01:17:36.500
+I think that's enough nomenclature.
+
+01:17:36.500 --> 01:17:38.390
+It activates a certain pathway
+
+01:17:38.390 --> 01:17:41.950
+that's associated with
+fasting and low blood glucose.
+
+01:17:41.950 --> 01:17:46.380
+The effects of berberine
+are as far as I can tell,
+
+01:17:46.380 --> 01:17:47.840
+when looking at the literature,
+
+01:17:47.840 --> 01:17:51.833
+are very similar if not
+identical to Metformin.
+
+01:17:52.690 --> 01:17:57.010
+Now, the number of studies
+out there on this are many.
+
+01:17:57.010 --> 01:17:58.650
+So I'm just going to review a few of them
+
+01:17:58.650 --> 01:18:00.140
+and their major effects.
+
+01:18:00.140 --> 01:18:03.870
+As always, I invite you
+to check out examine.com.
+
+01:18:03.870 --> 01:18:04.910
+It's a wonderful website
+
+01:18:04.910 --> 01:18:07.700
+where you can put in any
+supplement or compound
+
+01:18:07.700 --> 01:18:09.630
+or biological goal for that matter.
+
+01:18:09.630 --> 01:18:11.850
+And it will list out the various effects
+
+01:18:11.850 --> 01:18:13.240
+in the human effect matrix.
+
+01:18:13.240 --> 01:18:15.830
+So studies on humans,
+if they're available.
+
+01:18:15.830 --> 01:18:18.410
+And it will tell you whether
+or not they're strong effects
+
+01:18:18.410 --> 01:18:19.780
+or weak effects or modest effects.
+
+01:18:19.780 --> 01:18:21.853
+And it will point to the
+specific subject population,
+
+01:18:21.853 --> 01:18:24.090
+it's a wonderful resource.
+
+01:18:24.090 --> 01:18:27.860
+So berberine, not surprisingly
+has very strong effects
+
+01:18:27.860 --> 01:18:29.000
+in lowering blood glucose.
+
+01:18:29.000 --> 01:18:30.940
+There are four studies on this.
+
+01:18:30.940 --> 01:18:33.310
+In fact, they say that
+berberine is one of the more
+
+01:18:33.310 --> 01:18:35.210
+if not the most effective supplements
+
+01:18:35.210 --> 01:18:36.450
+for lowering blood glucose.
+
+01:18:36.450 --> 01:18:38.180
+It talks about dosages there.
+
+01:18:38.180 --> 01:18:41.270
+Although I'll just mention
+that I've tried berberine,
+
+01:18:41.270 --> 01:18:44.720
+and the dosages that are
+typical on the bottle
+
+01:18:44.720 --> 01:18:49.170
+of most supplements, is
+much higher than I needed.
+
+01:18:49.170 --> 01:18:51.900
+So when I took berberine,
+two things happened,
+
+01:18:51.900 --> 01:18:55.700
+first of all, I got a
+pretty splitting headache.
+
+01:18:55.700 --> 01:18:57.220
+It gave me pretty vicious headache.
+
+01:18:57.220 --> 01:18:59.890
+So for me it was a no, almost immediately.
+
+01:18:59.890 --> 01:19:03.300
+The other thing is, I
+became so hypoglycemic.
+
+01:19:03.300 --> 01:19:05.460
+That in order to get
+my blood sugar back up,
+
+01:19:05.460 --> 01:19:07.570
+I think I ate something like 10 donuts
+
+01:19:07.570 --> 01:19:10.920
+and I didn't feel like I had
+ingested all that much sugar.
+
+01:19:10.920 --> 01:19:11.900
+It was really kind of weird.
+
+01:19:11.900 --> 01:19:13.220
+I was hyperphagic for sugar.
+
+01:19:13.220 --> 01:19:14.397
+I was craving sugar, craving sugar
+
+01:19:14.397 --> 01:19:16.320
+and I was very thirsty as well.
+
+01:19:16.320 --> 01:19:19.700
+And so, I don't want to
+promote any bad behavior,
+
+01:19:19.700 --> 01:19:21.480
+but I know that certain people use this
+
+01:19:21.480 --> 01:19:23.020
+when they've overeaten sugars
+
+01:19:23.020 --> 01:19:24.380
+or they're doing their cheat days,
+
+01:19:24.380 --> 01:19:26.860
+something that I'm
+personally just not a fan of.
+
+01:19:26.860 --> 01:19:28.650
+And they want to keep
+their blood sugar in check
+
+01:19:28.650 --> 01:19:30.240
+or they know they're going
+to consume a huge meal.
+
+01:19:30.240 --> 01:19:32.990
+They'll take berberine to
+keep blood glucose clamped.
+
+01:19:32.990 --> 01:19:34.490
+And it does do that.
+
+01:19:34.490 --> 01:19:36.300
+It has very strong effects.
+
+01:19:36.300 --> 01:19:39.550
+Three peer reviewed
+studies on HbA1c levels.
+
+01:19:39.550 --> 01:19:42.690
+HbA1c is something that can
+be measured in a blood test.
+
+01:19:42.690 --> 01:19:44.930
+That is sort of an average readout
+
+01:19:44.930 --> 01:19:46.150
+of your blood sugar levels
+
+01:19:46.150 --> 01:19:48.150
+over the previous two or three months,
+
+01:19:48.150 --> 01:19:49.130
+sometimes shorter period.
+
+01:19:49.130 --> 01:19:53.720
+But that's mostly what HbA1c is about.
+
+01:19:53.720 --> 01:19:58.540
+So, it radically decreases
+your blood sugar levels.
+
+01:19:58.540 --> 01:20:00.250
+It actually lowers cholesterol.
+
+01:20:00.250 --> 01:20:01.970
+It acts remember on the liver,
+
+01:20:01.970 --> 01:20:06.260
+and the liver is involved
+in cholesterol metabolism.
+
+01:20:06.260 --> 01:20:09.340
+And remember it's both
+sugars, blood glucose,
+
+01:20:09.340 --> 01:20:11.880
+and dietary fats.
+
+01:20:11.880 --> 01:20:13.910
+Perhaps it's still heavily debated
+
+01:20:14.850 --> 01:20:17.320
+in terms of how your
+blood total cholesterol
+
+01:20:17.320 --> 01:20:18.870
+HDL and LDL are regulated.
+
+01:20:18.870 --> 01:20:20.850
+So it seems to lower total cholesterol,
+
+01:20:20.850 --> 01:20:25.400
+and it seems like it lowers
+HDL and LDL in parallel.
+
+01:20:25.400 --> 01:20:27.130
+So that's interesting.
+
+01:20:27.130 --> 01:20:29.447
+One study showed a minor increase in HDL,
+
+01:20:29.447 --> 01:20:31.230
+the so-called good cholesterol.
+
+01:20:31.230 --> 01:20:32.970
+Insulin levels dropped, not surprising.
+
+01:20:32.970 --> 01:20:35.770
+Another study showed a
+slight decrease in LDL,
+
+01:20:35.770 --> 01:20:36.970
+though seem to be kind of minor.
+
+01:20:36.970 --> 01:20:38.180
+Here's a kind of interesting one,
+
+01:20:38.180 --> 01:20:39.800
+just to help you remember berberine
+
+01:20:39.800 --> 01:20:41.760
+as of the fact that it
+comes from tree bark,
+
+01:20:41.760 --> 01:20:44.770
+isn't trigger enough to remember it.
+
+01:20:44.770 --> 01:20:48.080
+Direct contact of
+berberine on canker sores
+
+01:20:48.080 --> 01:20:50.170
+seems to eliminate canker
+sores very quickly,
+
+01:20:50.170 --> 01:20:51.250
+which is kind of cool.
+
+01:20:51.250 --> 01:20:52.650
+I've not had canker sores in a few years
+
+01:20:52.650 --> 01:20:55.804
+but when I dig down,
+they're extremely painful.
+
+01:20:55.804 --> 01:20:56.637
+I don't like those.
+
+01:20:56.637 --> 01:20:57.520
+So that's kind of interesting,
+
+01:20:57.520 --> 01:20:59.850
+and there's some study references there.
+
+01:20:59.850 --> 01:21:01.700
+I find it amazing that
+these compounds exist.
+
+01:21:01.700 --> 01:21:03.450
+You've got this
+prescription drug Metformin,
+
+01:21:03.450 --> 01:21:05.750
+and then you've got berberine,
+this stuff from tree bark,
+
+01:21:05.750 --> 01:21:07.970
+and they have effects that
+are essentially equivalent
+
+01:21:07.970 --> 01:21:08.890
+to one another.
+
+01:21:08.890 --> 01:21:11.050
+So again, I'm not promoting their use
+
+01:21:11.050 --> 01:21:13.060
+or even their exploration,
+
+01:21:13.060 --> 01:21:15.520
+but those compounds do
+exist, they're out there.
+
+01:21:15.520 --> 01:21:17.880
+And check out examine.com
+if you'd like to learn more.
+
+01:21:17.880 --> 01:21:19.860
+Certainly do your
+reading, do your homework,
+
+01:21:19.860 --> 01:21:21.880
+before you start just popping the stuff.
+
+01:21:21.880 --> 01:21:26.880
+And if you have hypoglycemia
+or hyperglycemia,
+
+01:21:27.230 --> 01:21:32.230
+be especially careful and also
+do understand that dosages
+
+01:21:32.510 --> 01:21:33.870
+and dose requirements vary.
+
+01:21:33.870 --> 01:21:35.713
+So if you do go down this path,
+
+01:21:36.550 --> 01:21:37.960
+really approach things carefully.
+
+01:21:37.960 --> 01:21:40.350
+Always start with the lowest amount
+
+01:21:40.350 --> 01:21:41.850
+that you could get away with.
+
+01:21:41.850 --> 01:21:44.210
+For me, the headache thing
+just made it a no-go.
+
+01:21:44.210 --> 01:21:47.920
+I do keep a bottle of
+it in a full disclosure,
+
+01:21:47.920 --> 01:21:49.030
+in the odd chance
+
+01:21:49.030 --> 01:21:52.510
+that I feel like eating
+a ton of doughnuts.
+
+01:21:52.510 --> 01:21:55.960
+It's not so much about not
+ingesting the calories,
+
+01:21:55.960 --> 01:21:57.210
+it's just that I don't like the feeling
+
+01:21:57.210 --> 01:21:58.410
+of being hyperglycemic,
+
+01:21:58.410 --> 01:22:00.750
+the blurry vision, just feeling lousy,
+
+01:22:00.750 --> 01:22:02.620
+I do love donuts.
+
+01:22:02.620 --> 01:22:05.570
+Other things that impact blood
+glucose in supplement form.
+
+01:22:05.570 --> 01:22:10.030
+Chromium has been shown in
+29 studies to have a minor,
+
+01:22:10.030 --> 01:22:13.120
+I want to emphasize a minor
+effect on reducing blood glucose.
+
+01:22:13.120 --> 01:22:14.270
+Things like L-carnitine,
+
+01:22:14.270 --> 01:22:16.100
+something we've talked about
+here on the podcast before
+
+01:22:16.100 --> 01:22:17.450
+in terms of its relationship
+
+01:22:17.450 --> 01:22:20.450
+to power output in ATP production
+
+01:22:20.450 --> 01:22:23.330
+for both aerobic and anaerobic exercise,
+
+01:22:23.330 --> 01:22:26.960
+as well as sperm quality and egg quality.
+
+01:22:26.960 --> 01:22:28.653
+We talked about that long ago.
+
+01:22:29.730 --> 01:22:34.730
+Things like Panax ginseng
+can have positive effects on,
+
+01:22:35.300 --> 01:22:37.140
+I should say, can have effects
+
+01:22:37.140 --> 01:22:39.320
+of reducing blood glucose slightly.
+
+01:22:39.320 --> 01:22:41.780
+I don't want to give a
+valence to or judgment
+
+01:22:41.780 --> 01:22:43.210
+to whether or not it's
+positive or negative.
+
+01:22:43.210 --> 01:22:44.043
+Here's something that's interesting
+
+01:22:44.043 --> 01:22:45.090
+that you should know about.
+
+01:22:45.090 --> 01:22:49.380
+Caffeine has very reliably been shown
+
+01:22:49.380 --> 01:22:53.500
+to increase blood glucose
+just a little bit, okay?
+
+01:22:53.500 --> 01:22:56.530
+So I always thought that caffeine
+would drop blood glucose,
+
+01:22:56.530 --> 01:23:00.430
+but it actually can increase
+blood glucose just slightly.
+
+01:23:00.430 --> 01:23:01.880
+Things like magnesium.
+
+01:23:01.880 --> 01:23:03.690
+We talked about magnesium
+
+01:23:03.690 --> 01:23:07.970
+as a tool for enhancing
+the passage into sleep,
+
+01:23:07.970 --> 01:23:10.770
+in particular magnesium
+threonate and bisglycinate.
+
+01:23:10.770 --> 01:23:14.840
+Magnesium can also have a modest
+reduction in blood glucose.
+
+01:23:14.840 --> 01:23:15.750
+You're just trying to get the impression,
+
+01:23:15.750 --> 01:23:17.170
+everything reduces blood glucose,
+
+01:23:17.170 --> 01:23:18.410
+but that's certainly not the case.
+
+01:23:18.410 --> 01:23:21.480
+And then a couple episodes ago
+
+01:23:21.480 --> 01:23:22.500
+when we were discussing nutrition
+
+01:23:22.500 --> 01:23:24.960
+we talked about artificial
+sweeteners, sucralose,
+
+01:23:24.960 --> 01:23:27.323
+aspartame, NutraSweet.
+
+01:23:28.450 --> 01:23:29.750
+Some of those are generic names.
+
+01:23:29.750 --> 01:23:31.070
+Some of those might be brand names
+
+01:23:31.070 --> 01:23:33.810
+and how they have negative
+effects on the gut microbiome
+
+01:23:33.810 --> 01:23:35.320
+and that's supported
+by a number of studies.
+
+01:23:35.320 --> 01:23:40.320
+There's one artificial sweetener,
+it's stevia, S-T-E-V-I-A,
+
+01:23:41.320 --> 01:23:44.120
+which seems to lower blood
+glucose just slightly.
+
+01:23:44.120 --> 01:23:45.970
+And I still can't find data
+
+01:23:47.110 --> 01:23:50.320
+on whether or not Stevia
+impacts the gut microbiome
+
+01:23:50.320 --> 01:23:52.110
+in either direction.
+
+01:23:52.110 --> 01:23:53.430
+Many of the things that I consume
+
+01:23:53.430 --> 01:23:55.070
+do have small amounts of Stevia in them.
+
+01:23:55.070 --> 01:23:56.890
+So I'd love to know if anyone out there
+
+01:23:56.890 --> 01:23:59.540
+is aware of quality
+peer reviewed research,
+
+01:23:59.540 --> 01:24:03.460
+as to whether or not Stevia
+impacts the gut microbiome
+
+01:24:03.460 --> 01:24:07.540
+similarly or differently from
+other artificial sweeteners.
+
+01:24:07.540 --> 01:24:08.373
+Please let me know.
+
+01:24:08.373 --> 01:24:09.400
+Please send me the references.
+
+01:24:09.400 --> 01:24:10.233
+I'd really appreciate it
+
+01:24:10.233 --> 01:24:12.970
+if put it in the comment
+section on YouTube or elsewhere.
+
+01:24:13.880 --> 01:24:16.230
+Comment section on YouTube
+would be the best place.
+
+01:24:16.230 --> 01:24:18.560
+So Stevia seems to lower
+blood glucose a little bit,
+
+01:24:18.560 --> 01:24:21.610
+which makes it kind of an
+attractive artificial sweetener
+
+01:24:21.610 --> 01:24:24.820
+if one is going to use
+artificial sweeteners.
+
+01:24:24.820 --> 01:24:26.980
+But remember, sweet taste itself
+
+01:24:26.980 --> 01:24:28.600
+stimulates the desire to eat,
+
+01:24:28.600 --> 01:24:30.330
+which will increase more blood glucose.
+
+01:24:30.330 --> 01:24:32.290
+So I'm guessing that they
+probably cancel each other out.
+
+01:24:32.290 --> 01:24:35.060
+So you have to think
+logically about these things.
+
+01:24:35.060 --> 01:24:37.390
+Vitamin B3, so some of the B vitamins
+
+01:24:37.390 --> 01:24:39.290
+do indeed stimulate appetite
+
+01:24:39.290 --> 01:24:41.490
+by triggering increases in blood glucose,
+
+01:24:41.490 --> 01:24:42.820
+vitamin B3 in particular.
+
+01:24:42.820 --> 01:24:44.300
+I don't know if B6 does.
+
+01:24:44.300 --> 01:24:46.490
+Things like zinc seem
+to lower blood glucose.
+
+01:24:46.490 --> 01:24:49.120
+And then there've been an
+enormous number of other things
+
+01:24:49.120 --> 01:24:53.520
+that have been tested for
+their roles in blood glucose.
+
+01:24:53.520 --> 01:24:56.150
+Apple cider vinegar, anything acidic.
+
+01:24:56.150 --> 01:24:59.380
+This is well-known now
+that any kind of acidity,
+
+01:24:59.380 --> 01:25:01.300
+so it could be lemon juice or lime juice,
+
+01:25:01.300 --> 01:25:04.790
+or Apple cider vinegar,
+lowers blood glucose slightly.
+
+01:25:04.790 --> 01:25:06.550
+Some of those can also have other effects
+
+01:25:06.550 --> 01:25:08.180
+that we're not talking about today.
+
+01:25:08.180 --> 01:25:09.280
+So that's kind of interesting
+
+01:25:09.280 --> 01:25:12.260
+because there's a movement now
+
+01:25:12.260 --> 01:25:14.760
+towards creating a sort
+of people talk about
+
+01:25:14.760 --> 01:25:16.980
+becoming more alkaline,
+you know, what these...
+
+01:25:16.980 --> 01:25:18.040
+I hate to break it to you
+
+01:25:18.040 --> 01:25:21.290
+but you don't really want
+your body to be too alkaline.
+
+01:25:21.290 --> 01:25:23.930
+You want to stay in the right
+pH or else you're start...
+
+01:25:23.930 --> 01:25:26.740
+There are conditions that
+make you more alkaline.
+
+01:25:26.740 --> 01:25:29.320
+You don't want to be too
+acidic or too alkaline.
+
+01:25:29.320 --> 01:25:31.290
+If you see a beverage or something
+
+01:25:31.290 --> 01:25:35.010
+that purports that ingesting that beverage
+
+01:25:35.010 --> 01:25:37.090
+is going to make you more alkaline,
+
+01:25:37.090 --> 01:25:38.410
+that is absolutely false.
+
+01:25:38.410 --> 01:25:41.210
+There's no evidence for that,
+is impossible biochemically.
+
+01:25:41.210 --> 01:25:42.900
+It's just marketing.
+
+01:25:42.900 --> 01:25:47.230
+But nonetheless ingesting
+foods that are acidic
+
+01:25:47.230 --> 01:25:51.900
+can make some slight
+adjustments to the pH of the gut
+
+01:25:51.900 --> 01:25:55.890
+in ways that can slow or
+alter the absorption of foods
+
+01:25:55.890 --> 01:25:57.970
+and can blunt blood glucose.
+
+01:25:57.970 --> 01:25:59.300
+You can try this sometime if you want,
+
+01:25:59.300 --> 01:26:01.390
+if ever you're feeling
+kind of over sugared out
+
+01:26:01.390 --> 01:26:03.110
+like you ate something
+with too much sugar.
+
+01:26:03.110 --> 01:26:05.110
+You can drink a small
+amount of lemon juice
+
+01:26:05.110 --> 01:26:06.490
+mixed with water or lime juice,
+
+01:26:06.490 --> 01:26:08.300
+and you'll notice that it will blunt
+
+01:26:08.300 --> 01:26:11.460
+that kind of hyperglycemic
+effect just a little bit.
+
+01:26:11.460 --> 01:26:14.420
+Again, you don't want to
+use this as a medical tool,
+
+01:26:14.420 --> 01:26:17.180
+but the effect is fairly potent.
+
+01:26:17.180 --> 01:26:18.890
+And then, excuse me.
+
+01:26:18.890 --> 01:26:21.010
+And then there are a
+number of other things
+
+01:26:21.010 --> 01:26:23.040
+like capsaicin and hot chili peppers
+
+01:26:23.040 --> 01:26:24.080
+that will lower blood glucose.
+
+01:26:24.080 --> 01:26:25.640
+The list goes on and on,
+
+01:26:25.640 --> 01:26:30.270
+The most powerful one is
+absolutely berberine and Metformin,
+
+01:26:30.270 --> 01:26:33.010
+but that's really heavy caliber stuff.
+
+01:26:33.010 --> 01:26:36.150
+And the other ones I mentioned
+have more minor effects.
+
+01:26:36.150 --> 01:26:38.900
+I do want to mention because
+I'm sure some of you out there
+
+01:26:38.900 --> 01:26:40.380
+are curious about the ketogenic diet.
+
+01:26:40.380 --> 01:26:43.040
+I'm going to do an entire
+episode about ketosis
+
+01:26:43.040 --> 01:26:44.720
+and the brain and the body,
+
+01:26:44.720 --> 01:26:49.720
+but the ketogenic diet has
+been shown in 22 studies
+
+01:26:49.800 --> 01:26:51.840
+to have a notable
+decrease on blood glucose.
+
+01:26:51.840 --> 01:26:53.180
+And that is not surprising,
+
+01:26:53.180 --> 01:26:56.750
+because the essence of the ketogenic diet
+
+01:26:56.750 --> 01:27:00.230
+is that you're consuming
+very little or zero
+
+01:27:00.230 --> 01:27:04.223
+of the foods that promote big
+spikes in insulin and glucose.
+
+01:27:05.120 --> 01:27:06.420
+If you consume enough protein,
+
+01:27:06.420 --> 01:27:09.210
+some of that protein can
+be converted into glucose,
+
+01:27:09.210 --> 01:27:11.170
+of course, through gluconeogenesis.
+
+01:27:11.170 --> 01:27:14.350
+But the ketogenic diet
+has a very strong support
+
+01:27:15.589 --> 01:27:19.290
+for its role in regulating
+blood sugar, which is glucose.
+
+01:27:19.290 --> 01:27:22.500
+But the specific effects
+of the ketogenic diet,
+
+01:27:22.500 --> 01:27:25.420
+and one particular effect
+that I'll address later
+
+01:27:25.420 --> 01:27:26.870
+but I'll mention now,
+
+01:27:26.870 --> 01:27:29.620
+which is, the ability
+of the ketogenic diet
+
+01:27:29.620 --> 01:27:33.020
+to adjust thyroid hormone levels
+
+01:27:33.020 --> 01:27:34.270
+in ways that make it
+
+01:27:34.270 --> 01:27:36.580
+such that if you return
+to eating carbohydrates
+
+01:27:36.580 --> 01:27:38.840
+after being in ketosis for too long,
+
+01:27:38.840 --> 01:27:41.920
+you don't manage fibroid
+and carbohydrates as well,
+
+01:27:41.920 --> 01:27:43.500
+that has been shown as well.
+
+01:27:43.500 --> 01:27:45.180
+So we're going to dive deep into ketosis
+
+01:27:45.180 --> 01:27:46.300
+in a future episode.
+
+01:27:46.300 --> 01:27:48.840
+So for you ketonistas does
+out there don't worry,
+
+01:27:48.840 --> 01:27:51.200
+I certainly have nothing
+against ketogenic diet.
+
+01:27:51.200 --> 01:27:52.650
+I actually don't have anything
+
+01:27:52.650 --> 01:27:54.810
+for against any particular nutrition plan.
+
+01:27:54.810 --> 01:27:57.450
+I know it works for me, at
+least at this stage in my life.
+
+01:27:57.450 --> 01:27:58.990
+And I'll update it if I need to.
+
+01:27:58.990 --> 01:28:00.950
+I'm simply trying to get
+you as much information
+
+01:28:00.950 --> 01:28:02.410
+as I possibly can,
+
+01:28:02.410 --> 01:28:04.860
+so that you can navigate
+through that landscape
+
+01:28:04.860 --> 01:28:08.560
+in a way that's in keeping
+with your particular goals.
+
+01:28:08.560 --> 01:28:10.930
+So now you understand
+a lot about blood sugar
+
+01:28:10.930 --> 01:28:12.100
+and how it's managed,
+
+01:28:12.100 --> 01:28:13.980
+and the ways that you can manage it better
+
+01:28:13.980 --> 01:28:16.420
+depending on your particular needs.
+
+01:28:16.420 --> 01:28:19.900
+This is also a good
+opportunity for us to look back
+
+01:28:19.900 --> 01:28:22.050
+at some of the medical literature,
+
+01:28:22.050 --> 01:28:25.370
+because it really points
+to just how far we've come
+
+01:28:25.370 --> 01:28:28.050
+in terms of understanding
+these important mechanisms.
+
+01:28:28.050 --> 01:28:30.010
+And it points us in the direction
+
+01:28:30.010 --> 01:28:32.480
+of some actionable protocols.
+
+01:28:32.480 --> 01:28:37.480
+So diabetes, which is these
+huge increases in blood glucose,
+
+01:28:38.150 --> 01:28:40.060
+because there's no insulin,
+
+01:28:40.060 --> 01:28:43.420
+was known about as early as 1500 BC,
+
+01:28:43.420 --> 01:28:45.260
+which is just incredible.
+
+01:28:45.260 --> 01:28:49.800
+And the way physicians then understood
+
+01:28:49.800 --> 01:28:51.980
+that certain people had high blood glucose
+
+01:28:51.980 --> 01:28:54.430
+without actually knowing
+what blood glucose was,
+
+01:28:54.430 --> 01:28:57.420
+is that they would take the
+urine of particular patients,
+
+01:28:57.420 --> 01:29:01.810
+and they'd find that ants
+preferably move toward
+
+01:29:01.810 --> 01:29:06.370
+and consume the urine of
+certain patients and not others.
+
+01:29:06.370 --> 01:29:09.360
+And they understood that there
+was something in that urine
+
+01:29:09.360 --> 01:29:11.470
+that was correlated with the weight loss
+
+01:29:11.470 --> 01:29:12.470
+and some of the other
+
+01:29:12.470 --> 01:29:15.740
+probably very unfortunate health symptoms
+
+01:29:15.740 --> 01:29:17.240
+that these people were experiencing.
+
+01:29:17.240 --> 01:29:21.120
+So they knew that there was
+something in blood and urine.
+
+01:29:21.120 --> 01:29:25.230
+But you might be asking
+yourself, wait, that's urine.
+
+01:29:25.230 --> 01:29:29.980
+But as I tell every kid
+that I meet, two things.
+
+01:29:29.980 --> 01:29:31.960
+I tell a kid, your brain is here,
+
+01:29:31.960 --> 01:29:33.170
+I make them point to their head.
+
+01:29:33.170 --> 01:29:35.160
+And then I tell them, do you know what?
+
+01:29:35.160 --> 01:29:37.940
+Do you know that your urine
+is actually filtered blood?
+
+01:29:37.940 --> 01:29:39.530
+And they usually go, [grunts].
+
+01:29:39.530 --> 01:29:41.560
+I get parental permission
+to do this first.
+
+01:29:41.560 --> 01:29:43.570
+But most adults don't realize
+
+01:29:43.570 --> 01:29:46.690
+that your urine is actually
+just filtered blood.
+
+01:29:46.690 --> 01:29:49.690
+And that's why if you
+see blood in your urine,
+
+01:29:49.690 --> 01:29:50.730
+that's a problem.
+
+01:29:50.730 --> 01:29:54.400
+You want to filter the blood,
+but urine is filtered blood.
+
+01:29:54.400 --> 01:29:59.400
+Now, this business of measuring
+blood sugar from the urine
+
+01:29:59.910 --> 01:30:03.030
+has been something that lasted way beyond
+
+01:30:03.030 --> 01:30:05.760
+these early stages of 1500 BC.
+
+01:30:05.760 --> 01:30:09.313
+It turns out that as late as 1674,
+
+01:30:10.600 --> 01:30:13.790
+physicians at Oxford
+university were figuring out
+
+01:30:13.790 --> 01:30:18.440
+who had pathologically high
+levels of blood glucose
+
+01:30:18.440 --> 01:30:20.870
+by analyzing their urine.
+
+01:30:20.870 --> 01:30:24.350
+And again, they were measuring
+the sweetness of their urine,
+
+01:30:24.350 --> 01:30:25.610
+and this is medical fact.
+
+01:30:25.610 --> 01:30:26.443
+They would do this
+
+01:30:26.443 --> 01:30:29.250
+by taking urine samples
+from different patients,
+
+01:30:29.250 --> 01:30:31.310
+and tasting them.
+
+01:30:31.310 --> 01:30:34.500
+And they developed an intuitive sense
+
+01:30:34.500 --> 01:30:38.610
+of what excessively sweet urine was
+
+01:30:38.610 --> 01:30:40.740
+relative to the other
+urines that they had tasted.
+
+01:30:40.740 --> 01:30:42.670
+So for those of you that are
+in the medical profession
+
+01:30:42.670 --> 01:30:45.400
+or those of you that are seeking
+out the medical profession,
+
+01:30:45.400 --> 01:30:48.080
+do you understand this
+is not done anymore?
+
+01:30:48.080 --> 01:30:51.350
+And you can also just
+reflect on how far we've come
+
+01:30:51.350 --> 01:30:53.770
+in terms of the medical profession itself.
+
+01:30:53.770 --> 01:30:55.820
+In our ability to measure
+things from the blood
+
+01:30:55.820 --> 01:30:57.170
+and measure things from urine
+
+01:30:57.170 --> 01:31:02.170
+without having to ask ants
+which urine is sweeter
+
+01:31:02.180 --> 01:31:04.960
+or ask oneself, which urine is sweeter.
+
+01:31:04.960 --> 01:31:08.470
+So indeed we are making
+progress as a species.
+
+01:31:08.470 --> 01:31:11.440
+Before we close out today I
+want to talk about one more tool
+
+01:31:11.440 --> 01:31:14.440
+that many of you will
+probably find useful.
+
+01:31:14.440 --> 01:31:18.170
+I certainly have, I'm a
+big consumer of caffeine,
+
+01:31:18.170 --> 01:31:20.220
+although I don't consume a ton of it,
+
+01:31:20.220 --> 01:31:21.770
+I consume it very consistently.
+
+01:31:21.770 --> 01:31:23.643
+So I'm big on consuming Mate,
+
+01:31:24.480 --> 01:31:27.370
+which is a strong caffeinated tea.
+
+01:31:27.370 --> 01:31:30.180
+And I generally do that early in the day.
+
+01:31:30.180 --> 01:31:32.480
+Although I do delay about
+two hours after I wake up
+
+01:31:32.480 --> 01:31:34.480
+for reasons I've talked
+about in previous episode,
+
+01:31:34.480 --> 01:31:37.550
+to maintain that nice arc
+of alertness and focus.
+
+01:31:37.550 --> 01:31:40.540
+I do drink black coffee as
+well, mushroom coffee as well,
+
+01:31:40.540 --> 01:31:41.770
+I love that stuff.
+
+01:31:41.770 --> 01:31:46.680
+But Mate, also called Yerba
+Mate, is an interesting compound
+
+01:31:46.680 --> 01:31:49.480
+because unlike coffee,
+
+01:31:49.480 --> 01:31:52.110
+it has been shown to increase
+something called glucagon
+
+01:31:52.110 --> 01:31:54.900
+like peptide GLP1.
+
+01:31:54.900 --> 01:31:56.650
+And increase leptin levels.
+
+01:31:56.650 --> 01:31:58.620
+Now, we didn't talk a
+lot about glucagon today.
+
+01:31:58.620 --> 01:32:01.620
+Glucagon is really elevated
+in the fasting state.
+
+01:32:01.620 --> 01:32:04.600
+I mentioned that it's sort
+of the opposite of insulin
+
+01:32:04.600 --> 01:32:06.480
+in kind of rough terms
+
+01:32:06.480 --> 01:32:08.970
+that's one way to think about it.
+
+01:32:08.970 --> 01:32:13.310
+But GLP1, or glucagon-like peptide one,
+
+01:32:13.310 --> 01:32:15.760
+is increased by ingesting Mate
+
+01:32:15.760 --> 01:32:19.840
+and it acts as a pretty
+nice appetite suppressant.
+
+01:32:19.840 --> 01:32:22.130
+Now, I'm not trying to
+suppress my appetite.
+
+01:32:22.130 --> 01:32:24.290
+I like to eat as I mentioned before.
+
+01:32:24.290 --> 01:32:27.970
+But it works really well
+to stimulate the brain
+
+01:32:27.970 --> 01:32:31.130
+and to give you a level of alertness
+
+01:32:31.130 --> 01:32:33.190
+and to do a lot of the
+things that coffee does.
+
+01:32:33.190 --> 01:32:34.980
+It also contains electrolytes.
+
+01:32:34.980 --> 01:32:39.430
+So we meaning our neurons and our brain
+
+01:32:39.430 --> 01:32:42.010
+run on a variety of factors,
+
+01:32:42.010 --> 01:32:44.330
+electrical activity and chemical
+transmission, et cetera,
+
+01:32:44.330 --> 01:32:47.420
+but they require adequate
+levels of sodium potassium
+
+01:32:47.420 --> 01:32:48.990
+and magnesium.
+
+01:32:48.990 --> 01:32:51.860
+So, if you were to learn the biology
+
+01:32:51.860 --> 01:32:53.620
+or the physiology of the action potential,
+
+01:32:53.620 --> 01:32:54.960
+the firing of a neuron,
+
+01:32:54.960 --> 01:32:57.210
+something we teach every first
+year neuroscience student,
+
+01:32:57.210 --> 01:33:00.390
+and I'd be happy to teach
+you if you're interested.
+
+01:33:00.390 --> 01:33:03.230
+You'll hear about sodium
+rushing into cells
+
+01:33:03.230 --> 01:33:06.400
+and potassium entering and leaving cells
+
+01:33:06.400 --> 01:33:08.760
+in order to allow neurons to communicate.
+
+01:33:08.760 --> 01:33:11.360
+Electrolytes are critically important
+
+01:33:11.360 --> 01:33:13.500
+for the function of the nervous system.
+
+01:33:13.500 --> 01:33:16.470
+And many things that act as diuretics,
+
+01:33:16.470 --> 01:33:20.260
+that promote excretion
+of water, like caffeine,
+
+01:33:20.260 --> 01:33:22.890
+can also take electrolytes out along
+
+01:33:22.890 --> 01:33:24.400
+with in particular sodium.
+
+01:33:24.400 --> 01:33:25.960
+And sometimes the lightheadedness
+
+01:33:25.960 --> 01:33:27.980
+or the brain fog that people experience,
+
+01:33:27.980 --> 01:33:29.570
+isn't just because electrolytes are low
+
+01:33:29.570 --> 01:33:31.890
+but because they're
+kind of out of balance.
+
+01:33:31.890 --> 01:33:36.120
+So I like Mate because it has
+electrolytes, it has caffeine.
+
+01:33:36.120 --> 01:33:38.830
+It stimulates the release of
+this glucagon-like peptide
+
+01:33:38.830 --> 01:33:41.000
+GLP1, and it's been a big help to me
+
+01:33:41.000 --> 01:33:43.690
+in extending that early
+morning fasting window
+
+01:33:43.690 --> 01:33:46.630
+out to about noon or so
+when I eat my first meal.
+
+01:33:46.630 --> 01:33:48.060
+It also just tastes really good.
+
+01:33:48.060 --> 01:33:49.460
+I don't drink it out of the gourd
+
+01:33:49.460 --> 01:33:50.900
+even though I have Argentine lineage.
+
+01:33:50.900 --> 01:33:53.860
+The gourd to me it's just
+kind of an inconvenience,
+
+01:33:53.860 --> 01:33:55.770
+I drink it out of a mug.
+
+01:33:55.770 --> 01:33:57.010
+There's no promotion here.
+
+01:33:57.010 --> 01:34:00.020
+I have no relationship to
+any Yerba Mate plantations
+
+01:34:01.360 --> 01:34:03.810
+or companies, I just happen
+to really like the stuff.
+
+01:34:03.810 --> 01:34:08.590
+And the fact that glucagon-like
+peptide one is enriched
+
+01:34:08.590 --> 01:34:11.560
+or is released more when you drink Mate.
+
+01:34:11.560 --> 01:34:15.050
+And the fact that GLP1
+can regulate blood sugar
+
+01:34:15.050 --> 01:34:17.310
+in ways that keep your blood sugar
+
+01:34:17.310 --> 01:34:20.210
+in that we called euglycemic,
+
+01:34:20.210 --> 01:34:22.240
+not too high, not too low mode,
+
+01:34:22.240 --> 01:34:26.090
+is one reason why ingesting
+Mate is attractive to me.
+
+01:34:26.090 --> 01:34:27.840
+If you go to South America,
+
+01:34:27.840 --> 01:34:30.210
+well, you'll see especially
+among Oregonians,
+
+01:34:30.210 --> 01:34:32.070
+but also Argentines, is
+people actually carry
+
+01:34:32.070 --> 01:34:34.740
+a thermos of this stuff with them around
+
+01:34:34.740 --> 01:34:36.580
+and bring it to meals in restaurants.
+
+01:34:36.580 --> 01:34:38.430
+And it's just considered
+cultural convention,
+
+01:34:38.430 --> 01:34:40.130
+it's not unusual to see that.
+
+01:34:40.130 --> 01:34:41.990
+So we don't see that so
+much here in the States
+
+01:34:41.990 --> 01:34:43.570
+but I happen to really love this stuff.
+
+01:34:43.570 --> 01:34:45.130
+I brew my own,
+
+01:34:45.130 --> 01:34:47.140
+because that's the most
+economical way to do it.
+
+01:34:47.140 --> 01:34:48.570
+And I really enjoy it.
+
+01:34:48.570 --> 01:34:51.000
+It can be a little bitter for some people.
+
+01:34:51.000 --> 01:34:52.460
+The real key there if you want to know,
+
+01:34:52.460 --> 01:34:54.570
+the Mate trick is to not use water
+
+01:34:54.570 --> 01:34:55.900
+that's really boiling hot.
+
+01:34:55.900 --> 01:34:57.230
+You go just shy of boil
+
+01:34:57.230 --> 01:35:02.010
+and then it doesn't have that
+same kind of tobacco like
+
+01:35:02.010 --> 01:35:05.000
+or really acidic flavor to it.
+
+01:35:05.000 --> 01:35:08.620
+It's just a little bit sweeter,
+although not quite sweet.
+
+01:35:08.620 --> 01:35:13.170
+So, Yerba Meta GLP1, can
+manage in healthy ways
+
+01:35:13.170 --> 01:35:16.240
+leptin levels, glucose
+levels, and glucagon levels
+
+01:35:16.240 --> 01:35:19.750
+in ways that if it serves you,
+that you might want to try.
+
+01:35:19.750 --> 01:35:23.250
+So once again, we covered an
+enormous amount of material,
+
+01:35:23.250 --> 01:35:27.340
+focused on how hormones
+regulate feeding, hunger,
+
+01:35:27.340 --> 01:35:30.330
+and when one feels they don't need to eat,
+
+01:35:30.330 --> 01:35:33.090
+so-called satiety, that you've had enough.
+
+01:35:33.090 --> 01:35:36.870
+As always, we covered a lot,
+but I could not be exhaustive
+
+01:35:36.870 --> 01:35:39.920
+about all the information
+related to this topic.
+
+01:35:39.920 --> 01:35:41.150
+It's just so vast.
+
+01:35:41.150 --> 01:35:43.870
+For instance, we did not
+talk about thyroid hormone,
+
+01:35:43.870 --> 01:35:47.050
+an extremely important hormone and pathway
+
+01:35:47.050 --> 01:35:48.400
+in the body and brain.
+
+01:35:48.400 --> 01:35:50.650
+We are going to do an
+episode related to thyroid
+
+01:35:50.650 --> 01:35:53.140
+and tools to regulate thyroid, I promise.
+
+01:35:53.140 --> 01:35:54.680
+Having seen this episode,
+
+01:35:54.680 --> 01:35:58.853
+you will be able to digest that
+material with far more ease.
+
+01:35:59.810 --> 01:36:02.240
+We also didn't talk about the fact that
+
+01:36:02.240 --> 01:36:04.990
+testosterone and estrogen
+can impact blood glucose
+
+01:36:04.990 --> 01:36:07.240
+in ways that are opposite to one another.
+
+01:36:07.240 --> 01:36:09.250
+That when estrogen levels are high,
+
+01:36:09.250 --> 01:36:11.670
+appetite tends to be reduced.
+
+01:36:11.670 --> 01:36:13.730
+When testosterone levels are high,
+
+01:36:13.730 --> 01:36:15.170
+appetite tends to increase.
+
+01:36:15.170 --> 01:36:17.260
+So there are all sorts
+of interesting interplays
+
+01:36:17.260 --> 01:36:18.770
+between the various hormones.
+
+01:36:18.770 --> 01:36:21.720
+But that's too much of a deep dive of now.
+
+01:36:21.720 --> 01:36:24.500
+Right now, we've just focused today mainly
+
+01:36:24.500 --> 01:36:27.800
+on things like ghrelin, on things like,
+
+01:36:27.800 --> 01:36:29.310
+Melanocyte simulating hormone,
+
+01:36:29.310 --> 01:36:32.990
+incredible powerful hormone
+that can suppress appetite.
+
+01:36:32.990 --> 01:36:36.580
+On things like Cholecystokinin
+that comes from the gut
+
+01:36:36.580 --> 01:36:38.320
+and can suppress appetite.
+
+01:36:38.320 --> 01:36:40.550
+On things like food emulsifiers.
+
+01:36:40.550 --> 01:36:42.580
+On the fact that when you're eating
+
+01:36:42.580 --> 01:36:44.750
+you are amino acids seeking,
+
+01:36:44.750 --> 01:36:46.420
+even though you might not realize it.
+
+01:36:46.420 --> 01:36:49.590
+That you are also seeking
+out particular fatty acids
+
+01:36:49.590 --> 01:36:53.440
+in particular, the conjugated
+linoleic acids and Omega-3's.
+
+01:36:53.440 --> 01:36:55.870
+So I've tried to give you a
+number of actionable tools.
+
+01:36:55.870 --> 01:36:58.750
+Many of them behavioral.
+
+01:36:58.750 --> 01:37:00.980
+Some of them are based on supplements
+
+01:37:00.980 --> 01:37:02.530
+or even prescription drugs.
+
+01:37:02.530 --> 01:37:04.600
+Again, always do what's
+best for your health,
+
+01:37:04.600 --> 01:37:07.600
+and do that in company with
+a healthcare professional.
+
+01:37:07.600 --> 01:37:09.880
+I'm not a physician, I
+don't prescribe anything.
+
+01:37:09.880 --> 01:37:12.440
+I'm a professor, I
+profess a lot of things.
+
+01:37:12.440 --> 01:37:14.870
+And I try and share with you
+what I think to be the best
+
+01:37:14.870 --> 01:37:16.700
+high quality peer reviewed literature.
+
+01:37:16.700 --> 01:37:18.240
+So that's what I've done today.
+
+01:37:18.240 --> 01:37:20.450
+Really appreciate your time and intention.
+
+01:37:20.450 --> 01:37:21.950
+Many of you have continued to ask
+
+01:37:21.950 --> 01:37:23.850
+how you can help support the podcast.
+
+01:37:23.850 --> 01:37:26.120
+And we really appreciate the question.
+
+01:37:26.120 --> 01:37:27.360
+There's several ways to do that.
+
+01:37:27.360 --> 01:37:31.040
+The first is to like a
+video that you've seen
+
+01:37:31.040 --> 01:37:34.380
+if you like it, and please
+subscribe to the YouTube channel.
+
+01:37:34.380 --> 01:37:35.780
+That's perhaps the most important thing
+
+01:37:35.780 --> 01:37:37.120
+about the YouTube channel.
+
+01:37:37.120 --> 01:37:38.580
+As well, leave us a comment.
+
+01:37:38.580 --> 01:37:40.250
+If you leave us a comment
+in the comment section
+
+01:37:40.250 --> 01:37:41.340
+that helps us.
+
+01:37:41.340 --> 01:37:43.170
+And please ask questions.
+
+01:37:43.170 --> 01:37:44.610
+Those questions and your comments
+
+01:37:44.610 --> 01:37:46.940
+do inform content of future episodes.
+
+01:37:46.940 --> 01:37:48.040
+We read them all.
+
+01:37:48.040 --> 01:37:49.470
+Except the negative ones we don't read,
+
+01:37:49.470 --> 01:37:51.610
+I'm just kidding, we read them all.
+
+01:37:51.610 --> 01:37:56.000
+In addition, please subscribe
+on Apple and/or Spotify
+
+01:37:56.000 --> 01:37:57.540
+or both if you like.
+
+01:37:57.540 --> 01:37:59.780
+And on Apple, you have the
+opportunity to leave us
+
+01:37:59.780 --> 01:38:02.450
+up to a five star review if
+you feel we deserve that.
+
+01:38:02.450 --> 01:38:04.550
+Apple also lets you leave a comment,
+
+01:38:04.550 --> 01:38:06.810
+some feedback for us as well.
+
+01:38:06.810 --> 01:38:08.250
+Please do check out our sponsors
+
+01:38:08.250 --> 01:38:10.950
+that we mentioned at the
+beginning of the podcast.
+
+01:38:10.950 --> 01:38:13.510
+That's the best way perhaps
+to support the podcast.
+
+01:38:13.510 --> 01:38:15.260
+As well we have a Patreon account.
+
+01:38:15.260 --> 01:38:18.080
+It's patreon.com/andrewhuberman.
+
+01:38:18.080 --> 01:38:21.480
+And there you can support the
+podcast at any level you like.
+
+01:38:21.480 --> 01:38:24.670
+And today, as well as
+in previous episodes,
+
+01:38:24.670 --> 01:38:26.420
+I've mentioned various supplements.
+
+01:38:26.420 --> 01:38:28.620
+If you're interested in
+seeing what supplements I take
+
+01:38:28.620 --> 01:38:31.640
+and you want to explore for
+some other supplements as well,
+
+01:38:31.640 --> 01:38:32.860
+you can go to Thorne
+
+01:38:32.860 --> 01:38:37.860
+T-H-O-R-N-E.com slash U, the
+letter U, slash Huberman.
+
+01:38:39.990 --> 01:38:41.370
+Thorne is a supplement company
+
+01:38:41.370 --> 01:38:43.840
+that we believe to have
+the highest stringency
+
+01:38:43.840 --> 01:38:45.340
+in terms of what they put
+
+01:38:45.340 --> 01:38:47.460
+in the various supplements that they make.
+
+01:38:47.460 --> 01:38:49.450
+And the amounts that they
+put are very accurate.
+
+01:38:49.450 --> 01:38:51.510
+They've partnered with the Mayo Clinic.
+
+01:38:51.510 --> 01:38:53.610
+They partnered with all
+the major sports teams.
+
+01:38:53.610 --> 01:38:55.210
+And we've partnered with them
+
+01:38:55.210 --> 01:38:57.420
+because we believe in
+their levels of stringency
+
+01:38:57.420 --> 01:38:58.890
+and accuracy.
+
+01:38:58.890 --> 01:39:03.890
+If you go to thorne.com/u/huberman,
+you can see what I take
+
+01:39:04.840 --> 01:39:07.450
+and you'll also get 20% off
+any of those supplements
+
+01:39:07.450 --> 01:39:10.270
+or any of the other
+supplements that Thorne makes.
+
+01:39:10.270 --> 01:39:13.170
+So that's where you can find
+out more about supplements
+
+01:39:13.170 --> 01:39:14.300
+and the ones that I take.
+
+01:39:14.300 --> 01:39:16.370
+And again, you get the 20% discount
+
+01:39:16.370 --> 01:39:18.830
+on any supplements that Thorne makes.
+
+01:39:18.830 --> 01:39:21.710
+And last but not least,
+thank you for being with us.
+
+01:39:21.710 --> 01:39:22.860
+I hope you learned a lot.
+
+01:39:22.860 --> 01:39:25.420
+I hope you explore some of the tools
+
+01:39:25.420 --> 01:39:27.880
+and that the mechanistic
+information that you learned today
+
+01:39:27.880 --> 01:39:28.970
+will serve you well.
+
+01:39:28.970 --> 01:39:31.400
+If you know anyone that's
+interested in this topic
+
+01:39:31.400 --> 01:39:33.460
+or you think that someone
+could benefit from it,
+
+01:39:33.460 --> 01:39:35.610
+please suggest the
+podcast to them as well.
+
+01:39:35.610 --> 01:39:38.340
+And most of all, thank you
+for your interest in science.
+
+01:39:38.340 --> 01:39:40.923
+[upbeat music]
+
